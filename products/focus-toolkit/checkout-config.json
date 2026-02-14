@@ -1,0 +1,19 @@
+{
+  "provider": "gumroad",
+  "sku": "SS-014",
+  "product_slug": "focus-toolkit",
+  "price_inr": 599,
+  "price_usd_estimate": 7.22,
+  "currency": "INR",
+  "delivery": {
+    "method": "secure_link_and_email_receipt",
+    "email_unlock_for_freebies": false,
+    "post_purchase_email": true
+  },
+  "upsell_rule": {
+    "trigger": "cart_item_count >= 2",
+    "offer": "Deep Work System at 20% off",
+    "discount_percent": 20
+  },
+  "cta": "Buy now"
+}

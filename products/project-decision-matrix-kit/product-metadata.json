@@ -1,0 +1,66 @@
+{
+  "title": "Project Decision Matrix Kit",
+  "slug": "project-decision-matrix-kit",
+  "sku": "SS-015",
+  "price": {
+    "tier": "Low",
+    "inr": 899,
+    "usd_estimate": 10.83,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Systems",
+  "difficulty": "Intermediate",
+  "setup_time": "30 min setup",
+  "tags": [
+    "Decision Making",
+    "Prioritization",
+    "Systems",
+    "Google Sheets",
+    "Execution"
+  ],
+  "keywords": [
+    "project decision matrix",
+    "prioritization template",
+    "impact effort scoring sheet"
+  ],
+  "files": [
+    {
+      "name": "project-decision-matrix-kit-formula-comments.md",
+      "path": "deliverables/project-decision-matrix-kit-formula-comments.md",
+      "secure_download": "/downloads/project-decision-matrix-kit/project-decision-matrix-kit-formula-comments.md?token={signed_token}"
+    },
+    {
+      "name": "project-decision-matrix-kit-implementation-guide.md",
+      "path": "deliverables/project-decision-matrix-kit-implementation-guide.md",
+      "secure_download": "/downloads/project-decision-matrix-kit/project-decision-matrix-kit-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "project-decision-matrix-kit-quickstart-readme.txt",
+      "path": "deliverables/project-decision-matrix-kit-quickstart-readme.txt",
+      "secure_download": "/downloads/project-decision-matrix-kit/project-decision-matrix-kit-quickstart-readme.txt?token={signed_token}"
+    },
+    {
+      "name": "project-decision-matrix-kit-scoring-script.gs",
+      "path": "deliverables/project-decision-matrix-kit-scoring-script.gs",
+      "secure_download": "/downloads/project-decision-matrix-kit/project-decision-matrix-kit-scoring-script.gs?token={signed_token}"
+    },
+    {
+      "name": "project-decision-matrix-kit-template.csv",
+      "path": "deliverables/project-decision-matrix-kit-template.csv",
+      "secure_download": "/downloads/project-decision-matrix-kit/project-decision-matrix-kit-template.csv?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day replacement or refund for broken files or misconfigured templates.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

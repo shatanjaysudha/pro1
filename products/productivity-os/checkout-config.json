@@ -1,0 +1,19 @@
+{
+  "provider": "gumroad",
+  "sku": "SS-001",
+  "product_slug": "productivity-os",
+  "price_inr": 12999,
+  "price_usd_estimate": 156.61,
+  "currency": "INR",
+  "delivery": {
+    "method": "secure_link_and_email_receipt",
+    "email_unlock_for_freebies": false,
+    "post_purchase_email": true
+  },
+  "upsell_rule": {
+    "trigger": "cart_item_count >= 2",
+    "offer": "Productivity OS — Notion System at 20% off",
+    "discount_percent": 20
+  },
+  "cta": "Buy now"
+}

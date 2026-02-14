@@ -1,0 +1,5 @@
+Week,Owner,Project,Priority,Estimated_Hours,Actual_Hours,Impact_Score,Status,Notes
+2026-W07,Shatanjay,Content Sprint,High,8,0,9,Planned,Define weekly output
+2026-W07,Shatanjay,System Review,Medium,3,0,7,Planned,Audit bottlenecks
+2026-W07,Ops,Automation QA,High,5,0,8,In Progress,Validate triggers
+2026-W07,Finance,P&L Reconcile,High,4,0,9,Planned,Check anomaly rows

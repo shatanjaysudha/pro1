@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Project Decision Matrix Kit",
+  "description": "Project Decision Matrix Kit for Operators comparing many project requests with limited capacity.. Includes practical files, setup guide, and conversion-...",
+  "sku": "SS-015",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Systems",
+  "keywords": [
+    "project decision matrix",
+    "prioritization template",
+    "impact effort scoring sheet"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/project-decision-matrix-kit/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/project-decision-matrix-kit/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 899,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/project-decision-matrix-kit/"
+  }
+}

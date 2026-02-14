@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Google Workspace Power Prompts (50)",
+  "description": "Google Workspace Power Prompts (50) for Google Workspace users moving from ad-hoc AI use to systemized output.. Includes practical files, setup guide, a...",
+  "sku": "SS-013",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "AI",
+  "keywords": [
+    "google workspace prompts",
+    "gmail ai prompts",
+    "google docs ai workflows"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/google-workspace-power-prompts/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/google-workspace-power-prompts/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 799,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/google-workspace-power-prompts/"
+  }
+}

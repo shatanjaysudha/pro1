@@ -1,0 +1,19 @@
+{
+  "provider": "gumroad",
+  "sku": "SS-017",
+  "product_slug": "productivity-templates-mini-pack",
+  "price_inr": 499,
+  "price_usd_estimate": 6.01,
+  "currency": "INR",
+  "delivery": {
+    "method": "secure_link_and_email_receipt",
+    "email_unlock_for_freebies": false,
+    "post_purchase_email": true
+  },
+  "upsell_rule": {
+    "trigger": "cart_item_count >= 2",
+    "offer": "Productivity Templates Mini-Pack at 20% off",
+    "discount_percent": 20
+  },
+  "cta": "Buy now"
+}

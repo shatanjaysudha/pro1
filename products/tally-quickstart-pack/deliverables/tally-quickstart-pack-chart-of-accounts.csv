@@ -1,0 +1,8 @@
+Account_Code,Account_Name,Type,Parent
+1000,Cash in Bank,Asset,Current Assets
+1100,Accounts Receivable,Asset,Current Assets
+2000,Accounts Payable,Liability,Current Liabilities
+3000,Owner Equity,Equity,Equity
+4000,Revenue,Income,Income
+5000,COGS,Expense,Expenses
+5100,Operating Expense,Expense,Expenses

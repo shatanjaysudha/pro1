@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Inbox to Action Log",
+    "stack": [
+      "Gmail",
+      "Google Sheets",
+      "Zapier"
+    ],
+    "trigger": "Starred email",
+    "action": "Append task row with owner and due date"
+  },
+  {
+    "name": "Weekly KPI Snapshot",
+    "stack": [
+      "Google Sheets",
+      "Apps Script"
+    ],
+    "trigger": "Friday 6PM",
+    "action": "Export dashboard PDF and email summary"
+  },
+  {
+    "name": "Client Follow-up Loop",
+    "stack": [
+      "Make",
+      "Gmail",
+      "Calendar"
+    ],
+    "trigger": "Proposal sent",
+    "action": "Create follow-up reminders and draft check-in"
+  }
+]

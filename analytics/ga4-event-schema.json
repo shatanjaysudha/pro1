@@ -1,0 +1,149 @@
+{
+  "events": [
+    {
+      "name": "product_view",
+      "params": ["sku", "slug", "category", "price_inr", "price_tier"],
+      "trigger": "page_view on product pages"
+    },
+    {
+      "name": "add_to_cart",
+      "params": ["sku", "slug", "price_inr", "currency"],
+      "trigger": "click on product CTA"
+    },
+    {
+      "name": "purchase",
+      "params": ["sku", "order_id", "value", "currency", "coupon"],
+      "trigger": "checkout success"
+    },
+    {
+      "name": "download_complete",
+      "params": ["sku", "file_name", "delivery_channel"],
+      "trigger": "secure link served"
+    },
+    {
+      "name": "hub_open",
+      "params": ["source", "hub_page"],
+      "trigger": "intellectual hub navigation"
+    },
+    {
+      "name": "resource_view",
+      "params": ["source", "resource_page"],
+      "trigger": "resource hub navigation"
+    },
+    {
+      "name": "download_click",
+      "params": ["resource_id", "source"],
+      "trigger": "resource get/open modal click"
+    },
+    {
+      "name": "bundle_add",
+      "params": ["resource_id", "collection_id", "source", "count"],
+      "trigger": "resource or collection added to bundle"
+    },
+    {
+      "name": "membership_view",
+      "params": ["source", "page_id"],
+      "trigger": "membership page viewed or opened"
+    },
+    {
+      "name": "booking_initiate",
+      "params": ["source", "page_id", "organization"],
+      "trigger": "workshop/consulting booking action"
+    },
+    {
+      "name": "article_open",
+      "params": ["source", "post_id", "title", "category"],
+      "trigger": "split-view article opened"
+    },
+    {
+      "name": "article_view",
+      "params": ["source", "post_id", "title", "category"],
+      "trigger": "article view render"
+    },
+    {
+      "name": "scroll_depth",
+      "params": ["source", "post_id", "milestone"],
+      "trigger": "reader reaches 25/50/75/100%"
+    },
+    {
+      "name": "article_engagement_time",
+      "params": ["source", "post_id", "milestone_seconds", "total_seconds"],
+      "trigger": "reader reaches engagement-time milestones"
+    },
+    {
+      "name": "interactive_cta_click",
+      "params": ["cta_id", "destination", "source"],
+      "trigger": "dynamic CTA click"
+    },
+    {
+      "name": "inline_ai_helper_open",
+      "params": ["source", "post_id"],
+      "trigger": "inline helper open"
+    },
+    {
+      "name": "inline_ai_helper_ask",
+      "params": ["source", "post_id", "prompt_length"],
+      "trigger": "inline helper question submit"
+    },
+    {
+      "name": "article_quiz_submit",
+      "params": ["quiz_id", "source", "post_id", "correct"],
+      "trigger": "article quiz answer"
+    },
+    {
+      "name": "article_quiz_share",
+      "params": ["score"],
+      "trigger": "quiz share action"
+    },
+    {
+      "name": "daily_prompt_use",
+      "params": ["challenge_id"],
+      "trigger": "daily prompt launched"
+    },
+    {
+      "name": "daily_prompt_complete",
+      "params": ["challenge_id"],
+      "trigger": "daily challenge marked complete"
+    },
+    {
+      "name": "micro_insight_use",
+      "params": ["insight_id"],
+      "trigger": "short-form insight action"
+    },
+    {
+      "name": "timeline_step_open",
+      "params": ["timeline_id", "page_id"],
+      "trigger": "interactive timeline step opened"
+    },
+    {
+      "name": "badge_unlocked",
+      "params": ["badge_id", "badge_title", "trigger"],
+      "trigger": "badge unlock transition"
+    },
+    {
+      "name": "save_celebration",
+      "params": ["context"],
+      "trigger": "save/bookmark celebration shown"
+    },
+    {
+      "name": "weekly_summary_view",
+      "params": ["identity", "reads", "consistency", "trend"],
+      "trigger": "dashboard weekly summary viewed (once/day)"
+    },
+    {
+      "name": "weekly_summary_copy",
+      "params": ["identity", "reads", "consistency"],
+      "trigger": "weekly summary copied"
+    },
+    {
+      "name": "weekly_summary_optin",
+      "params": ["source", "identity", "reads", "consistency"],
+      "trigger": "weekly summary email submit"
+    },
+    {
+      "name": "theme_change",
+      "params": ["theme_choice", "page"],
+      "trigger": "theme switcher selection"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Google Sheets Advanced Functions Series",
+  "slug": "google-sheets-advanced-functions-series",
+  "sku": "SS-020",
+  "price": {
+    "tier": "Mid",
+    "inr": 3999,
+    "usd_estimate": 48.18,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Google Sheets",
+  "difficulty": "Intermediate",
+  "setup_time": "150 min setup",
+  "tags": [
+    "Google Sheets",
+    "Functions",
+    "Tutorial",
+    "Automation",
+    "Data"
+  ],
+  "keywords": [
+    "advanced google sheets course",
+    "google sheets functions tutorial",
+    "sheets formulas training"
+  ],
+  "files": [
+    {
+      "name": "google-sheets-advanced-functions-series-download-examples.csv",
+      "path": "deliverables/google-sheets-advanced-functions-series-download-examples.csv",
+      "secure_download": "/downloads/google-sheets-advanced-functions-series/google-sheets-advanced-functions-series-download-examples.csv?token={signed_token}"
+    },
+    {
+      "name": "google-sheets-advanced-functions-series-implementation-guide.md",
+      "path": "deliverables/google-sheets-advanced-functions-series-implementation-guide.md",
+      "secure_download": "/downloads/google-sheets-advanced-functions-series/google-sheets-advanced-functions-series-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "google-sheets-advanced-functions-series-lesson-outline.md",
+      "path": "deliverables/google-sheets-advanced-functions-series-lesson-outline.md",
+      "secure_download": "/downloads/google-sheets-advanced-functions-series/google-sheets-advanced-functions-series-lesson-outline.md?token={signed_token}"
+    },
+    {
+      "name": "google-sheets-advanced-functions-series-quickstart-readme.txt",
+      "path": "deliverables/google-sheets-advanced-functions-series-quickstart-readme.txt",
+      "secure_download": "/downloads/google-sheets-advanced-functions-series/google-sheets-advanced-functions-series-quickstart-readme.txt?token={signed_token}"
+    },
+    {
+      "name": "google-sheets-advanced-functions-series-sample-lesson.md",
+      "path": "deliverables/google-sheets-advanced-functions-series-sample-lesson.md",
+      "secure_download": "/downloads/google-sheets-advanced-functions-series/google-sheets-advanced-functions-series-sample-lesson.md?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

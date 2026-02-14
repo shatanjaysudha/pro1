@@ -1,0 +1,14 @@
+{
+  "article_view": ["source", "post_id", "title", "category"],
+  "article_open": ["source", "post_id", "title", "category"],
+  "scroll_depth": ["source", "post_id", "milestone"],
+  "article_engagement_time": ["source", "post_id", "milestone_seconds", "total_seconds"],
+  "toc_pin_clicked": ["source", "post_id", "section_id", "section_label"],
+  "section_scroll_complete": ["source", "post_id", "section_id"],
+  "related_card_clicked": ["source", "post_id", "target_source", "target_post_id"],
+  "ai_next_step_shown": ["source", "post_id"],
+  "inline_ai_helper_open": ["source", "post_id"],
+  "inline_ai_helper_ask": ["source", "post_id", "prompt_length"],
+  "article_quiz_submit": ["quiz_id", "source", "post_id", "correct"],
+  "article_reaction": ["source", "post_id", "reaction", "active"]
+}

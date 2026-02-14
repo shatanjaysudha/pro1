@@ -1,0 +1,61 @@
+{
+  "title": "Resource Library Access (Membership)",
+  "slug": "resource-library-membership",
+  "sku": "SS-024",
+  "price": {
+    "tier": "Premium",
+    "inr": 9999,
+    "usd_estimate": 120.47,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Membership",
+  "difficulty": "Beginner",
+  "setup_time": "10 min setup",
+  "tags": [
+    "Membership",
+    "Templates",
+    "Library",
+    "Productivity",
+    "AI"
+  ],
+  "keywords": [
+    "template membership",
+    "resource library access",
+    "all templates bundle"
+  ],
+  "files": [
+    {
+      "name": "resource-library-membership-implementation-guide.md",
+      "path": "deliverables/resource-library-membership-implementation-guide.md",
+      "secure_download": "/downloads/resource-library-membership/resource-library-membership-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "resource-library-membership-library-catalog.csv",
+      "path": "deliverables/resource-library-membership-library-catalog.csv",
+      "secure_download": "/downloads/resource-library-membership/resource-library-membership-library-catalog.csv?token={signed_token}"
+    },
+    {
+      "name": "resource-library-membership-member-onboarding.md",
+      "path": "deliverables/resource-library-membership-member-onboarding.md",
+      "secure_download": "/downloads/resource-library-membership/resource-library-membership-member-onboarding.md?token={signed_token}"
+    },
+    {
+      "name": "resource-library-membership-quickstart-readme.txt",
+      "path": "deliverables/resource-library-membership-quickstart-readme.txt",
+      "secure_download": "/downloads/resource-library-membership/resource-library-membership-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "14-day implementation guarantee. If you complete the checklist and see no measurable improvement, request a full refund within 14 days.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

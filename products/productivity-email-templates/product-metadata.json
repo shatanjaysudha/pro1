@@ -1,0 +1,56 @@
+{
+  "title": "Email Templates for Productivity (50)",
+  "slug": "productivity-email-templates",
+  "sku": "SS-009",
+  "price": {
+    "tier": "Low",
+    "inr": 699,
+    "usd_estimate": 8.42,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Productivity",
+  "difficulty": "Beginner",
+  "setup_time": "10 min setup",
+  "tags": [
+    "Email",
+    "Productivity",
+    "Communication",
+    "Templates",
+    "Execution"
+  ],
+  "keywords": [
+    "productivity email templates",
+    "work email templates",
+    "professional email scripts"
+  ],
+  "files": [
+    {
+      "name": "productivity-email-templates-email-templates.md",
+      "path": "deliverables/productivity-email-templates-email-templates.md",
+      "secure_download": "/downloads/productivity-email-templates/productivity-email-templates-email-templates.md?token={signed_token}"
+    },
+    {
+      "name": "productivity-email-templates-implementation-guide.md",
+      "path": "deliverables/productivity-email-templates-implementation-guide.md",
+      "secure_download": "/downloads/productivity-email-templates/productivity-email-templates-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "productivity-email-templates-quickstart-readme.txt",
+      "path": "deliverables/productivity-email-templates-quickstart-readme.txt",
+      "secure_download": "/downloads/productivity-email-templates/productivity-email-templates-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day replacement or refund for broken files or misconfigured templates.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

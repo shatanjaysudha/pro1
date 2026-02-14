@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Weekly Planning Dashboard",
+  "description": "Weekly Planning Dashboard for Professionals who prefer spreadsheet-first planning.. Includes practical files, setup guide, and conversion-ready workflow...",
+  "sku": "SS-003",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Google Sheets",
+  "keywords": [
+    "weekly planning spreadsheet",
+    "time blocking sheet",
+    "google sheets planner"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/weekly-planning-dashboard/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/weekly-planning-dashboard/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 899,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/weekly-planning-dashboard/"
+  }
+}

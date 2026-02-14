@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Workshop Recording: Design Your System",
+  "description": "Workshop Recording: Design Your System for Professionals wanting a guided workshop implementation path.. Includes practical files, setup guide, and conv...",
+  "sku": "SS-018",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Workshop",
+  "keywords": [
+    "productivity workshop recording",
+    "design your system workshop",
+    "execution systems training"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/design-your-system-workshop-recording/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/design-your-system-workshop-recording/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 5499,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/design-your-system-workshop-recording/"
+  }
+}

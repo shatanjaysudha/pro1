@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "System Audit Service Workbook",
+  "description": "System Audit Service Workbook for Founders and operators diagnosing execution bottlenecks.. Includes practical files, setup guide, and conversion-ready...",
+  "sku": "SS-010",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Systems",
+  "keywords": [
+    "productivity audit workbook",
+    "system audit template",
+    "operations self assessment"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/system-audit-workbook/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/system-audit-workbook/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/system-audit-workbook/"
+  }
+}

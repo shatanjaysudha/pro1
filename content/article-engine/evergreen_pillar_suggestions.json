@@ -1,0 +1,162 @@
+[
+  {
+    "title": "From AI Meeting Notes to Action Items: End-to-End Workflow",
+    "slug": "from-ai-meeting-notes-to-action-items-end-to-end-workflow",
+    "category": "AI",
+    "keyword": "ai meeting notes workflow",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "AI Research Workflow Without Hallucinations",
+    "slug": "ai-research-workflow-without-hallucinations",
+    "category": "AI",
+    "keyword": "ai research workflow",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Multi-Agent Workflows with No-Code Tools",
+    "slug": "multi-agent-workflows-with-no-code-tools",
+    "category": "AI",
+    "keyword": "multi agent workflow no code",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "AI Security and Privacy Checklist for Daily Workflows",
+    "slug": "ai-security-and-privacy-checklist-for-daily-workflows",
+    "category": "AI",
+    "keyword": "ai security checklist",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "The Weekly Planning System That Actually Holds Up",
+    "slug": "the-weekly-planning-system-that-actually-holds-up",
+    "category": "Productivity",
+    "keyword": "weekly planning system",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "The 3-Layer Productivity System for Busy Professionals",
+    "slug": "the-3-layer-productivity-system-for-busy-professionals",
+    "category": "Productivity",
+    "keyword": "three layer productivity system",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Build Your Personal Operating System in 60 Minutes",
+    "slug": "build-your-personal-operating-system-in-60-minutes",
+    "category": "Productivity",
+    "keyword": "personal operating system productivity",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Email Triage System for Faster Response Without Burnout",
+    "slug": "email-triage-system-for-faster-response-without-burnout",
+    "category": "Productivity",
+    "keyword": "email triage system",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Meeting-Lite System: Cut Meetings by 30%",
+    "slug": "meeting-lite-system-cut-meetings-by-30",
+    "category": "Productivity",
+    "keyword": "reduce meetings strategy",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Delegation Framework for Individual Contributors",
+    "slug": "delegation-framework-for-individual-contributors",
+    "category": "Productivity",
+    "keyword": "delegation framework for ic",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Build an Executive KPI Dashboard in Google Sheets",
+    "slug": "build-an-executive-kpi-dashboard-in-google-sheets",
+    "category": "Google Sheets",
+    "keyword": "google sheets kpi dashboard",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Error-Proof Spreadsheet Design System",
+    "slug": "error-proof-spreadsheet-design-system",
+    "category": "Google Sheets",
+    "keyword": "spreadsheet best practices",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Career Capital Framework for 2026",
+    "slug": "career-capital-framework-for-2026",
+    "category": "Career Growth",
+    "keyword": "career capital framework",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Promotion Packet System: Prepare Before Review Season",
+    "slug": "promotion-packet-system-prepare-before-review-season",
+    "category": "Career Growth",
+    "keyword": "promotion packet template",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "AI-Assisted Job Search Workflow",
+    "slug": "ai-assisted-job-search-workflow",
+    "category": "Job Search",
+    "keyword": "ai job search workflow",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Job Search Dashboard: Track Pipeline and Conversion",
+    "slug": "job-search-dashboard-track-pipeline-and-conversion",
+    "category": "Job Search",
+    "keyword": "job search dashboard",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Systems Thinking for Personal Productivity",
+    "slug": "systems-thinking-for-personal-productivity",
+    "category": "Systems & Frameworks",
+    "keyword": "systems thinking productivity",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Bottleneck Analysis Framework for Knowledge Work",
+    "slug": "bottleneck-analysis-framework-for-knowledge-work",
+    "category": "Systems & Frameworks",
+    "keyword": "bottleneck analysis knowledge work",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "SOP System for Solo Operators",
+    "slug": "sop-system-for-solo-operators",
+    "category": "Systems & Frameworks",
+    "keyword": "sop system for solopreneurs",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  },
+  {
+    "title": "Decision Journal Framework to Reduce Regret",
+    "slug": "decision-journal-framework-to-reduce-regret",
+    "category": "Systems & Frameworks",
+    "keyword": "decision journal template",
+    "content_role": "pillar",
+    "update_frequency": "quarterly"
+  }
+]

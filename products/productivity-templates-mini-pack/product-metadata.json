@@ -1,0 +1,56 @@
+{
+  "title": "Productivity Templates Mini-Pack",
+  "slug": "productivity-templates-mini-pack",
+  "sku": "SS-017",
+  "price": {
+    "tier": "Low",
+    "inr": 499,
+    "usd_estimate": 6.01,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Productivity",
+  "difficulty": "Beginner",
+  "setup_time": "8 min setup",
+  "tags": [
+    "Productivity",
+    "Templates",
+    "Planning",
+    "Review",
+    "Execution"
+  ],
+  "keywords": [
+    "productivity template bundle",
+    "low cost productivity templates",
+    "weekly review template"
+  ],
+  "files": [
+    {
+      "name": "productivity-templates-mini-pack-implementation-guide.md",
+      "path": "deliverables/productivity-templates-mini-pack-implementation-guide.md",
+      "secure_download": "/downloads/productivity-templates-mini-pack/productivity-templates-mini-pack-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "productivity-templates-mini-pack-mini-pack.md",
+      "path": "deliverables/productivity-templates-mini-pack-mini-pack.md",
+      "secure_download": "/downloads/productivity-templates-mini-pack/productivity-templates-mini-pack-mini-pack.md?token={signed_token}"
+    },
+    {
+      "name": "productivity-templates-mini-pack-quickstart-readme.txt",
+      "path": "deliverables/productivity-templates-mini-pack-quickstart-readme.txt",
+      "secure_download": "/downloads/productivity-templates-mini-pack/productivity-templates-mini-pack-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day replacement or refund for broken files or misconfigured templates.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

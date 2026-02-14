@@ -1,0 +1,61 @@
+{
+  "title": "Public Roadmap / Planner Pack",
+  "slug": "roadmap-planner-pack",
+  "sku": "SS-023",
+  "price": {
+    "tier": "Low",
+    "inr": 999,
+    "usd_estimate": 12.04,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Systems",
+  "difficulty": "Beginner",
+  "setup_time": "20 min setup",
+  "tags": [
+    "Roadmap",
+    "Planning",
+    "Quarterly",
+    "Systems",
+    "Execution"
+  ],
+  "keywords": [
+    "yearly planner template",
+    "quarterly planning pack",
+    "public roadmap template"
+  ],
+  "files": [
+    {
+      "name": "roadmap-planner-pack-formula-comments.md",
+      "path": "deliverables/roadmap-planner-pack-formula-comments.md",
+      "secure_download": "/downloads/roadmap-planner-pack/roadmap-planner-pack-formula-comments.md?token={signed_token}"
+    },
+    {
+      "name": "roadmap-planner-pack-implementation-guide.md",
+      "path": "deliverables/roadmap-planner-pack-implementation-guide.md",
+      "secure_download": "/downloads/roadmap-planner-pack/roadmap-planner-pack-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "roadmap-planner-pack-quickstart-readme.txt",
+      "path": "deliverables/roadmap-planner-pack-quickstart-readme.txt",
+      "secure_download": "/downloads/roadmap-planner-pack/roadmap-planner-pack-quickstart-readme.txt?token={signed_token}"
+    },
+    {
+      "name": "roadmap-planner-pack-template.csv",
+      "path": "deliverables/roadmap-planner-pack-template.csv",
+      "secure_download": "/downloads/roadmap-planner-pack/roadmap-planner-pack-template.csv?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day replacement or refund for broken files or misconfigured templates.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

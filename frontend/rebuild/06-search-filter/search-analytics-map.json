@@ -1,0 +1,8 @@
+{
+  "search_open": ["source"],
+  "search_query": ["query", "query_length", "result_count", "source"],
+  "search_select": ["query", "query_length", "result_type", "result_key", "destination"],
+  "resources_autocomplete_select": ["selected", "resource_id", "source"],
+  "hub_ai_assistant_use": ["hub_id", "query", "query_length", "source"],
+  "hub_ai_suggestion_open": ["hub_page", "query", "label"]
+}

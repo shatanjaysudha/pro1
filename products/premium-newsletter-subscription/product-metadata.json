@@ -1,0 +1,61 @@
+{
+  "title": "Monthly Premium Newsletter Subscription",
+  "slug": "premium-newsletter-subscription",
+  "sku": "SS-019",
+  "price": {
+    "tier": "Mid",
+    "inr": 999,
+    "usd_estimate": 12.04,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Newsletter",
+  "difficulty": "Beginner",
+  "setup_time": "5 min setup",
+  "tags": [
+    "Newsletter",
+    "Templates",
+    "Productivity",
+    "AI",
+    "Systems"
+  ],
+  "keywords": [
+    "premium productivity newsletter",
+    "monthly ai newsletter",
+    "template drop subscription"
+  ],
+  "files": [
+    {
+      "name": "premium-newsletter-subscription-drop-calendar.csv",
+      "path": "deliverables/premium-newsletter-subscription-drop-calendar.csv",
+      "secure_download": "/downloads/premium-newsletter-subscription/premium-newsletter-subscription-drop-calendar.csv?token={signed_token}"
+    },
+    {
+      "name": "premium-newsletter-subscription-implementation-guide.md",
+      "path": "deliverables/premium-newsletter-subscription-implementation-guide.md",
+      "secure_download": "/downloads/premium-newsletter-subscription/premium-newsletter-subscription-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "premium-newsletter-subscription-issue-template.md",
+      "path": "deliverables/premium-newsletter-subscription-issue-template.md",
+      "secure_download": "/downloads/premium-newsletter-subscription/premium-newsletter-subscription-issue-template.md?token={signed_token}"
+    },
+    {
+      "name": "premium-newsletter-subscription-quickstart-readme.txt",
+      "path": "deliverables/premium-newsletter-subscription-quickstart-readme.txt",
+      "secure_download": "/downloads/premium-newsletter-subscription/premium-newsletter-subscription-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

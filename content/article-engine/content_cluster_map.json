@@ -1,0 +1,188 @@
+{
+  "generated_on": "2026-02-14",
+  "domain": "https://shatanjaysudha.com",
+  "cluster_count": 8,
+  "clusters": [
+    {
+      "cluster": "AI",
+      "pillar_slug": "ai-agents-for-weekly-planning-build-a-personal-chief-of-staff",
+      "supporting_slugs": [
+        "chatgpt-vs-claude-vs-gemini-for-knowledge-work-in-2026",
+        "prompt-engineering-for-managers-7-reliable-templates",
+        "from-ai-meeting-notes-to-action-items-end-to-end-workflow",
+        "ai-research-workflow-without-hallucinations",
+        "build-an-ai-email-assistant-for-gmail-and-outlook",
+        "build-a-personal-knowledge-bot-from-your-notes",
+        "ai-sop-generator-for-small-teams",
+        "human-in-the-loop-qa-for-ai-content",
+        "ai-automation-stack-for-solopreneurs",
+        "ai-tool-cost-optimization-spend-less-output-more",
+        "use-ai-for-career-strategy-and-skill-gap-analysis",
+        "multi-agent-workflows-with-no-code-tools",
+        "ai-security-and-privacy-checklist-for-daily-workflows"
+      ],
+      "bridge_clusters": [
+        "Productivity",
+        "Career Growth",
+        "Job Search",
+        "Google Sheets"
+      ]
+    },
+    {
+      "cluster": "Productivity",
+      "pillar_slug": "the-weekly-planning-system-that-actually-holds-up",
+      "supporting_slugs": [
+        "time-blocking-vs-task-batching-what-works-better",
+        "the-3-layer-productivity-system-for-busy-professionals",
+        "8020-planning-find-your-high-leverage-tasks-fast",
+        "morning-vs-evening-planning-ritual-which-should-you-use",
+        "how-to-stop-context-switching-at-work",
+        "build-a-productivity-scorecard-output-over-activity",
+        "build-your-personal-operating-system-in-60-minutes",
+        "email-triage-system-for-faster-response-without-burnout",
+        "meeting-lite-system-cut-meetings-by-30",
+        "execution-playbook-for-side-projects-after-work",
+        "productivity-habits-that-survive-busy-weeks",
+        "delegation-framework-for-individual-contributors",
+        "calendar-architecture-for-focus-and-buffer-time"
+      ],
+      "bridge_clusters": [
+        "AI",
+        "Deep Work & Focus",
+        "Systems & Frameworks"
+      ]
+    },
+    {
+      "cluster": "Google Sheets",
+      "pillar_slug": "ai-function-in-google-sheets-practical-use-cases-for-operators",
+      "supporting_slugs": [
+        "xlookup-vs-index-match-in-2026-which-should-you-use",
+        "query-function-guide-with-real-business-examples",
+        "build-an-executive-kpi-dashboard-in-google-sheets",
+        "google-sheets-automation-with-apps-script-for-beginners",
+        "error-proof-spreadsheet-design-system",
+        "budget-tracker-with-dynamic-categories-and-forecasting",
+        "sales-pipeline-tracker-template-in-google-sheets",
+        "project-management-board-in-google-sheets",
+        "multi-table-analysis-with-gemini-in-sheets",
+        "data-cleaning-in-sheets-split-regex-and-validation",
+        "google-sheets-vs-airtable-for-ops-tracking"
+      ],
+      "bridge_clusters": [
+        "AI",
+        "Productivity",
+        "Tools & Apps"
+      ]
+    },
+    {
+      "cluster": "Career Growth",
+      "pillar_slug": "career-capital-framework-for-2026",
+      "supporting_slugs": [
+        "build-a-skill-stack-that-compounds-over-time",
+        "promotion-packet-system-prepare-before-review-season",
+        "strategic-visibility-without-self-promotion",
+        "manager-to-leader-transition-playbook",
+        "build-a-career-portfolio-website-in-7-days",
+        "influence-at-work-for-early-career-professionals",
+        "the-90-day-career-acceleration-plan",
+        "career-decision-matrix-for-role-offers",
+        "personal-brand-for-operators-not-influencers",
+        "revenue-linked-work-prove-your-impact-faster",
+        "cross-functional-collaboration-for-faster-career-growth"
+      ],
+      "bridge_clusters": [
+        "Job Search",
+        "AI",
+        "Productivity"
+      ]
+    },
+    {
+      "cluster": "Job Search",
+      "pillar_slug": "ats-resume-optimization-for-2026",
+      "supporting_slugs": [
+        "linkedin-headline-and-about-section-formula",
+        "build-a-job-search-crm-in-google-sheets",
+        "networking-messages-that-actually-get-replies",
+        "interview-story-bank-using-star",
+        "ai-assisted-job-search-workflow",
+        "salary-negotiation-script-for-new-offers",
+        "how-many-applications-per-week-actually-works",
+        "portfolio-projects-that-get-interviews",
+        "recruiter-screening-call-preparation-checklist",
+        "follow-up-email-templates-after-interviews",
+        "job-search-dashboard-track-pipeline-and-conversion"
+      ],
+      "bridge_clusters": [
+        "Career Growth",
+        "AI",
+        "Tools & Apps"
+      ]
+    },
+    {
+      "cluster": "Systems & Frameworks",
+      "pillar_slug": "systems-thinking-for-personal-productivity",
+      "supporting_slugs": [
+        "use-the-ooda-loop-for-career-and-business-decisions",
+        "bottleneck-analysis-framework-for-knowledge-work",
+        "feedback-loop-design-for-learning-faster",
+        "sop-system-for-solo-operators",
+        "decision-journal-framework-to-reduce-regret",
+        "beyond-eisenhower-a-better-2x2-priority-matrix",
+        "define-a-north-star-metric-for-personal-projects",
+        "second-order-thinking-for-weekly-planning",
+        "constraint-mapping-for-project-execution",
+        "antifragile-workflow-design-in-uncertain-environments",
+        "weekly-retrospective-framework-for-continuous-improvement"
+      ],
+      "bridge_clusters": [
+        "Productivity",
+        "Deep Work & Focus",
+        "AI"
+      ]
+    },
+    {
+      "cluster": "Tools & Apps",
+      "pillar_slug": "notion-vs-obsidian-vs-apple-notes-for-knowledge-management",
+      "supporting_slugs": [
+        "todoist-vs-things-3-vs-ticktick-2026-comparison",
+        "best-ai-note-taking-apps-for-meetings-in-2026",
+        "best-calendar-apps-for-deep-work-scheduling",
+        "zapier-vs-make-vs-n8n-for-automation-workflows",
+        "loom-vs-screen-studio-vs-tella-for-async-communication",
+        "raycast-vs-alfred-power-user-setup-guide",
+        "readwise-reader-vs-instapaper-read-it-later-workflow",
+        "1password-vs-bitwarden-for-teams",
+        "clickup-vs-asana-vs-monday-for-small-teams",
+        "tally-vs-typeform-vs-google-forms-which-one-to-pick",
+        "grammarly-vs-languagetool-vs-ai-editors"
+      ],
+      "bridge_clusters": [
+        "Productivity",
+        "Google Sheets",
+        "AI"
+      ]
+    },
+    {
+      "cluster": "Deep Work & Focus",
+      "pillar_slug": "deep-work-blocks-for-distracted-professionals",
+      "supporting_slugs": [
+        "the-90-minute-focus-sprint-protocol",
+        "build-a-distraction-free-workstation",
+        "focus-music-vs-silence-what-actually-works",
+        "phone-free-morning-system-for-knowledge-workers",
+        "attention-residue-recovery-between-tasks",
+        "weekly-deep-work-plan-for-managers",
+        "deep-work-with-kids-or-shared-spaces",
+        "focus-metrics-measure-quality-not-hours",
+        "burnout-proof-focus-system",
+        "dopamine-friendly-workday-design",
+        "the-noon-reset-routine-to-recover-focus"
+      ],
+      "bridge_clusters": [
+        "Productivity",
+        "Systems & Frameworks",
+        "Career Growth"
+      ]
+    }
+  ]
+}

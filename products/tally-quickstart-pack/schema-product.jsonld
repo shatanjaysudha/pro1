@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Tally QuickStart Pack",
+  "description": "Tally QuickStart Pack for Small business teams running Tally with limited accounting bandwidth.. Includes practical files, setup guide, and conversion-r...",
+  "sku": "SS-007",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Tally",
+  "keywords": [
+    "tally setup guide",
+    "tally quickstart",
+    "small business accounting systems"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/tally-quickstart-pack/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/tally-quickstart-pack/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 2999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/tally-quickstart-pack/"
+  }
+}

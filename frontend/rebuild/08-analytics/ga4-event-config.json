@@ -1,0 +1,32 @@
+{
+  "event_definitions": [
+    {
+      "name": "search_query",
+      "params": ["query", "query_length", "result_count", "source"]
+    },
+    {
+      "name": "search_select",
+      "params": ["query", "query_length", "result_type", "result_key", "destination"]
+    },
+    {
+      "name": "resources_autocomplete_select",
+      "params": ["selected", "resource_id", "source"]
+    },
+    {
+      "name": "hub_ai_assistant_use",
+      "params": ["hub_id", "query", "query_length", "source"]
+    },
+    {
+      "name": "hub_ai_suggestion_open",
+      "params": ["hub_page", "query", "label"]
+    }
+  ],
+  "gtm_notes": {
+    "transport": "dataLayer push",
+    "recommended_triggers": [
+      "click",
+      "custom event",
+      "history change"
+    ]
+  }
+}

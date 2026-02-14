@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Google Sheets Profit & Loss Dashboard",
+  "description": "Google Sheets Profit & Loss Dashboard for Owners and operators tracking profitability without finance complexity.. Includes practical files, setup guide...",
+  "sku": "SS-005",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Google Sheets",
+  "keywords": [
+    "profit and loss template",
+    "google sheets finance dashboard",
+    "small business pnl sheet"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/google-sheets-profit-loss-dashboard/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/google-sheets-profit-loss-dashboard/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 2499,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/google-sheets-profit-loss-dashboard/"
+  }
+}

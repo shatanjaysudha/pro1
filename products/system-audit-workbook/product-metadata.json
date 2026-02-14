@@ -1,0 +1,61 @@
+{
+  "title": "System Audit Service Workbook",
+  "slug": "system-audit-workbook",
+  "sku": "SS-010",
+  "price": {
+    "tier": "Low",
+    "inr": 999,
+    "usd_estimate": 12.04,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Systems",
+  "difficulty": "Intermediate",
+  "setup_time": "25 min setup",
+  "tags": [
+    "Systems",
+    "Audit",
+    "Consulting",
+    "Assessment",
+    "Operations"
+  ],
+  "keywords": [
+    "productivity audit workbook",
+    "system audit template",
+    "operations self assessment"
+  ],
+  "files": [
+    {
+      "name": "system-audit-workbook-audit-workbook.md",
+      "path": "deliverables/system-audit-workbook-audit-workbook.md",
+      "secure_download": "/downloads/system-audit-workbook/system-audit-workbook-audit-workbook.md?token={signed_token}"
+    },
+    {
+      "name": "system-audit-workbook-implementation-guide.md",
+      "path": "deliverables/system-audit-workbook-implementation-guide.md",
+      "secure_download": "/downloads/system-audit-workbook/system-audit-workbook-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "system-audit-workbook-intake-form.md",
+      "path": "deliverables/system-audit-workbook-intake-form.md",
+      "secure_download": "/downloads/system-audit-workbook/system-audit-workbook-intake-form.md?token={signed_token}"
+    },
+    {
+      "name": "system-audit-workbook-quickstart-readme.txt",
+      "path": "deliverables/system-audit-workbook-quickstart-readme.txt",
+      "secure_download": "/downloads/system-audit-workbook/system-audit-workbook-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day replacement or refund for broken files or misconfigured templates.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

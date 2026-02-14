@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Shatanjay Sudha — Newsletter</title>
+    <link>https://shatanjaysudha.com/#page=newsletter</link>
+    <description>Weekly actionable Google Workspace tips.</description>
+    <item>
+      <title>Google Sheets: The Formula Fix That Updates Itself</title>
+      <link>https://shatanjaysudha.com/#page=newsletter&amp;post=nl-sheet-fix</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+      <guid>nl-sheet-fix</guid>
+      <description>Build formulas that survive structure changes without constant repair.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+{
+  "version": "2026-02-14",
+  "layout": "flat",
+  "order": [
+    "home",
+    "newsletter",
+    "hiring",
+    "prompts",
+    "courses-toolkits",
+    "workspace-academy",
+    "ai",
+    "productivity",
+    "job-search",
+    "career",
+    "intellectual-hub",
+    "resources-hub",
+    "platform-hub"
+  ],
+  "items": [
+    {
+      "id": "home",
+      "label": "Home",
+      "icon": "home",
+      "route": "#page=home"
+    },
+    {
+      "id": "newsletter",
+      "label": "Newsletter",
+      "icon": "newspaper",
+      "route": "#page=newsletter"
+    },
+    {
+      "id": "hiring",
+      "label": "I Am Hiring",
+      "icon": "briefcase-business",
+      "route": "#page=hiring"
+    },
+    {
+      "id": "prompts",
+      "label": "Essential Power Prompts",
+      "icon": "sparkles",
+      "route": "#page=prompts"
+    },
+    {
+      "id": "courses-toolkits",
+      "label": "Courses",
+      "icon": "graduation-cap",
+      "route": "#page=courses-toolkits"
+    },
+    {
+      "id": "workspace-academy",
+      "label": "Workspace Academy",
+      "icon": "building-2",
+      "route": "#page=workspace-academy"
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "icon": "bot",
+      "route": "#page=ai"
+    },
+    {
+      "id": "productivity",
+      "label": "Productivity",
+      "icon": "briefcase",
+      "route": "#page=productivity"
+    },
+    {
+      "id": "job-search",
+      "label": "Job Search",
+      "icon": "search",
+      "route": "#page=job-search"
+    },
+    {
+      "id": "career",
+      "label": "Career",
+      "icon": "trending-up",
+      "route": "#page=career"
+    },
+    {
+      "id": "intellectual-hub",
+      "label": "Intellectual Hub",
+      "icon": "brain",
+      "route": "#page=intellectual-hub",
+      "section": "Pages"
+    },
+    {
+      "id": "resources-hub",
+      "label": "Resources",
+      "icon": "library",
+      "route": "#page=resources-hub",
+      "section": "Pages"
+    },
+    {
+      "id": "platform-hub",
+      "label": "Platform",
+      "icon": "layout-grid",
+      "route": "#page=platform-hub",
+      "section": "Pages"
+    }
+  ],
+  "theme_switcher": [
+    "light",
+    "dark",
+    "auto"
+  ]
+}

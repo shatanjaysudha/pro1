@@ -1,0 +1,37 @@
+{
+  "organization": {
+    "@type": "Organization",
+    "name": "Shatanjay Sudha",
+    "url": "https://shatanjaysudha.com"
+  },
+  "website": {
+    "@type": "WebSite",
+    "name": "Shatanjay Sudha",
+    "url": "https://shatanjaysudha.com",
+    "potentialAction": "SearchAction"
+  },
+  "article": {
+    "@type": "Article",
+    "fields": [
+      "headline",
+      "datePublished",
+      "dateModified",
+      "author",
+      "publisher",
+      "articleSection",
+      "keywords",
+      "description",
+      "wordCount",
+      "image"
+    ]
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "fields": ["position", "name", "item"]
+  },
+  "resource_list": {
+    "@type": "ItemList",
+    "item_type": "LearningResource",
+    "source_page": "resources-hub"
+  }
+}

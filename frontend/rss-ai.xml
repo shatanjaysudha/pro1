@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Shatanjay Sudha — AI Essays</title>
+    <link>https://shatanjaysudha.com/#page=ai</link>
+    <description>AI-focused essays from the Thought-Leader Hub.</description>
+    <item>
+      <title>If You're Overwhelmed by AI Tools, Read This</title>
+      <link>https://shatanjaysudha.com/#page=ai&amp;post=ai-overwhelmed</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+      <guid>ai-overwhelmed</guid>
+      <description>Focus on workflows, not tool hype.</description>
+    </item>
+  </channel>
+</rss>

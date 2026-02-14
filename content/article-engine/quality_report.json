@@ -1,0 +1,97 @@
+{
+  "generated_on": "2026-02-14",
+  "topic_count": 100,
+  "duplicate_title_count": 0,
+  "duplicate_titles": [],
+  "draft_count": 8,
+  "draft_checks": [
+    {
+      "slug": "ai-agents-for-weekly-planning-build-a-personal-chief-of-staff",
+      "word_count": 1294,
+      "flesch_reading_ease": 55.74,
+      "has_tldr": true,
+      "has_faq": true,
+      "has_common_mistakes": true,
+      "has_pro_tips": true,
+      "has_related_articles": true
+    },
+    {
+      "slug": "the-weekly-planning-system-that-actually-holds-up",
+      "word_count": 1262,
+      "flesch_reading_ease": 51.11,
+      "has_tldr": true,
+      "has_faq": true,
+      "has_common_mistakes": true,
+      "has_pro_tips": true,
+      "has_related_articles": true
+    },
+    {
+      "slug": "ai-function-in-google-sheets-practical-use-cases-for-operators",
+      "word_count": 1306,
+      "flesch_reading_ease": 55.35,
+      "has_tldr": true,
+      "has_faq": true,
+      "has_common_mistakes": true,
+      "has_pro_tips": true,
+      "has_related_articles": true
+    },
+    {
+      "slug": "career-capital-framework-for-2026",
+      "word_count": 1244,
+      "flesch_reading_ease": 50.6,
+      "has_tldr": true,
+      "has_faq": true,
+      "has_common_mistakes": true,
+      "has_pro_tips": true,
+      "has_related_articles": true
+    },
+    {
+      "slug": "ats-resume-optimization-for-2026",
+      "word_count": 1259,
+      "flesch_reading_ease": 52.86,
+      "has_tldr": true,
+      "has_faq": true,
+      "has_common_mistakes": true,
+      "has_pro_tips": true,
+      "has_related_articles": true
+    },
+    {
+      "slug": "systems-thinking-for-personal-productivity",
+      "word_count": 1249,
+      "flesch_reading_ease": 48.22,
+      "has_tldr": true,
+      "has_faq": true,
+      "has_common_mistakes": true,
+      "has_pro_tips": true,
+      "has_related_articles": true
+    },
+    {
+      "slug": "notion-vs-obsidian-vs-apple-notes-for-knowledge-management",
+      "word_count": 1296,
+      "flesch_reading_ease": 53.79,
+      "has_tldr": true,
+      "has_faq": true,
+      "has_common_mistakes": true,
+      "has_pro_tips": true,
+      "has_related_articles": true
+    },
+    {
+      "slug": "deep-work-blocks-for-distracted-professionals",
+      "word_count": 1250,
+      "flesch_reading_ease": 54.22,
+      "has_tldr": true,
+      "has_faq": true,
+      "has_common_mistakes": true,
+      "has_pro_tips": true,
+      "has_related_articles": true
+    }
+  ],
+  "avg_flesch_reading_ease": 52.74,
+  "quality_gate": {
+    "no_duplicate_ideas": true,
+    "seo_metadata_ready": true,
+    "logical_flow_ready": true,
+    "hooks_present": true,
+    "professional_structure_present": true
+  }
+}

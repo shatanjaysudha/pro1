@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Motion Playground - Things 3 Style</title>
+  <link rel="stylesheet" href="./motion-playground.css" />
+</head>
+<body>
+  <main class="playground">
+    <header class="hero">
+      <h1>Motion Playground</h1>
+      <p>Tune spring stiffness and damping in real time, then preview list, panel, and micro-motion behavior.</p>
+    </header>
+
+    <section class="controls" aria-label="Spring controls">
+      <h2>Spring Controls</h2>
+      <label>
+        Stiffness
+        <input id="stiffness" type="range" min="80" max="320" value="170" step="1" />
+        <output id="stiffnessValue">170</output>
+      </label>
+      <label>
+        Damping
+        <input id="damping" type="range" min="8" max="40" value="22" step="1" />
+        <output id="dampingValue">22</output>
+      </label>
+      <label class="toggle">
+        <input id="reduceMotionToggle" type="checkbox" />
+        Simulate reduced motion
+      </label>
+    </section>
+
+    <section class="demo-block" aria-label="List reveal demo">
+      <div class="demo-head">
+        <h2>List Reveal</h2>
+        <button id="revealListButton" class="button">Replay Reveal</button>
+      </div>
+      <ul id="demoList" class="demo-list">
+        <li class="demo-item">Article: Build Better AI Workflows</li>
+        <li class="demo-item">Prompt: Weekly Planning Script</li>
+        <li class="demo-item">Resource: Dashboard Template</li>
+        <li class="demo-item">Essay: Designing Calm Interfaces</li>
+        <li class="demo-item">Guide: Motion Accessibility Checklist</li>
+      </ul>
+    </section>
+
+    <section class="demo-block" aria-label="Panel transition demo">
+      <div class="demo-head">
+        <h2>Panel Transition</h2>
+        <button id="togglePanelButton" class="button">Toggle Panel</button>
+      </div>
+      <div class="panel-stage">
+        <aside id="demoPanel" class="panel" aria-hidden="true">
+          <h3>Reader Panel</h3>
+          <p>Spring slide with soft settle. Direction and velocity feel app-like, not theatrical.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="demo-block" aria-label="Hover feedback demo">
+      <div class="demo-head">
+        <h2>Hover Micro Feedback</h2>
+      </div>
+      <div class="card-grid">
+        <article class="card hoverable" tabindex="0">
+          <h3>Save Article</h3>
+          <p>Scale + lift + shadow</p>
+        </article>
+        <article class="card hoverable" tabindex="0">
+          <h3>Open Prompt</h3>
+          <p>Fast entrance/exit timing</p>
+        </article>
+        <article class="card hoverable" tabindex="0">
+          <h3>Read Related</h3>
+          <p>Subtle feedback, low distraction</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="./motion-playground.js"></script>
+</body>
+</html>

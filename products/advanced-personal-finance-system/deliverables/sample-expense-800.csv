@@ -1,0 +1,801 @@
+Date,Vendor,Category,Amount,Mode,Notes
+2023-11-13,School,Other,43330.82,Cash,Seed 1
+2024-04-08,School,Education,31469.14,Card,Seed 2
+2025-04-30,Swiggy,Insurance,25684.75,Bank,Seed 3
+2023-12-04,School,Investments,22934.58,Card,Seed 4
+2025-09-14,Fuel Pump,Insurance,29131.88,Cash,Seed 5
+2025-12-27,Uber,Investments,26462.04,Cash,Seed 6
+2024-09-11,Fuel Pump,Food,38835.15,Bank,Seed 7
+2022-12-21,Swiggy,Shopping,29069.71,UPI,Seed 8
+2022-09-29,Electricity Board,Other,35062.8,Card,Seed 9
+2025-01-03,Electricity Board,Shopping,8351.33,UPI,Seed 10
+2023-04-29,School,Investments,22999.87,UPI,Seed 11
+2023-10-15,School,Travel,30078.16,Card,Seed 12
+2022-01-31,Swiggy,Other,31175.11,Card,Seed 13
+2023-05-07,School,Healthcare,9826.52,Bank,Seed 14
+2025-04-17,Uber,Entertainment,15630.94,UPI,Seed 15
+2022-12-24,Electricity Board,Healthcare,29239.73,Card,Seed 16
+2024-11-02,Uber,Insurance,32883.86,Bank,Seed 17
+2025-07-28,Pharmacy,Housing,24836.04,Cash,Seed 18
+2022-01-10,Electricity Board,Insurance,8207.38,UPI,Seed 19
+2025-01-01,Fuel Pump,Travel,44038.4,Bank,Seed 20
+2025-07-09,School,Education,4773.27,UPI,Seed 21
+2022-01-22,Supermarket,Entertainment,800.82,Card,Seed 22
+2023-03-16,Fuel Pump,Education,25241.07,Card,Seed 23
+2023-07-05,Fuel Pump,Shopping,16172.08,Bank,Seed 24
+2023-07-25,Uber,Transport,44810.09,UPI,Seed 25
+2025-04-09,Travel Desk,Healthcare,26509.97,UPI,Seed 26
+2023-08-04,Amazon,Healthcare,4674.56,Cash,Seed 27
+2024-01-02,Amazon,Family,23779.64,Cash,Seed 28
+2022-07-27,Supermarket,Other,16395.82,Cash,Seed 29
+2022-11-22,Amazon,Housing,28641.74,UPI,Seed 30
+2022-12-08,School,Education,20426.55,Bank,Seed 31
+2022-04-09,Amazon,Investments,1478.76,UPI,Seed 32
+2022-11-14,Travel Desk,Debt Payment,42170.15,Cash,Seed 33
+2023-05-09,Electricity Board,Other,2156.66,UPI,Seed 34
+2026-02-13,Swiggy,Housing,28836.53,UPI,Seed 35
+2024-04-27,Swiggy,Investments,43096.19,UPI,Seed 36
+2024-03-15,Supermarket,Entertainment,36052.01,Cash,Seed 37
+2024-11-14,Uber,Other,13465.58,Card,Seed 38
+2024-12-23,Amazon,Other,10849.33,Cash,Seed 39
+2024-12-21,Uber,Housing,4778.13,Bank,Seed 40
+2023-04-15,Amazon,Healthcare,20220.25,Bank,Seed 41
+2025-03-10,School,Healthcare,21503.17,Bank,Seed 42
+2022-03-21,Electricity Board,Investments,8001.8,Cash,Seed 43
+2023-11-17,Swiggy,Debt Payment,5670.58,Bank,Seed 44
+2022-08-11,Amazon,Investments,24081.59,Bank,Seed 45
+2022-08-06,Uber,Debt Payment,4025.14,Bank,Seed 46
+2024-09-26,Fuel Pump,Other,35182.79,UPI,Seed 47
+2024-05-14,Pharmacy,Other,25829.21,Card,Seed 48
+2022-11-06,Travel Desk,Other,26646.25,UPI,Seed 49
+2022-01-15,School,Food,25123.87,Card,Seed 50
+2023-05-03,Uber,Travel,14446.2,Bank,Seed 51
+2025-06-18,Pharmacy,Entertainment,28797.78,Card,Seed 52
+2024-01-08,Supermarket,Housing,13186.71,UPI,Seed 53
+2025-05-12,Travel Desk,Travel,33599.28,Bank,Seed 54
+2025-06-25,Pharmacy,Housing,6598.59,Cash,Seed 55
+2025-10-06,Supermarket,Shopping,40006.42,UPI,Seed 56
+2023-09-16,Electricity Board,Education,3528.57,UPI,Seed 57
+2023-09-29,Uber,Debt Payment,37616.2,UPI,Seed 58
+2025-06-10,Travel Desk,Entertainment,4198.3,Bank,Seed 59
+2025-11-08,School,Shopping,11987.68,Card,Seed 60
+2024-01-07,Pharmacy,Transport,1869.42,Cash,Seed 61
+2025-04-09,Travel Desk,Education,12826.43,Bank,Seed 62
+2024-11-03,Electricity Board,Other,36531.75,Card,Seed 63
+2022-01-13,Travel Desk,Transport,39412.29,UPI,Seed 64
+2023-09-11,Amazon,Investments,41052.73,UPI,Seed 65
+2025-09-22,Travel Desk,Insurance,33228.8,Cash,Seed 66
+2025-04-22,School,Shopping,31373.26,UPI,Seed 67
+2023-09-09,Amazon,Insurance,1305.2,UPI,Seed 68
+2023-02-27,Amazon,Family,37123.21,Cash,Seed 69
+2025-02-11,Amazon,Insurance,15148.08,UPI,Seed 70
+2022-10-28,Travel Desk,Healthcare,9480.08,Cash,Seed 71
+2024-06-28,Fuel Pump,Food,7163.85,Cash,Seed 72
+2023-11-15,Travel Desk,Utilities,24509.06,Card,Seed 73
+2023-02-22,Fuel Pump,Investments,12548.7,Cash,Seed 74
+2022-11-12,Electricity Board,Food,43231.88,Bank,Seed 75
+2023-02-12,Swiggy,Transport,12219.38,UPI,Seed 76
+2024-08-13,Uber,Travel,33433.27,UPI,Seed 77
+2024-03-22,Pharmacy,Shopping,25283.07,UPI,Seed 78
+2022-09-14,Swiggy,Travel,20891.08,Cash,Seed 79
+2022-07-03,Travel Desk,Education,43433.34,UPI,Seed 80
+2024-10-22,School,Insurance,35301.78,Card,Seed 81
+2025-09-12,Supermarket,Insurance,22646.17,Card,Seed 82
+2025-09-11,Pharmacy,Insurance,29938.26,Card,Seed 83
+2025-10-16,Pharmacy,Insurance,850.69,Cash,Seed 84
+2025-07-01,Travel Desk,Food,38071.65,Card,Seed 85
+2025-06-19,Electricity Board,Other,16272.88,Card,Seed 86
+2022-07-08,Electricity Board,Entertainment,41157.91,Card,Seed 87
+2024-07-23,Supermarket,Travel,3593.19,Cash,Seed 88
+2025-05-01,Swiggy,Housing,10568.87,Cash,Seed 89
+2024-12-31,School,Education,12847.98,Card,Seed 90
+2022-04-28,Electricity Board,Education,18215.32,Cash,Seed 91
+2023-11-15,Fuel Pump,Family,12306.48,Card,Seed 92
+2024-04-25,School,Entertainment,32116.79,Cash,Seed 93
+2022-06-13,Supermarket,Education,23320.22,Card,Seed 94
+2024-08-09,Uber,Debt Payment,22954.13,Card,Seed 95
+2025-04-14,Supermarket,Shopping,29256.7,UPI,Seed 96
+2025-10-24,Swiggy,Transport,18423.99,Cash,Seed 97
+2024-03-15,Swiggy,Shopping,28957.48,Card,Seed 98
+2023-11-15,School,Utilities,23550.41,Cash,Seed 99
+2023-01-15,Uber,Other,23520.29,Card,Seed 100
+2022-12-20,School,Transport,41049.14,Cash,Seed 101
+2023-01-19,Fuel Pump,Transport,3774.49,Bank,Seed 102
+2025-09-05,School,Other,44003.56,UPI,Seed 103
+2024-09-08,School,Debt Payment,6802.57,Bank,Seed 104
+2023-06-28,Amazon,Housing,26750.76,Cash,Seed 105
+2022-10-18,Supermarket,Travel,13012.79,Cash,Seed 106
+2025-10-01,Travel Desk,Utilities,19892.32,Bank,Seed 107
+2024-04-27,Amazon,Transport,712.71,Bank,Seed 108
+2025-03-25,Electricity Board,Education,15104.21,Card,Seed 109
+2022-09-08,Pharmacy,Healthcare,38995.03,UPI,Seed 110
+2022-07-29,Pharmacy,Housing,44786.47,Bank,Seed 111
+2022-08-15,Amazon,Debt Payment,28691.58,Card,Seed 112
+2022-09-10,Amazon,Shopping,6801.54,UPI,Seed 113
+2022-05-20,School,Housing,19699.22,Bank,Seed 114
+2024-08-15,Travel Desk,Investments,19412.2,UPI,Seed 115
+2024-12-27,School,Transport,850.24,Cash,Seed 116
+2025-09-16,Electricity Board,Travel,27218.42,Card,Seed 117
+2024-04-08,Amazon,Education,35255.37,UPI,Seed 118
+2025-03-17,Amazon,Transport,43183.28,Bank,Seed 119
+2024-04-12,Fuel Pump,Education,22243.03,Cash,Seed 120
+2025-07-17,School,Utilities,20803.47,Cash,Seed 121
+2023-08-23,Supermarket,Insurance,43203.71,UPI,Seed 122
+2023-12-21,Electricity Board,Entertainment,43535.3,Cash,Seed 123
+2025-02-07,School,Insurance,35305.32,Bank,Seed 124
+2025-08-25,Travel Desk,Transport,36574.81,Cash,Seed 125
+2024-11-18,Supermarket,Investments,24870.31,Card,Seed 126
+2022-11-22,Uber,Education,40350.42,Card,Seed 127
+2025-10-08,Swiggy,Education,4754.96,Cash,Seed 128
+2023-04-02,School,Investments,32706.24,Card,Seed 129
+2025-08-19,Uber,Entertainment,17550.8,Cash,Seed 130
+2022-02-26,Supermarket,Investments,38378.44,Cash,Seed 131
+2022-12-30,Swiggy,Food,39132.79,UPI,Seed 132
+2023-10-10,Uber,Other,35634.48,UPI,Seed 133
+2023-06-01,Electricity Board,Investments,43115.29,Card,Seed 134
+2022-07-12,Pharmacy,Shopping,37269.06,Card,Seed 135
+2024-09-22,Swiggy,Shopping,25311.21,Cash,Seed 136
+2023-01-04,Amazon,Education,31548.05,Bank,Seed 137
+2024-02-14,School,Insurance,42652.5,UPI,Seed 138
+2025-09-01,Fuel Pump,Transport,38988.96,Bank,Seed 139
+2023-02-06,Electricity Board,Entertainment,14583.77,Card,Seed 140
+2023-08-12,Pharmacy,Healthcare,17835.59,Bank,Seed 141
+2024-10-20,Electricity Board,Shopping,8962.46,Bank,Seed 142
+2023-12-14,Electricity Board,Other,20355.79,Bank,Seed 143
+2024-06-26,Swiggy,Housing,854.23,UPI,Seed 144
+2022-05-12,Supermarket,Insurance,33055.33,Bank,Seed 145
+2025-10-16,Fuel Pump,Transport,19394.92,Card,Seed 146
+2022-09-27,Travel Desk,Healthcare,20720.75,UPI,Seed 147
+2024-03-19,Swiggy,Transport,4978.22,Cash,Seed 148
+2022-11-18,Electricity Board,Insurance,37407.13,Card,Seed 149
+2022-06-29,Supermarket,Entertainment,29330.6,Card,Seed 150
+2024-05-10,Pharmacy,Insurance,36177.23,Card,Seed 151
+2024-01-26,Fuel Pump,Transport,34789.38,Cash,Seed 152
+2025-03-12,Supermarket,Other,25340.51,Bank,Seed 153
+2024-09-04,Supermarket,Housing,18265.65,Card,Seed 154
+2022-12-23,Amazon,Food,30763.55,Card,Seed 155
+2024-04-07,Pharmacy,Utilities,20357.77,Bank,Seed 156
+2025-03-06,Electricity Board,Education,5784.23,Cash,Seed 157
+2025-05-15,Travel Desk,Other,22731.95,Cash,Seed 158
+2023-03-08,Pharmacy,Healthcare,5603.22,UPI,Seed 159
+2022-10-27,School,Utilities,3863.91,Card,Seed 160
+2025-02-13,Uber,Investments,16956.13,UPI,Seed 161
+2024-03-17,Uber,Transport,8093.17,Cash,Seed 162
+2025-08-01,Pharmacy,Transport,31414.53,Bank,Seed 163
+2025-01-19,Travel Desk,Travel,5798.28,UPI,Seed 164
+2022-02-26,Travel Desk,Food,11316.06,Card,Seed 165
+2022-10-01,School,Education,21308.98,Bank,Seed 166
+2022-11-30,Swiggy,Shopping,7856.43,Cash,Seed 167
+2022-11-21,Travel Desk,Transport,2825.41,Card,Seed 168
+2024-05-26,Uber,Housing,40901.62,UPI,Seed 169
+2023-03-16,Swiggy,Debt Payment,31386.19,Cash,Seed 170
+2023-06-18,Pharmacy,Investments,44592.37,Cash,Seed 171
+2025-06-12,School,Investments,2728.86,Cash,Seed 172
+2024-09-19,Fuel Pump,Investments,3151.26,Card,Seed 173
+2024-04-29,Travel Desk,Food,30989.22,Card,Seed 174
+2024-12-09,Supermarket,Debt Payment,6784.81,Card,Seed 175
+2023-11-07,Swiggy,Entertainment,1112.93,Cash,Seed 176
+2024-07-17,Electricity Board,Education,43699.27,Card,Seed 177
+2023-05-16,Fuel Pump,Education,12995.52,Bank,Seed 178
+2024-09-10,Uber,Debt Payment,33853.39,UPI,Seed 179
+2024-03-08,School,Shopping,42690.66,Cash,Seed 180
+2023-04-21,Uber,Education,23292.54,UPI,Seed 181
+2026-01-26,Pharmacy,Investments,24892.62,Cash,Seed 182
+2024-11-09,Swiggy,Debt Payment,43847.19,Cash,Seed 183
+2023-04-25,Travel Desk,Utilities,12248.76,UPI,Seed 184
+2022-05-18,Amazon,Housing,19989.39,UPI,Seed 185
+2022-03-15,Electricity Board,Transport,36061.3,Bank,Seed 186
+2022-03-03,Electricity Board,Education,42732.39,UPI,Seed 187
+2024-03-20,Amazon,Insurance,42960.75,Cash,Seed 188
+2022-09-02,Pharmacy,Shopping,28370.01,UPI,Seed 189
+2025-01-05,Travel Desk,Investments,36766.14,Cash,Seed 190
+2023-06-29,Electricity Board,Shopping,37669.89,UPI,Seed 191
+2024-05-02,Amazon,Travel,13721.27,Cash,Seed 192
+2023-01-14,Uber,Family,4628.56,Cash,Seed 193
+2022-11-21,Amazon,Shopping,41714.53,Bank,Seed 194
+2023-05-17,Fuel Pump,Transport,40329.27,Bank,Seed 195
+2022-01-03,Electricity Board,Education,132.61,Cash,Seed 196
+2023-06-09,Amazon,Family,40359.63,UPI,Seed 197
+2023-10-20,Amazon,Shopping,10094.85,Card,Seed 198
+2025-09-22,Swiggy,Housing,35964.88,Bank,Seed 199
+2024-04-25,School,Utilities,12759.51,Card,Seed 200
+2023-08-13,Amazon,Healthcare,8146.45,Cash,Seed 201
+2025-06-30,Pharmacy,Debt Payment,35984.44,Bank,Seed 202
+2023-06-29,Pharmacy,Travel,44974.35,Card,Seed 203
+2022-07-05,Swiggy,Family,43595.34,Bank,Seed 204
+2022-12-02,Amazon,Transport,2587.98,UPI,Seed 205
+2022-04-30,Amazon,Other,30952.05,UPI,Seed 206
+2024-09-17,Fuel Pump,Healthcare,15703.75,UPI,Seed 207
+2022-05-21,Electricity Board,Entertainment,44080.32,Cash,Seed 208
+2025-12-25,Supermarket,Shopping,23036.1,Card,Seed 209
+2023-07-22,Fuel Pump,Insurance,30095.38,Card,Seed 210
+2024-04-05,Swiggy,Travel,22800.67,Bank,Seed 211
+2025-03-24,School,Healthcare,19802.96,Bank,Seed 212
+2022-11-13,Supermarket,Investments,4067.16,Card,Seed 213
+2024-06-05,Swiggy,Family,25986.52,UPI,Seed 214
+2024-03-08,Pharmacy,Food,2124.69,Cash,Seed 215
+2025-06-16,Supermarket,Entertainment,2847.97,UPI,Seed 216
+2022-12-04,Uber,Shopping,1556.93,UPI,Seed 217
+2022-08-10,Fuel Pump,Healthcare,20668.06,UPI,Seed 218
+2024-06-15,Swiggy,Investments,24697.42,Bank,Seed 219
+2023-01-30,School,Education,21430.53,Card,Seed 220
+2023-05-09,Supermarket,Food,5790.41,Card,Seed 221
+2023-10-30,Amazon,Food,38785.74,Card,Seed 222
+2022-03-17,Electricity Board,Family,43649.15,UPI,Seed 223
+2025-03-12,Swiggy,Debt Payment,10717.62,Card,Seed 224
+2023-07-18,Uber,Shopping,17887.96,Cash,Seed 225
+2025-05-23,Electricity Board,Investments,13071.8,Card,Seed 226
+2026-01-01,Supermarket,Housing,20972.95,Bank,Seed 227
+2022-07-12,Pharmacy,Food,31622.65,Card,Seed 228
+2022-10-09,Fuel Pump,Insurance,39601.98,UPI,Seed 229
+2024-06-22,Electricity Board,Utilities,2779.33,Bank,Seed 230
+2023-10-26,Fuel Pump,Other,3966.12,UPI,Seed 231
+2023-03-13,Travel Desk,Investments,17739.62,Cash,Seed 232
+2023-07-01,School,Shopping,5608.19,Bank,Seed 233
+2024-01-11,School,Family,35618.51,Card,Seed 234
+2025-02-22,Fuel Pump,Insurance,31016.85,Bank,Seed 235
+2023-02-09,Fuel Pump,Education,2239.87,Cash,Seed 236
+2023-08-13,School,Debt Payment,10147.66,Card,Seed 237
+2025-10-06,Travel Desk,Utilities,34743.34,Bank,Seed 238
+2025-08-17,Supermarket,Debt Payment,2792.16,Bank,Seed 239
+2024-08-31,Amazon,Travel,31592.0,Card,Seed 240
+2023-09-23,Pharmacy,Family,13865.79,Bank,Seed 241
+2025-11-21,Fuel Pump,Travel,5933.85,UPI,Seed 242
+2025-10-24,Supermarket,Shopping,7646.02,Card,Seed 243
+2024-06-09,Swiggy,Transport,8182.89,Card,Seed 244
+2023-12-18,School,Transport,32207.27,Card,Seed 245
+2023-11-06,Electricity Board,Entertainment,3685.42,Card,Seed 246
+2024-02-29,Fuel Pump,Housing,11692.73,Bank,Seed 247
+2024-09-30,Uber,Healthcare,37995.44,Cash,Seed 248
+2025-04-16,Pharmacy,Food,36117.26,UPI,Seed 249
+2023-12-30,Fuel Pump,Utilities,13457.4,Cash,Seed 250
+2024-04-02,Travel Desk,Insurance,39324.96,Card,Seed 251
+2023-01-09,Pharmacy,Debt Payment,15815.89,Cash,Seed 252
+2024-03-16,Pharmacy,Insurance,14357.9,Card,Seed 253
+2023-08-17,Swiggy,Other,27573.99,Bank,Seed 254
+2024-02-06,Pharmacy,Education,28526.92,Cash,Seed 255
+2022-01-16,Travel Desk,Investments,18815.99,UPI,Seed 256
+2022-01-17,Travel Desk,Travel,13628.91,Cash,Seed 257
+2023-10-08,Travel Desk,Investments,3295.05,UPI,Seed 258
+2025-01-16,Fuel Pump,Utilities,10041.91,Card,Seed 259
+2025-11-19,Electricity Board,Utilities,32825.76,Cash,Seed 260
+2022-08-14,Pharmacy,Travel,43524.42,UPI,Seed 261
+2024-05-24,Travel Desk,Investments,31869.97,Card,Seed 262
+2025-09-17,Supermarket,Transport,21683.59,UPI,Seed 263
+2025-03-15,Pharmacy,Insurance,18953.86,Card,Seed 264
+2022-10-31,Travel Desk,Shopping,22716.54,Cash,Seed 265
+2022-12-21,Travel Desk,Food,28952.9,Card,Seed 266
+2022-08-31,Travel Desk,Entertainment,40772.08,UPI,Seed 267
+2025-12-24,Pharmacy,Insurance,37913.28,Cash,Seed 268
+2025-05-12,Electricity Board,Other,13454.57,Card,Seed 269
+2025-06-20,Supermarket,Travel,10333.6,Cash,Seed 270
+2025-09-23,Uber,Food,30622.55,UPI,Seed 271
+2022-12-25,Fuel Pump,Other,43617.02,UPI,Seed 272
+2022-05-07,Electricity Board,Other,43198.79,Bank,Seed 273
+2023-08-25,Pharmacy,Housing,17904.96,Card,Seed 274
+2024-07-21,Travel Desk,Education,14852.11,Card,Seed 275
+2025-11-29,Supermarket,Shopping,42511.46,Bank,Seed 276
+2025-01-25,School,Food,20983.22,Cash,Seed 277
+2022-04-03,Fuel Pump,Investments,19884.88,Card,Seed 278
+2023-05-15,Amazon,Insurance,6445.26,Cash,Seed 279
+2024-09-27,Fuel Pump,Debt Payment,10957.31,Cash,Seed 280
+2022-09-10,Swiggy,Utilities,18179.82,Card,Seed 281
+2023-07-07,Fuel Pump,Food,2534.83,Card,Seed 282
+2024-03-22,Electricity Board,Travel,40862.53,UPI,Seed 283
+2022-10-06,Fuel Pump,Transport,10480.23,UPI,Seed 284
+2024-02-28,Swiggy,Healthcare,989.13,Bank,Seed 285
+2022-07-13,Swiggy,Entertainment,1572.86,Cash,Seed 286
+2024-03-29,Pharmacy,Entertainment,34877.02,Card,Seed 287
+2025-03-01,Travel Desk,Shopping,16629.57,Cash,Seed 288
+2025-10-31,Fuel Pump,Insurance,29207.76,Card,Seed 289
+2023-01-06,School,Other,32692.06,Cash,Seed 290
+2022-02-14,Fuel Pump,Shopping,3741.69,Bank,Seed 291
+2024-01-21,Pharmacy,Family,29275.28,Card,Seed 292
+2023-07-22,Electricity Board,Travel,20003.76,Card,Seed 293
+2025-04-12,Uber,Food,23191.46,Bank,Seed 294
+2022-12-28,School,Investments,5529.71,Bank,Seed 295
+2024-10-14,Amazon,Food,5778.18,Bank,Seed 296
+2026-01-24,Amazon,Family,44530.78,Card,Seed 297
+2022-05-19,Pharmacy,Shopping,3897.14,Card,Seed 298
+2022-07-19,Travel Desk,Food,38482.99,Card,Seed 299
+2025-05-10,School,Utilities,35780.1,Bank,Seed 300
+2024-04-14,Supermarket,Food,29333.12,Bank,Seed 301
+2024-05-02,Swiggy,Other,6328.08,Cash,Seed 302
+2022-07-01,Swiggy,Food,9323.98,Cash,Seed 303
+2023-08-30,School,Shopping,9926.86,Card,Seed 304
+2022-03-28,Uber,Other,2911.35,UPI,Seed 305
+2024-01-09,School,Family,4526.52,Bank,Seed 306
+2025-04-02,Supermarket,Travel,29582.4,Bank,Seed 307
+2025-07-03,Pharmacy,Debt Payment,18012.16,Card,Seed 308
+2023-10-21,Electricity Board,Entertainment,28472.58,Card,Seed 309
+2025-01-13,Travel Desk,Debt Payment,8697.6,Cash,Seed 310
+2022-10-21,Fuel Pump,Shopping,13542.99,Bank,Seed 311
+2024-03-17,Swiggy,Housing,35774.75,UPI,Seed 312
+2022-04-29,Electricity Board,Healthcare,35728.24,Cash,Seed 313
+2025-06-15,Pharmacy,Other,14549.67,Cash,Seed 314
+2024-12-13,Electricity Board,Entertainment,37499.75,Cash,Seed 315
+2022-06-10,Uber,Utilities,11906.43,Card,Seed 316
+2025-12-24,Pharmacy,Debt Payment,9653.3,Bank,Seed 317
+2022-05-31,Amazon,Other,13012.31,Cash,Seed 318
+2023-04-07,Uber,Insurance,21864.59,Bank,Seed 319
+2025-04-07,Pharmacy,Debt Payment,9966.58,Bank,Seed 320
+2022-01-05,Fuel Pump,Transport,42779.66,UPI,Seed 321
+2023-06-02,Uber,Entertainment,11119.15,UPI,Seed 322
+2025-03-31,Amazon,Education,36909.77,Bank,Seed 323
+2024-02-10,Supermarket,Other,31996.28,Bank,Seed 324
+2022-06-16,Fuel Pump,Family,24790.67,Bank,Seed 325
+2025-04-19,Swiggy,Travel,43653.46,UPI,Seed 326
+2023-04-20,Electricity Board,Other,22442.74,Card,Seed 327
+2022-11-08,Uber,Insurance,33728.96,Card,Seed 328
+2025-03-20,Travel Desk,Investments,9839.7,Card,Seed 329
+2022-04-09,Travel Desk,Food,36549.34,Bank,Seed 330
+2024-04-03,Swiggy,Food,14933.71,Cash,Seed 331
+2024-06-19,School,Utilities,8617.5,Bank,Seed 332
+2024-12-15,School,Housing,19119.34,UPI,Seed 333
+2023-01-10,Uber,Utilities,39845.42,Card,Seed 334
+2022-11-14,Amazon,Transport,41764.05,Cash,Seed 335
+2022-07-13,Swiggy,Other,4362.97,Cash,Seed 336
+2022-02-19,Amazon,Housing,24907.29,UPI,Seed 337
+2022-07-12,Pharmacy,Education,22775.9,Bank,Seed 338
+2024-11-15,Uber,Debt Payment,38141.23,Cash,Seed 339
+2023-08-10,Pharmacy,Travel,25628.06,Cash,Seed 340
+2022-03-29,Supermarket,Debt Payment,14671.13,Cash,Seed 341
+2025-10-21,School,Debt Payment,4196.57,Card,Seed 342
+2023-11-04,Electricity Board,Other,1915.79,UPI,Seed 343
+2022-07-28,Uber,Insurance,4807.2,Bank,Seed 344
+2025-09-07,Uber,Food,29127.25,Card,Seed 345
+2023-08-04,Travel Desk,Transport,31737.67,UPI,Seed 346
+2024-10-10,Electricity Board,Healthcare,10576.42,UPI,Seed 347
+2022-03-31,Pharmacy,Entertainment,12526.37,Cash,Seed 348
+2024-10-06,Travel Desk,Utilities,2965.97,Cash,Seed 349
+2024-03-22,Pharmacy,Utilities,5720.51,Bank,Seed 350
+2024-07-15,Electricity Board,Food,41634.05,Card,Seed 351
+2024-03-17,Supermarket,Shopping,44170.04,Card,Seed 352
+2024-10-01,Swiggy,Investments,20996.93,Bank,Seed 353
+2025-04-27,School,Transport,557.29,Bank,Seed 354
+2023-07-16,Travel Desk,Education,24175.87,UPI,Seed 355
+2024-08-27,Swiggy,Transport,4233.89,Card,Seed 356
+2022-02-17,Swiggy,Healthcare,40519.83,UPI,Seed 357
+2024-06-29,Pharmacy,Transport,32198.25,Card,Seed 358
+2024-11-21,Travel Desk,Other,33230.89,Card,Seed 359
+2024-10-13,Amazon,Housing,16258.88,Cash,Seed 360
+2025-08-16,Swiggy,Investments,37508.39,UPI,Seed 361
+2023-12-09,Uber,Insurance,20603.52,UPI,Seed 362
+2025-01-31,School,Debt Payment,14632.18,Card,Seed 363
+2023-01-20,Amazon,Family,30068.53,Card,Seed 364
+2024-05-05,Swiggy,Education,19120.05,Card,Seed 365
+2025-02-11,Pharmacy,Education,12859.91,Bank,Seed 366
+2024-06-01,Pharmacy,Family,25361.11,Bank,Seed 367
+2022-02-17,Amazon,Housing,39660.05,Card,Seed 368
+2022-06-20,Fuel Pump,Travel,15471.83,Bank,Seed 369
+2025-05-08,School,Food,7584.55,Card,Seed 370
+2023-04-24,Fuel Pump,Food,28189.11,Card,Seed 371
+2023-02-03,Pharmacy,Entertainment,33195.28,Bank,Seed 372
+2022-04-30,School,Utilities,1547.36,UPI,Seed 373
+2024-04-28,Pharmacy,Entertainment,24467.61,UPI,Seed 374
+2025-10-27,Pharmacy,Transport,16118.08,Bank,Seed 375
+2023-01-16,Swiggy,Shopping,15587.73,Bank,Seed 376
+2023-09-19,Pharmacy,Insurance,28671.42,Bank,Seed 377
+2023-02-14,Uber,Transport,44748.27,Card,Seed 378
+2024-01-03,Supermarket,Education,17732.89,Cash,Seed 379
+2022-12-22,Travel Desk,Healthcare,21546.19,UPI,Seed 380
+2025-07-04,Supermarket,Transport,15564.69,Card,Seed 381
+2025-08-25,Supermarket,Investments,25994.75,Bank,Seed 382
+2022-08-13,Travel Desk,Healthcare,29764.46,Card,Seed 383
+2023-01-23,Travel Desk,Insurance,33742.86,Card,Seed 384
+2022-02-24,Uber,Travel,41003.43,Bank,Seed 385
+2025-06-24,Fuel Pump,Transport,15748.17,Card,Seed 386
+2025-09-13,Pharmacy,Healthcare,44987.93,Card,Seed 387
+2023-02-18,Fuel Pump,Healthcare,1267.29,Card,Seed 388
+2022-04-04,Pharmacy,Education,44281.25,Bank,Seed 389
+2024-04-23,Travel Desk,Healthcare,26002.99,Card,Seed 390
+2023-08-11,School,Insurance,13047.2,Bank,Seed 391
+2024-01-04,Uber,Education,11222.2,Bank,Seed 392
+2024-10-25,Travel Desk,Food,43377.02,Cash,Seed 393
+2022-12-04,Electricity Board,Other,26991.69,Cash,Seed 394
+2022-09-08,Amazon,Debt Payment,28712.24,Cash,Seed 395
+2022-04-23,Electricity Board,Entertainment,33577.68,Card,Seed 396
+2024-08-17,School,Travel,32714.58,Cash,Seed 397
+2025-03-16,Fuel Pump,Healthcare,142.84,Bank,Seed 398
+2023-07-30,Swiggy,Debt Payment,756.81,Cash,Seed 399
+2024-04-22,Swiggy,Shopping,39252.32,Card,Seed 400
+2024-05-06,Fuel Pump,Travel,20893.48,Card,Seed 401
+2025-07-28,Travel Desk,Travel,36385.74,Bank,Seed 402
+2023-12-11,School,Investments,8148.29,Cash,Seed 403
+2026-02-07,Uber,Utilities,21088.04,Card,Seed 404
+2025-09-11,Amazon,Healthcare,33621.59,Card,Seed 405
+2023-09-26,Uber,Utilities,36966.06,Card,Seed 406
+2025-11-14,Electricity Board,Housing,26915.82,Cash,Seed 407
+2025-06-09,Electricity Board,Utilities,15307.69,UPI,Seed 408
+2024-03-06,Supermarket,Education,42380.51,Bank,Seed 409
+2024-10-10,Fuel Pump,Housing,8055.94,Bank,Seed 410
+2023-08-25,Amazon,Transport,35067.63,UPI,Seed 411
+2024-04-19,Supermarket,Investments,40255.83,Cash,Seed 412
+2022-01-05,Electricity Board,Food,30181.18,UPI,Seed 413
+2025-03-17,Fuel Pump,Food,29165.96,Card,Seed 414
+2022-07-31,Travel Desk,Travel,2307.79,Bank,Seed 415
+2025-04-22,Pharmacy,Transport,18594.76,Card,Seed 416
+2022-05-14,Fuel Pump,Insurance,24210.87,Card,Seed 417
+2022-12-24,Swiggy,Utilities,28241.99,Cash,Seed 418
+2023-05-18,Amazon,Investments,23447.16,Card,Seed 419
+2024-11-18,Fuel Pump,Education,27298.11,Card,Seed 420
+2022-11-23,Electricity Board,Food,13656.7,UPI,Seed 421
+2023-12-14,Electricity Board,Transport,18800.15,Cash,Seed 422
+2025-07-04,Supermarket,Education,13556.24,Bank,Seed 423
+2022-11-24,Electricity Board,Transport,13687.46,UPI,Seed 424
+2022-06-07,Amazon,Entertainment,9718.37,Cash,Seed 425
+2024-10-14,Swiggy,Education,30645.34,Bank,Seed 426
+2024-08-09,Fuel Pump,Food,41750.96,UPI,Seed 427
+2022-01-13,Fuel Pump,Food,44391.66,UPI,Seed 428
+2025-12-27,Electricity Board,Other,44567.3,Cash,Seed 429
+2024-02-09,Uber,Insurance,22978.49,UPI,Seed 430
+2023-01-06,Swiggy,Debt Payment,3211.8,UPI,Seed 431
+2025-08-15,Electricity Board,Other,30409.51,Bank,Seed 432
+2024-03-11,School,Investments,39729.46,Card,Seed 433
+2024-05-21,Travel Desk,Healthcare,29132.98,Cash,Seed 434
+2024-09-12,Pharmacy,Housing,19292.44,Card,Seed 435
+2023-11-12,Supermarket,Healthcare,36507.81,UPI,Seed 436
+2022-03-31,Amazon,Utilities,40575.18,UPI,Seed 437
+2026-02-14,Uber,Education,11752.41,UPI,Seed 438
+2025-08-18,Amazon,Healthcare,18739.3,Card,Seed 439
+2023-06-04,Amazon,Food,15281.8,Bank,Seed 440
+2024-03-27,Uber,Food,34682.04,Cash,Seed 441
+2023-09-29,Pharmacy,Debt Payment,42139.85,Bank,Seed 442
+2022-05-29,School,Family,7896.8,Cash,Seed 443
+2022-07-13,Pharmacy,Travel,24251.91,Card,Seed 444
+2025-08-02,Fuel Pump,Healthcare,27099.15,Bank,Seed 445
+2024-12-31,Travel Desk,Food,8739.68,Cash,Seed 446
+2022-08-08,Travel Desk,Investments,16368.51,Bank,Seed 447
+2024-08-16,Fuel Pump,Debt Payment,7658.7,Bank,Seed 448
+2024-05-03,Swiggy,Education,2570.67,Bank,Seed 449
+2025-05-31,Electricity Board,Housing,20052.92,UPI,Seed 450
+2023-11-19,Swiggy,Family,16078.25,Card,Seed 451
+2024-03-18,Uber,Food,30646.45,Card,Seed 452
+2023-04-01,School,Healthcare,18112.92,Card,Seed 453
+2023-01-06,Pharmacy,Shopping,37024.63,UPI,Seed 454
+2025-08-12,Supermarket,Shopping,18061.4,Cash,Seed 455
+2025-04-18,School,Shopping,1535.21,UPI,Seed 456
+2022-01-16,Supermarket,Utilities,40335.87,Cash,Seed 457
+2025-05-14,Uber,Debt Payment,43659.32,Card,Seed 458
+2024-06-12,Travel Desk,Family,23262.78,UPI,Seed 459
+2024-09-28,Electricity Board,Insurance,33275.36,Bank,Seed 460
+2024-02-10,Pharmacy,Housing,21418.82,Card,Seed 461
+2023-10-31,School,Healthcare,19768.14,Bank,Seed 462
+2025-09-15,Pharmacy,Housing,5347.43,Card,Seed 463
+2023-06-25,Electricity Board,Food,38269.97,Cash,Seed 464
+2025-05-23,School,Transport,2721.58,UPI,Seed 465
+2023-10-21,Fuel Pump,Insurance,31975.55,UPI,Seed 466
+2024-09-16,Pharmacy,Insurance,42935.77,Cash,Seed 467
+2023-08-07,Pharmacy,Education,25550.06,Card,Seed 468
+2022-06-14,Travel Desk,Debt Payment,27120.22,Card,Seed 469
+2023-04-05,Uber,Entertainment,5975.93,Cash,Seed 470
+2023-06-23,Swiggy,Education,3423.1,Bank,Seed 471
+2024-07-22,Travel Desk,Insurance,33661.53,UPI,Seed 472
+2024-06-28,Amazon,Food,12357.19,UPI,Seed 473
+2024-03-12,Swiggy,Other,8535.03,Cash,Seed 474
+2024-04-09,Fuel Pump,Food,2464.67,Bank,Seed 475
+2022-08-06,Uber,Utilities,19293.4,UPI,Seed 476
+2025-11-21,Swiggy,Investments,44301.15,Bank,Seed 477
+2025-07-24,Travel Desk,Debt Payment,17247.34,Bank,Seed 478
+2024-12-18,School,Utilities,5502.71,UPI,Seed 479
+2024-01-29,Swiggy,Insurance,42770.03,Bank,Seed 480
+2022-04-06,Amazon,Food,15721.89,Cash,Seed 481
+2024-10-28,Amazon,Investments,32477.17,UPI,Seed 482
+2022-08-06,Uber,Housing,25999.64,Card,Seed 483
+2025-04-16,School,Other,12674.97,Card,Seed 484
+2025-05-14,Amazon,Education,2996.48,Card,Seed 485
+2023-10-25,Uber,Other,37124.99,Cash,Seed 486
+2022-08-24,Pharmacy,Healthcare,31471.28,Bank,Seed 487
+2025-04-12,Swiggy,Utilities,29891.52,Card,Seed 488
+2023-04-30,Electricity Board,Utilities,35617.08,Cash,Seed 489
+2023-09-20,Electricity Board,Transport,37176.64,Cash,Seed 490
+2023-11-04,Electricity Board,Food,4970.43,UPI,Seed 491
+2025-03-31,Supermarket,Insurance,42247.53,Bank,Seed 492
+2022-04-21,Travel Desk,Investments,14558.79,Card,Seed 493
+2022-08-19,Swiggy,Travel,31544.35,Card,Seed 494
+2025-12-20,School,Healthcare,25072.53,Cash,Seed 495
+2022-12-02,School,Transport,35759.49,Cash,Seed 496
+2023-06-26,Uber,Family,26504.18,Card,Seed 497
+2024-08-29,School,Education,40260.76,Cash,Seed 498
+2025-05-18,Fuel Pump,Utilities,25053.33,UPI,Seed 499
+2022-01-05,Pharmacy,Family,22004.9,Bank,Seed 500
+2022-07-09,Electricity Board,Shopping,3494.87,Card,Seed 501
+2022-03-02,Supermarket,Other,6872.22,UPI,Seed 502
+2024-08-20,Uber,Utilities,42650.56,Cash,Seed 503
+2025-12-11,Fuel Pump,Entertainment,22871.18,Cash,Seed 504
+2025-05-11,Uber,Education,26953.14,Bank,Seed 505
+2023-09-19,Pharmacy,Shopping,4475.22,Card,Seed 506
+2024-01-27,Amazon,Debt Payment,3219.9,UPI,Seed 507
+2025-10-27,Amazon,Entertainment,20319.92,UPI,Seed 508
+2023-01-05,Supermarket,Utilities,32881.59,Bank,Seed 509
+2025-03-17,Amazon,Food,44676.39,UPI,Seed 510
+2025-06-20,Fuel Pump,Housing,13947.09,Cash,Seed 511
+2023-04-02,Fuel Pump,Travel,33205.75,Card,Seed 512
+2022-06-11,Electricity Board,Insurance,7048.54,Cash,Seed 513
+2025-02-01,Supermarket,Healthcare,29739.92,Card,Seed 514
+2023-05-12,Pharmacy,Insurance,13723.14,UPI,Seed 515
+2022-02-01,Swiggy,Utilities,19530.69,Bank,Seed 516
+2023-04-24,Electricity Board,Family,18356.44,UPI,Seed 517
+2025-08-04,Swiggy,Healthcare,34728.12,Card,Seed 518
+2025-09-23,Fuel Pump,Healthcare,24707.46,UPI,Seed 519
+2025-11-20,School,Shopping,15279.09,Bank,Seed 520
+2025-05-10,School,Utilities,39645.53,Card,Seed 521
+2022-10-20,Fuel Pump,Utilities,8768.9,UPI,Seed 522
+2025-08-13,Supermarket,Other,6635.06,Bank,Seed 523
+2025-12-11,Pharmacy,Food,28102.88,UPI,Seed 524
+2025-10-18,Swiggy,Other,19901.87,Cash,Seed 525
+2024-10-16,Pharmacy,Transport,10656.37,UPI,Seed 526
+2022-12-05,Electricity Board,Healthcare,21339.04,Cash,Seed 527
+2024-04-27,Supermarket,Transport,10278.21,Cash,Seed 528
+2024-02-04,Swiggy,Investments,34071.28,Cash,Seed 529
+2023-03-22,Supermarket,Housing,40990.16,Card,Seed 530
+2022-06-02,Uber,Healthcare,40823.71,UPI,Seed 531
+2025-03-21,Fuel Pump,Travel,12347.56,Cash,Seed 532
+2022-09-04,Supermarket,Food,4982.88,Bank,Seed 533
+2025-06-17,Uber,Insurance,33806.39,Bank,Seed 534
+2022-05-21,Supermarket,Investments,33881.65,Bank,Seed 535
+2024-07-31,Pharmacy,Education,35135.12,Bank,Seed 536
+2023-04-26,Amazon,Entertainment,7792.76,Cash,Seed 537
+2025-07-08,Uber,Food,26592.72,Cash,Seed 538
+2023-11-01,Uber,Food,43519.57,Cash,Seed 539
+2025-01-11,School,Transport,31393.22,UPI,Seed 540
+2023-06-29,Swiggy,Travel,17625.98,Bank,Seed 541
+2023-05-24,Swiggy,Insurance,29291.79,Cash,Seed 542
+2025-04-19,School,Investments,44499.18,Bank,Seed 543
+2024-05-31,Travel Desk,Family,36245.34,Cash,Seed 544
+2025-01-25,Supermarket,Utilities,12074.42,UPI,Seed 545
+2025-09-22,Uber,Shopping,43565.4,UPI,Seed 546
+2022-08-12,Fuel Pump,Other,5014.97,Card,Seed 547
+2024-05-09,Fuel Pump,Insurance,40875.73,Bank,Seed 548
+2025-02-07,Electricity Board,Insurance,18030.86,Cash,Seed 549
+2024-10-12,Fuel Pump,Shopping,1605.07,Bank,Seed 550
+2023-03-01,Pharmacy,Healthcare,14415.54,Card,Seed 551
+2024-07-31,Uber,Utilities,14823.1,UPI,Seed 552
+2022-06-27,Uber,Debt Payment,22628.39,UPI,Seed 553
+2025-06-12,Uber,Insurance,35210.45,Cash,Seed 554
+2025-06-02,Electricity Board,Shopping,19547.55,UPI,Seed 555
+2023-02-27,Electricity Board,Shopping,22846.22,Card,Seed 556
+2023-06-07,Amazon,Debt Payment,38031.2,UPI,Seed 557
+2025-06-27,School,Family,40588.2,Cash,Seed 558
+2025-12-26,Supermarket,Shopping,21111.79,Card,Seed 559
+2022-03-11,Supermarket,Healthcare,8356.56,Bank,Seed 560
+2023-10-09,Uber,Food,21167.73,Cash,Seed 561
+2025-08-31,Amazon,Education,39065.53,Card,Seed 562
+2023-07-25,School,Other,20459.35,Bank,Seed 563
+2022-09-11,Fuel Pump,Insurance,36532.63,Bank,Seed 564
+2023-09-15,Travel Desk,Utilities,27331.84,Cash,Seed 565
+2024-08-04,Supermarket,Education,37881.03,Cash,Seed 566
+2022-06-03,Swiggy,Healthcare,6934.55,Card,Seed 567
+2025-10-15,Fuel Pump,Entertainment,12519.78,Card,Seed 568
+2022-01-28,Fuel Pump,Transport,23728.6,Bank,Seed 569
+2024-06-04,School,Other,15966.6,Card,Seed 570
+2023-03-07,Fuel Pump,Housing,32378.47,Card,Seed 571
+2022-12-25,Travel Desk,Housing,24379.23,UPI,Seed 572
+2022-10-03,Electricity Board,Healthcare,39030.55,Bank,Seed 573
+2024-05-05,Swiggy,Housing,40697.4,Bank,Seed 574
+2024-05-27,School,Family,42756.67,Card,Seed 575
+2022-02-06,Swiggy,Education,11046.1,Card,Seed 576
+2023-05-03,Swiggy,Family,11423.84,Card,Seed 577
+2026-01-07,Fuel Pump,Other,13988.58,UPI,Seed 578
+2024-12-07,Pharmacy,Food,34434.23,Bank,Seed 579
+2025-01-09,School,Utilities,14334.47,Card,Seed 580
+2025-03-04,Fuel Pump,Transport,10944.58,Bank,Seed 581
+2022-10-21,Fuel Pump,Other,9991.4,UPI,Seed 582
+2022-03-05,Fuel Pump,Other,13040.8,Card,Seed 583
+2024-12-07,Swiggy,Entertainment,3214.26,Cash,Seed 584
+2025-03-15,Pharmacy,Insurance,32371.91,Cash,Seed 585
+2022-05-03,Supermarket,Debt Payment,34903.7,Bank,Seed 586
+2025-04-29,Uber,Housing,16735.97,Bank,Seed 587
+2023-04-08,School,Housing,4852.03,UPI,Seed 588
+2023-08-05,Pharmacy,Other,40727.57,Card,Seed 589
+2022-04-01,Electricity Board,Housing,39046.69,Card,Seed 590
+2025-06-22,School,Housing,22946.32,Bank,Seed 591
+2024-02-04,Uber,Healthcare,1146.6,UPI,Seed 592
+2022-04-27,School,Food,7286.28,Cash,Seed 593
+2025-07-15,Swiggy,Shopping,7554.71,Card,Seed 594
+2023-01-19,Swiggy,Debt Payment,15109.48,UPI,Seed 595
+2024-04-09,Swiggy,Housing,22738.28,Bank,Seed 596
+2022-10-06,Travel Desk,Insurance,28070.14,Cash,Seed 597
+2023-12-16,Travel Desk,Transport,26235.86,UPI,Seed 598
+2022-04-29,Pharmacy,Family,1768.26,Card,Seed 599
+2025-08-29,Travel Desk,Shopping,29222.14,Cash,Seed 600
+2022-07-17,Fuel Pump,Debt Payment,43510.61,UPI,Seed 601
+2025-11-14,Electricity Board,Shopping,18887.53,UPI,Seed 602
+2023-07-03,Uber,Entertainment,36138.59,UPI,Seed 603
+2026-02-12,Fuel Pump,Insurance,28035.2,Cash,Seed 604
+2024-05-24,Electricity Board,Insurance,26232.68,Bank,Seed 605
+2022-10-09,Amazon,Housing,4499.64,Card,Seed 606
+2024-02-11,Amazon,Housing,42947.83,Bank,Seed 607
+2024-07-02,Fuel Pump,Family,39185.98,Cash,Seed 608
+2025-01-30,Uber,Food,13291.73,Card,Seed 609
+2023-01-01,Fuel Pump,Other,7762.77,Cash,Seed 610
+2023-11-15,Swiggy,Travel,31599.78,Cash,Seed 611
+2023-06-23,Uber,Other,28057.45,Cash,Seed 612
+2025-12-25,Swiggy,Other,10329.39,Bank,Seed 613
+2023-09-26,Electricity Board,Investments,29510.59,Card,Seed 614
+2024-07-07,Swiggy,Family,23122.57,UPI,Seed 615
+2025-03-30,Travel Desk,Shopping,41437.8,Card,Seed 616
+2023-05-07,School,Entertainment,24384.02,Card,Seed 617
+2025-05-20,Travel Desk,Investments,27470.86,Bank,Seed 618
+2022-08-16,Uber,Investments,37802.91,UPI,Seed 619
+2023-08-16,School,Housing,16915.71,Cash,Seed 620
+2023-02-13,School,Family,36106.64,Bank,Seed 621
+2022-03-08,Travel Desk,Shopping,21524.97,Bank,Seed 622
+2025-04-01,Amazon,Travel,10171.72,Card,Seed 623
+2025-05-09,Supermarket,Insurance,39959.03,Cash,Seed 624
+2022-06-15,Electricity Board,Housing,19636.15,Cash,Seed 625
+2022-03-02,Fuel Pump,Food,26669.49,UPI,Seed 626
+2024-02-22,Swiggy,Travel,40828.08,Card,Seed 627
+2022-05-25,School,Healthcare,38475.85,Bank,Seed 628
+2023-10-24,Pharmacy,Housing,10309.17,UPI,Seed 629
+2024-08-11,Pharmacy,Insurance,33096.83,Card,Seed 630
+2024-06-28,Fuel Pump,Transport,6033.48,Cash,Seed 631
+2024-07-21,Amazon,Shopping,30885.86,Card,Seed 632
+2022-07-18,School,Other,34423.89,Bank,Seed 633
+2023-09-14,Uber,Other,37578.81,Card,Seed 634
+2023-07-21,Swiggy,Healthcare,24866.49,Card,Seed 635
+2025-12-01,Supermarket,Entertainment,5585.49,Bank,Seed 636
+2022-04-03,Pharmacy,Food,13451.79,Cash,Seed 637
+2023-03-12,School,Insurance,1186.74,Card,Seed 638
+2024-04-05,Travel Desk,Shopping,24666.6,Card,Seed 639
+2022-12-24,Supermarket,Entertainment,30726.04,Card,Seed 640
+2023-03-22,Electricity Board,Entertainment,31673.63,Cash,Seed 641
+2024-12-03,Supermarket,Investments,5490.05,Bank,Seed 642
+2023-09-20,Travel Desk,Entertainment,31061.81,Card,Seed 643
+2023-01-27,Travel Desk,Food,19902.0,Bank,Seed 644
+2025-11-21,Swiggy,Transport,44623.55,Cash,Seed 645
+2023-04-01,Swiggy,Transport,25204.18,Card,Seed 646
+2023-12-05,School,Shopping,7467.0,Bank,Seed 647
+2025-06-18,Amazon,Food,4591.42,Bank,Seed 648
+2023-10-16,Fuel Pump,Education,25139.91,Card,Seed 649
+2025-11-26,Electricity Board,Insurance,26844.19,Cash,Seed 650
+2023-03-30,Supermarket,Entertainment,36785.54,Card,Seed 651
+2022-01-22,Pharmacy,Housing,560.89,Cash,Seed 652
+2022-08-28,Uber,Shopping,9367.85,Cash,Seed 653
+2025-01-25,Fuel Pump,Family,42534.18,UPI,Seed 654
+2025-07-02,Amazon,Housing,34534.08,Cash,Seed 655
+2022-11-04,Amazon,Food,10461.4,UPI,Seed 656
+2024-04-12,Travel Desk,Entertainment,42992.74,UPI,Seed 657
+2022-06-13,Amazon,Investments,6647.73,UPI,Seed 658
+2023-10-21,Amazon,Entertainment,25387.16,Card,Seed 659
+2023-06-16,Pharmacy,Entertainment,21034.43,UPI,Seed 660
+2024-05-27,School,Education,41652.62,UPI,Seed 661
+2024-06-20,Supermarket,Entertainment,19538.65,Card,Seed 662
+2024-04-09,Pharmacy,Shopping,3147.61,UPI,Seed 663
+2023-08-13,School,Shopping,26802.84,Cash,Seed 664
+2025-05-02,Pharmacy,Housing,25079.02,Cash,Seed 665
+2022-05-05,Fuel Pump,Shopping,28467.54,Cash,Seed 666
+2024-05-03,Swiggy,Transport,44984.07,Bank,Seed 667
+2024-09-10,Travel Desk,Entertainment,44211.63,Cash,Seed 668
+2022-12-23,Fuel Pump,Shopping,14212.44,Bank,Seed 669
+2022-12-04,Supermarket,Investments,26996.98,UPI,Seed 670
+2024-05-02,Supermarket,Insurance,8764.5,Bank,Seed 671
+2024-12-04,Travel Desk,Shopping,22249.98,Card,Seed 672
+2024-06-24,Fuel Pump,Transport,13899.81,Bank,Seed 673
+2023-06-08,Amazon,Utilities,16013.49,Cash,Seed 674
+2023-11-20,School,Investments,37542.92,Bank,Seed 675
+2023-07-03,Travel Desk,Shopping,32800.84,Bank,Seed 676
+2023-09-18,Supermarket,Healthcare,11527.23,Cash,Seed 677
+2025-09-12,Supermarket,Healthcare,6292.79,UPI,Seed 678
+2023-01-30,Amazon,Entertainment,6787.7,Bank,Seed 679
+2022-09-23,Fuel Pump,Other,23430.68,Card,Seed 680
+2025-02-07,Electricity Board,Insurance,23101.57,Card,Seed 681
+2023-06-02,Electricity Board,Travel,26558.12,Card,Seed 682
+2024-11-01,Pharmacy,Debt Payment,17472.16,UPI,Seed 683
+2023-05-27,Pharmacy,Investments,173.38,Card,Seed 684
+2023-10-30,Pharmacy,Insurance,33186.64,Card,Seed 685
+2023-03-15,Supermarket,Housing,25514.52,Card,Seed 686
+2022-04-18,Travel Desk,Investments,29345.87,Cash,Seed 687
+2025-11-09,Uber,Investments,20790.19,Card,Seed 688
+2025-03-24,Travel Desk,Education,1670.01,Cash,Seed 689
+2024-08-01,Fuel Pump,Utilities,42856.95,Bank,Seed 690
+2023-03-06,Swiggy,Debt Payment,2125.17,Card,Seed 691
+2022-12-28,Uber,Shopping,22399.8,UPI,Seed 692
+2022-05-15,Travel Desk,Transport,23778.24,Cash,Seed 693
+2024-08-21,Amazon,Family,13251.85,Card,Seed 694
+2022-10-05,Fuel Pump,Healthcare,20054.28,Card,Seed 695
+2023-05-21,Swiggy,Entertainment,17307.08,Bank,Seed 696
+2025-02-15,Electricity Board,Shopping,29212.94,Bank,Seed 697
+2024-07-24,Uber,Investments,44897.93,Cash,Seed 698
+2023-06-10,Amazon,Housing,42969.9,Bank,Seed 699
+2024-04-06,Fuel Pump,Housing,40045.24,UPI,Seed 700
+2024-08-12,Travel Desk,Investments,32446.24,Cash,Seed 701
+2022-06-06,School,Travel,16259.25,Cash,Seed 702
+2023-04-12,Uber,Housing,26569.09,Cash,Seed 703
+2024-01-23,Electricity Board,Family,43859.81,Card,Seed 704
+2024-06-23,Electricity Board,Debt Payment,17461.6,Card,Seed 705
+2022-03-01,School,Other,15694.44,Card,Seed 706
+2025-09-01,Electricity Board,Education,36300.71,Cash,Seed 707
+2024-06-08,Pharmacy,Education,10683.32,Bank,Seed 708
+2025-04-08,School,Family,2784.86,Bank,Seed 709
+2022-09-20,Fuel Pump,Debt Payment,44523.53,UPI,Seed 710
+2024-10-21,Amazon,Shopping,40327.78,UPI,Seed 711
+2022-09-19,Swiggy,Investments,12519.79,UPI,Seed 712
+2023-11-24,Travel Desk,Shopping,13571.16,Card,Seed 713
+2022-10-30,Swiggy,Insurance,31327.31,UPI,Seed 714
+2025-01-12,Uber,Utilities,4810.17,Bank,Seed 715
+2023-07-20,Amazon,Shopping,32376.53,Card,Seed 716
+2025-01-02,Fuel Pump,Food,32450.17,UPI,Seed 717
+2023-08-31,School,Travel,16678.53,Cash,Seed 718
+2023-08-26,Amazon,Other,8137.04,Cash,Seed 719
+2022-12-25,School,Entertainment,44043.46,UPI,Seed 720
+2024-09-12,School,Healthcare,25891.27,Cash,Seed 721
+2025-09-23,Swiggy,Insurance,39045.65,Bank,Seed 722
+2023-01-20,Supermarket,Education,30516.47,Cash,Seed 723
+2023-05-12,Electricity Board,Shopping,12504.75,Cash,Seed 724
+2024-02-17,Swiggy,Debt Payment,23026.07,UPI,Seed 725
+2023-07-10,Fuel Pump,Food,14944.09,Card,Seed 726
+2025-08-03,Fuel Pump,Food,44804.58,Bank,Seed 727
+2024-12-30,Fuel Pump,Travel,17244.95,Card,Seed 728
+2022-02-03,Amazon,Investments,44743.81,Bank,Seed 729
+2022-04-18,Electricity Board,Utilities,40434.02,UPI,Seed 730
+2025-09-12,Uber,Transport,36231.27,Bank,Seed 731
+2024-08-07,Supermarket,Transport,41826.01,Card,Seed 732
+2022-07-14,Supermarket,Investments,35388.15,UPI,Seed 733
+2024-11-14,Travel Desk,Debt Payment,21614.12,Bank,Seed 734
+2022-03-31,Fuel Pump,Healthcare,27131.57,Bank,Seed 735
+2024-03-06,Travel Desk,Food,40043.97,UPI,Seed 736
+2023-03-26,Supermarket,Other,32039.28,Cash,Seed 737
+2022-08-26,Electricity Board,Travel,25134.86,Bank,Seed 738
+2025-11-26,Supermarket,Utilities,10382.01,Cash,Seed 739
+2022-06-09,Uber,Other,19380.53,UPI,Seed 740
+2022-07-11,Travel Desk,Transport,12587.09,Bank,Seed 741
+2022-06-15,Electricity Board,Other,3180.77,Bank,Seed 742
+2024-02-14,Travel Desk,Education,2151.7,UPI,Seed 743
+2026-02-05,School,Other,24693.51,UPI,Seed 744
+2024-06-10,School,Travel,25674.66,UPI,Seed 745
+2024-09-14,School,Shopping,16086.21,Bank,Seed 746
+2025-03-01,Swiggy,Healthcare,32571.03,Bank,Seed 747
+2022-05-19,Amazon,Education,28453.13,Card,Seed 748
+2023-09-17,Supermarket,Debt Payment,32607.31,UPI,Seed 749
+2022-08-18,Amazon,Healthcare,21094.77,Bank,Seed 750
+2023-07-24,Amazon,Insurance,17070.33,UPI,Seed 751
+2024-07-23,Pharmacy,Housing,40118.99,Cash,Seed 752
+2024-04-07,Travel Desk,Investments,22913.73,Bank,Seed 753
+2023-11-18,Electricity Board,Insurance,29377.7,Card,Seed 754
+2025-03-27,Electricity Board,Insurance,1268.53,Bank,Seed 755
+2023-12-04,Pharmacy,Shopping,40928.1,UPI,Seed 756
+2024-06-13,Swiggy,Insurance,30702.14,UPI,Seed 757
+2024-11-27,School,Healthcare,11491.93,UPI,Seed 758
+2022-01-24,Travel Desk,Family,28463.21,Card,Seed 759
+2023-08-12,Travel Desk,Education,17871.91,Bank,Seed 760
+2024-09-20,Supermarket,Travel,40629.56,Cash,Seed 761
+2025-11-22,Uber,Other,16418.37,Card,Seed 762
+2023-04-30,Amazon,Education,8905.26,UPI,Seed 763
+2025-12-19,Electricity Board,Entertainment,37674.52,Cash,Seed 764
+2025-08-18,Uber,Entertainment,2098.98,Card,Seed 765
+2025-08-31,Amazon,Investments,13429.43,Card,Seed 766
+2022-11-15,Pharmacy,Insurance,9683.39,UPI,Seed 767
+2024-12-12,Uber,Investments,20647.31,UPI,Seed 768
+2025-12-22,Fuel Pump,Shopping,12364.4,UPI,Seed 769
+2025-01-26,Travel Desk,Housing,35930.82,Card,Seed 770
+2023-08-02,Electricity Board,Transport,13528.86,UPI,Seed 771
+2023-12-02,Uber,Other,1919.2,Bank,Seed 772
+2022-11-20,Swiggy,Other,38453.43,Card,Seed 773
+2025-08-10,Fuel Pump,Entertainment,29503.64,Card,Seed 774
+2022-08-15,Amazon,Housing,21969.16,Bank,Seed 775
+2024-09-01,Electricity Board,Transport,27938.63,Card,Seed 776
+2022-10-07,Amazon,Other,6536.1,Card,Seed 777
+2025-05-24,Uber,Family,31268.8,Card,Seed 778
+2025-06-06,Uber,Transport,26729.19,UPI,Seed 779
+2024-05-29,Amazon,Insurance,3748.34,Cash,Seed 780
+2025-08-24,Amazon,Transport,18102.71,Card,Seed 781
+2025-06-11,Travel Desk,Utilities,2057.75,UPI,Seed 782
+2025-04-21,Uber,Healthcare,13633.75,Bank,Seed 783
+2025-04-08,Fuel Pump,Shopping,43477.68,Card,Seed 784
+2024-11-15,Swiggy,Housing,12083.29,UPI,Seed 785
+2026-01-01,Uber,Healthcare,29896.55,Cash,Seed 786
+2025-12-22,School,Investments,593.88,Card,Seed 787
+2022-06-10,Pharmacy,Education,43221.48,Card,Seed 788
+2022-07-12,Swiggy,Healthcare,26100.64,Cash,Seed 789
+2023-01-25,Swiggy,Education,4701.91,Card,Seed 790
+2025-09-19,Swiggy,Housing,3767.8,Card,Seed 791
+2022-06-19,Swiggy,Investments,23694.64,Cash,Seed 792
+2022-02-07,Supermarket,Transport,34112.74,Card,Seed 793
+2024-09-03,School,Food,37894.02,UPI,Seed 794
+2025-12-03,Fuel Pump,Debt Payment,31616.87,Bank,Seed 795
+2022-07-18,Amazon,Utilities,13907.61,Card,Seed 796
+2023-06-22,Supermarket,Healthcare,22098.42,UPI,Seed 797
+2023-07-07,Supermarket,Healthcare,513.96,Bank,Seed 798
+2023-01-02,Uber,Transport,6460.63,UPI,Seed 799
+2023-03-10,School,Entertainment,43008.34,Bank,Seed 800

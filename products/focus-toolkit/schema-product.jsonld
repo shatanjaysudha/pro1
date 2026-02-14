@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Focus Toolkit",
+  "description": "Focus Toolkit for Students and professionals needing a low-friction focus ritual.. Includes practical files, setup guide, and conversion-ready workflows...",
+  "sku": "SS-014",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Productivity",
+  "keywords": [
+    "focus planner kit",
+    "printable productivity planner",
+    "focus tracking template"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/focus-toolkit/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/focus-toolkit/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 599,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/focus-toolkit/"
+  }
+}

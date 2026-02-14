@@ -1,0 +1,2931 @@
+{
+  "generated_at": "2026-02-14T18:50:50+00:00",
+  "source": "https://shatanjaysudha.com/",
+  "summary": {
+    "pages_crawled": 267,
+    "missing_meta_count": 25,
+    "broken_link_count": 276,
+    "missing_alt_count": 0,
+    "schema_discrepancy_count": 12,
+    "duplicate_cluster_count": 5
+  },
+  "missing_meta": [
+    {
+      "url": "https://shatanjaysudha.com/mobile-phones",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/apple",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/history",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/learn",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/life",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/love",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/physiology",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/mobile-phones",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/history",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/history/history-of-science-technology",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/learn/page/2",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/learn/page/3",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/12",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/2",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/3",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/10",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/11",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/4",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/5",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/stress-management",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/8",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/9",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/6",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/7",
+      "missing_meta_title": false,
+      "missing_meta_description": true
+    }
+  ],
+  "broken_internal_links": [
+    {
+      "source_url": "https://shatanjaysudha.com/anti-indian-racism-abroad",
+      "target_url": "https://shatanjaysudha.com/anti-indian-racism-abroad?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/anti-indian-racism-abroad",
+      "target_url": "https://shatanjaysudha.com/anti-indian-racism-abroad?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-10-lakh-portfolio-by-2025",
+      "target_url": "https://shatanjaysudha.com/build-10-lakh-portfolio-by-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-10-lakh-portfolio-by-2025",
+      "target_url": "https://shatanjaysudha.com/build-10-lakh-portfolio-by-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/carbon-offsets-and-credits-guide",
+      "target_url": "https://shatanjaysudha.com/carbon-offsets-and-credits-guide?replytocom=113",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/carbon-offsets-and-credits-guide",
+      "target_url": "https://shatanjaysudha.com/carbon-offsets-and-credits-guide?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/carbon-offsets-and-credits-guide",
+      "target_url": "https://shatanjaysudha.com/carbon-offsets-and-credits-guide?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth",
+      "target_url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth?replytocom=109",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth",
+      "target_url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth?replytocom=39",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth",
+      "target_url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth",
+      "target_url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-six-figures-in-2025-salary-growth-roadmap",
+      "target_url": "https://shatanjaysudha.com/earn-six-figures-in-2025-salary-growth-roadmap?replytocom=108",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-six-figures-in-2025-salary-growth-roadmap",
+      "target_url": "https://shatanjaysudha.com/earn-six-figures-in-2025-salary-growth-roadmap?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-six-figures-in-2025-salary-growth-roadmap",
+      "target_url": "https://shatanjaysudha.com/earn-six-figures-in-2025-salary-growth-roadmap?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/iphone-17-pro-review",
+      "target_url": "https://shatanjaysudha.com/iphone-17-pro-review?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/iphone-17-pro-review",
+      "target_url": "https://shatanjaysudha.com/iphone-17-pro-review?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/long-term-investing-in-equities-guide",
+      "target_url": "https://shatanjaysudha.com/long-term-investing-in-equities-guide?replytocom=110",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/long-term-investing-in-equities-guide",
+      "target_url": "https://shatanjaysudha.com/long-term-investing-in-equities-guide?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/long-term-investing-in-equities-guide",
+      "target_url": "https://shatanjaysudha.com/long-term-investing-in-equities-guide?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/nifty-50-index-funds-retirement-wealth-building",
+      "target_url": "https://shatanjaysudha.com/nifty-50-index-funds-retirement-wealth-building?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/nifty-50-index-funds-retirement-wealth-building",
+      "target_url": "https://shatanjaysudha.com/nifty-50-index-funds-retirement-wealth-building?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025",
+      "target_url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025?replytocom=114",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025",
+      "target_url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025?replytocom=42",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025",
+      "target_url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025",
+      "target_url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/blog/debt-funds-safety",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/blog/goal-based-investing",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/blog/long-term-vs-short-term-investing",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/blog/real-return-guide",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/blog/recurring-deposit-guide",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/blog/savings-strategies",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/resources/investing-books",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/short-term-money-mistakes?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/short-term-money-mistakes?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/tools/fd-calculator",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "target_url": "https://shatanjaysudha.com/tools/goal-calculator",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/toxic-middle-class-parenting",
+      "target_url": "https://shatanjaysudha.com/toxic-middle-class-parenting?replytocom=111",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/toxic-middle-class-parenting",
+      "target_url": "https://shatanjaysudha.com/toxic-middle-class-parenting?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/toxic-middle-class-parenting",
+      "target_url": "https://shatanjaysudha.com/toxic-middle-class-parenting?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/automate-%e2%82%b9500-monthly-savings",
+      "target_url": "https://shatanjaysudha.com/automate-%e2%82%b9500-monthly-savings?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/automate-%e2%82%b9500-monthly-savings",
+      "target_url": "https://shatanjaysudha.com/automate-%e2%82%b9500-monthly-savings?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds",
+      "target_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds?replytocom=20",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds",
+      "target_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds?replytocom=22",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds",
+      "target_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds?replytocom=28",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds",
+      "target_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds?replytocom=32",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds",
+      "target_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds?replytocom=36",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds",
+      "target_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds",
+      "target_url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/emergency-fund-guide",
+      "target_url": "https://shatanjaysudha.com/emergency-fund-guide?replytocom=33",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/emergency-fund-guide",
+      "target_url": "https://shatanjaysudha.com/emergency-fund-guide?replytocom=35",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/emergency-fund-guide",
+      "target_url": "https://shatanjaysudha.com/emergency-fund-guide?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/emergency-fund-guide",
+      "target_url": "https://shatanjaysudha.com/emergency-fund-guide?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/ai-content-creation-tools-5x-speed",
+      "target_url": "https://shatanjaysudha.com/ai-content-creation-tools-5x-speed?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/ai-content-creation-tools-5x-speed",
+      "target_url": "https://shatanjaysudha.com/ai-content-creation-tools-5x-speed?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-your-financial-fortress",
+      "target_url": "https://shatanjaysudha.com/build-your-financial-fortress?replytocom=41",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-your-financial-fortress",
+      "target_url": "https://shatanjaysudha.com/build-your-financial-fortress?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-your-financial-fortress",
+      "target_url": "https://shatanjaysudha.com/build-your-financial-fortress?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/career-path-transition-strategy",
+      "target_url": "https://shatanjaysudha.com/career-path-transition-strategy?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/career-path-transition-strategy",
+      "target_url": "https://shatanjaysudha.com/career-path-transition-strategy?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/freedom-fuels-focus-science",
+      "target_url": "https://shatanjaysudha.com/freedom-fuels-focus-science?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/freedom-fuels-focus-science",
+      "target_url": "https://shatanjaysudha.com/freedom-fuels-focus-science?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/health-insurance-explained-simply",
+      "target_url": "https://shatanjaysudha.com/health-insurance-explained-simply?replytocom=34",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/health-insurance-explained-simply",
+      "target_url": "https://shatanjaysudha.com/health-insurance-explained-simply?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/health-insurance-explained-simply",
+      "target_url": "https://shatanjaysudha.com/health-insurance-explained-simply?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/learn-coding-in-2025",
+      "target_url": "https://shatanjaysudha.com/learn-coding-in-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/learn-coding-in-2025",
+      "target_url": "https://shatanjaysudha.com/learn-coding-in-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/non-linear-career-transition",
+      "target_url": "https://shatanjaysudha.com/non-linear-career-transition?replytocom=38",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/non-linear-career-transition",
+      "target_url": "https://shatanjaysudha.com/non-linear-career-transition?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/non-linear-career-transition",
+      "target_url": "https://shatanjaysudha.com/non-linear-career-transition?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/p-e-ratio-stock-valuation-guide",
+      "target_url": "https://shatanjaysudha.com/p-e-ratio-stock-valuation-guide?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/p-e-ratio-stock-valuation-guide",
+      "target_url": "https://shatanjaysudha.com/p-e-ratio-stock-valuation-guide?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/product-management-guide",
+      "target_url": "https://shatanjaysudha.com/product-management-guide?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/product-management-guide",
+      "target_url": "https://shatanjaysudha.com/product-management-guide?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/sales-leadership-management",
+      "target_url": "https://shatanjaysudha.com/sales-leadership-management?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/sales-leadership-management",
+      "target_url": "https://shatanjaysudha.com/sales-leadership-management?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/term-life-insurance-raw-truths-battle-tested-protection-guide",
+      "target_url": "https://shatanjaysudha.com/term-life-insurance-raw-truths-battle-tested-protection-guide?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/term-life-insurance-raw-truths-battle-tested-protection-guide",
+      "target_url": "https://shatanjaysudha.com/term-life-insurance-raw-truths-battle-tested-protection-guide?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/the-habit-gap-daily-choice-success",
+      "target_url": "https://shatanjaysudha.com/the-habit-gap-daily-choice-success?replytocom=40",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/the-habit-gap-daily-choice-success",
+      "target_url": "https://shatanjaysudha.com/the-habit-gap-daily-choice-success?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/the-habit-gap-daily-choice-success",
+      "target_url": "https://shatanjaysudha.com/the-habit-gap-daily-choice-success?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/the-math-doesnt-lie",
+      "target_url": "https://shatanjaysudha.com/the-math-doesnt-lie?replytocom=27",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/the-math-doesnt-lie",
+      "target_url": "https://shatanjaysudha.com/the-math-doesnt-lie?replytocom=37",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/the-math-doesnt-lie",
+      "target_url": "https://shatanjaysudha.com/the-math-doesnt-lie?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/the-math-doesnt-lie",
+      "target_url": "https://shatanjaysudha.com/the-math-doesnt-lie?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/cetaphil-gentle-skin-cleanser-review",
+      "target_url": "https://shatanjaysudha.com/cetaphil-gentle-skin-cleanser-review?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/cetaphil-gentle-skin-cleanser-review",
+      "target_url": "https://shatanjaysudha.com/cetaphil-gentle-skin-cleanser-review?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/confidence-is-a-skill-learn-how-to-build-it",
+      "target_url": "https://shatanjaysudha.com/confidence-is-a-skill-learn-how-to-build-it?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/confidence-is-a-skill-learn-how-to-build-it",
+      "target_url": "https://shatanjaysudha.com/confidence-is-a-skill-learn-how-to-build-it?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-build-confidence-naturally",
+      "target_url": "https://shatanjaysudha.com/how-to-build-confidence-naturally?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-build-confidence-naturally",
+      "target_url": "https://shatanjaysudha.com/how-to-build-confidence-naturally?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/manifest-%e2%82%b91-crore-daily-routine",
+      "target_url": "https://shatanjaysudha.com/manifest-%e2%82%b91-crore-daily-routine?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/manifest-%e2%82%b91-crore-daily-routine",
+      "target_url": "https://shatanjaysudha.com/manifest-%e2%82%b91-crore-daily-routine?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/mobile-accessories-iphone-covers",
+      "target_url": "https://shatanjaysudha.com/mobile-accessories-iphone-covers?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/mobile-accessories-iphone-covers",
+      "target_url": "https://shatanjaysudha.com/mobile-accessories-iphone-covers?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/people-will-pay-to-learn-from-you",
+      "target_url": "https://shatanjaysudha.com/people-will-pay-to-learn-from-you?replytocom=10",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/people-will-pay-to-learn-from-you",
+      "target_url": "https://shatanjaysudha.com/people-will-pay-to-learn-from-you?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/people-will-pay-to-learn-from-you",
+      "target_url": "https://shatanjaysudha.com/people-will-pay-to-learn-from-you?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/shame-psychology-confidence",
+      "target_url": "https://shatanjaysudha.com/shame-psychology-confidence?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/shame-psychology-confidence",
+      "target_url": "https://shatanjaysudha.com/shame-psychology-confidence?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/teach-what-you-know-guide",
+      "target_url": "https://shatanjaysudha.com/teach-what-you-know-guide?replytocom=7",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/teach-what-you-know-guide",
+      "target_url": "https://shatanjaysudha.com/teach-what-you-know-guide?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/teach-what-you-know-guide",
+      "target_url": "https://shatanjaysudha.com/teach-what-you-know-guide?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/power-of-vocabulary",
+      "target_url": "https://shatanjaysudha.com/power-of-vocabulary?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/power-of-vocabulary",
+      "target_url": "https://shatanjaysudha.com/power-of-vocabulary?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-visuals-fail-in-comparison-to-real-content",
+      "target_url": "https://shatanjaysudha.com/why-visuals-fail-in-comparison-to-real-content?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-visuals-fail-in-comparison-to-real-content",
+      "target_url": "https://shatanjaysudha.com/why-visuals-fail-in-comparison-to-real-content?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/exit-load-guide",
+      "target_url": "https://shatanjaysudha.com/exit-load-guide?replytocom=23",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/exit-load-guide",
+      "target_url": "https://shatanjaysudha.com/exit-load-guide?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/exit-load-guide",
+      "target_url": "https://shatanjaysudha.com/exit-load-guide?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/mutual-fund-expense-ratio",
+      "target_url": "https://shatanjaysudha.com/mutual-fund-expense-ratio?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/mutual-fund-expense-ratio",
+      "target_url": "https://shatanjaysudha.com/mutual-fund-expense-ratio?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/mutual-fund-nav-units-explained",
+      "target_url": "https://shatanjaysudha.com/mutual-fund-nav-units-explained?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/mutual-fund-nav-units-explained",
+      "target_url": "https://shatanjaysudha.com/mutual-fund-nav-units-explained?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/perfect-investment-blueprint",
+      "target_url": "https://shatanjaysudha.com/perfect-investment-blueprint?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/perfect-investment-blueprint",
+      "target_url": "https://shatanjaysudha.com/perfect-investment-blueprint?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-working-hard-beats-talent",
+      "target_url": "https://shatanjaysudha.com/why-working-hard-beats-talent?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-working-hard-beats-talent",
+      "target_url": "https://shatanjaysudha.com/why-working-hard-beats-talent?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-earn-5000-a-month-selling-digital-products",
+      "target_url": "https://shatanjaysudha.com/how-to-earn-5000-a-month-selling-digital-products?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-earn-5000-a-month-selling-digital-products",
+      "target_url": "https://shatanjaysudha.com/how-to-earn-5000-a-month-selling-digital-products?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/make-money-online-2025",
+      "target_url": "https://shatanjaysudha.com/make-money-online-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/make-money-online-2025",
+      "target_url": "https://shatanjaysudha.com/make-money-online-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/start-affiliate-marketing",
+      "target_url": "https://shatanjaysudha.com/start-affiliate-marketing?replytocom=5",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/start-affiliate-marketing",
+      "target_url": "https://shatanjaysudha.com/start-affiliate-marketing?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/start-affiliate-marketing",
+      "target_url": "https://shatanjaysudha.com/start-affiliate-marketing?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/agentic-ai-roadmap-2025",
+      "target_url": "https://shatanjaysudha.com/agentic-ai-roadmap-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/agentic-ai-roadmap-2025",
+      "target_url": "https://shatanjaysudha.com/agentic-ai-roadmap-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/ai-opportunities-india-2025",
+      "target_url": "https://shatanjaysudha.com/ai-opportunities-india-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/ai-opportunities-india-2025",
+      "target_url": "https://shatanjaysudha.com/ai-opportunities-india-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-ai-agent-for-content-automation",
+      "target_url": "https://shatanjaysudha.com/build-ai-agent-for-content-automation?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-ai-agent-for-content-automation",
+      "target_url": "https://shatanjaysudha.com/build-ai-agent-for-content-automation?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-%e2%82%b98000-per-day-online",
+      "target_url": "https://shatanjaysudha.com/earn-%e2%82%b98000-per-day-online?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-%e2%82%b98000-per-day-online",
+      "target_url": "https://shatanjaysudha.com/earn-%e2%82%b98000-per-day-online?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/free-google-ai-tools-for-students",
+      "target_url": "https://shatanjaysudha.com/free-google-ai-tools-for-students?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/free-google-ai-tools-for-students",
+      "target_url": "https://shatanjaysudha.com/free-google-ai-tools-for-students?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/make-money-online-remakerai-2025",
+      "target_url": "https://shatanjaysudha.com/make-money-online-remakerai-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/make-money-online-remakerai-2025",
+      "target_url": "https://shatanjaysudha.com/make-money-online-remakerai-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/replit-cloud-ide-collaborative-coding",
+      "target_url": "https://shatanjaysudha.com/replit-cloud-ide-collaborative-coding?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/replit-cloud-ide-collaborative-coding",
+      "target_url": "https://shatanjaysudha.com/replit-cloud-ide-collaborative-coding?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/virtual-assistant-pay-well",
+      "target_url": "https://shatanjaysudha.com/virtual-assistant-pay-well?replytocom=12",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/virtual-assistant-pay-well",
+      "target_url": "https://shatanjaysudha.com/virtual-assistant-pay-well?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/virtual-assistant-pay-well",
+      "target_url": "https://shatanjaysudha.com/virtual-assistant-pay-well?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/top-books-for-entrepreneurs-successful-startups",
+      "target_url": "https://shatanjaysudha.com/top-books-for-entrepreneurs-successful-startups?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/top-books-for-entrepreneurs-successful-startups",
+      "target_url": "https://shatanjaysudha.com/top-books-for-entrepreneurs-successful-startups?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/your-version-of-success",
+      "target_url": "https://shatanjaysudha.com/your-version-of-success?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/your-version-of-success",
+      "target_url": "https://shatanjaysudha.com/your-version-of-success?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/start-a-blog-and-earn-15000-month",
+      "target_url": "https://shatanjaysudha.com/start-a-blog-and-earn-15000-month?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/start-a-blog-and-earn-15000-month",
+      "target_url": "https://shatanjaysudha.com/start-a-blog-and-earn-15000-month?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/start-a-blog-that-solves-problems",
+      "target_url": "https://shatanjaysudha.com/start-a-blog-that-solves-problems?replytocom=8",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/start-a-blog-that-solves-problems",
+      "target_url": "https://shatanjaysudha.com/start-a-blog-that-solves-problems?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/start-a-blog-that-solves-problems",
+      "target_url": "https://shatanjaysudha.com/start-a-blog-that-solves-problems?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/raksha-bandhan-2025-date-muhurat-rituals",
+      "target_url": "https://shatanjaysudha.com/raksha-bandhan-2025-date-muhurat-rituals?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/raksha-bandhan-2025-date-muhurat-rituals",
+      "target_url": "https://shatanjaysudha.com/raksha-bandhan-2025-date-muhurat-rituals?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/raksha-bandhan-2025-messages",
+      "target_url": "https://shatanjaysudha.com/raksha-bandhan-2025-messages?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/raksha-bandhan-2025-messages",
+      "target_url": "https://shatanjaysudha.com/raksha-bandhan-2025-messages?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-the-system",
+      "target_url": "https://shatanjaysudha.com/build-the-system?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/build-the-system",
+      "target_url": "https://shatanjaysudha.com/build-the-system?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-quit-addiction-naturally",
+      "target_url": "https://shatanjaysudha.com/how-to-quit-addiction-naturally?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-quit-addiction-naturally",
+      "target_url": "https://shatanjaysudha.com/how-to-quit-addiction-naturally?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/micro-habits-for-building-wealth",
+      "target_url": "https://shatanjaysudha.com/micro-habits-for-building-wealth?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/micro-habits-for-building-wealth",
+      "target_url": "https://shatanjaysudha.com/micro-habits-for-building-wealth?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/small-habits-big-change",
+      "target_url": "https://shatanjaysudha.com/small-habits-big-change?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/small-habits-big-change",
+      "target_url": "https://shatanjaysudha.com/small-habits-big-change?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/raksha-bandhan-gift-ideas-for-sister-2025",
+      "target_url": "https://shatanjaysudha.com/raksha-bandhan-gift-ideas-for-sister-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/raksha-bandhan-gift-ideas-for-sister-2025",
+      "target_url": "https://shatanjaysudha.com/raksha-bandhan-gift-ideas-for-sister-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/make-sell-digital-products",
+      "target_url": "https://shatanjaysudha.com/make-sell-digital-products?replytocom=4",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/make-sell-digital-products",
+      "target_url": "https://shatanjaysudha.com/make-sell-digital-products?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/make-sell-digital-products",
+      "target_url": "https://shatanjaysudha.com/make-sell-digital-products?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/divine-surrender-unshakeable-fortress-freedom",
+      "target_url": "https://shatanjaysudha.com/divine-surrender-unshakeable-fortress-freedom?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/divine-surrender-unshakeable-fortress-freedom",
+      "target_url": "https://shatanjaysudha.com/divine-surrender-unshakeable-fortress-freedom?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/sant-tukaram-bhakti-teachings",
+      "target_url": "https://shatanjaysudha.com/sant-tukaram-bhakti-teachings?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/sant-tukaram-bhakti-teachings",
+      "target_url": "https://shatanjaysudha.com/sant-tukaram-bhakti-teachings?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/silence-the-mind-divine-union",
+      "target_url": "https://shatanjaysudha.com/silence-the-mind-divine-union?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/silence-the-mind-divine-union",
+      "target_url": "https://shatanjaysudha.com/silence-the-mind-divine-union?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/freelance-your-skills",
+      "target_url": "https://shatanjaysudha.com/freelance-your-skills?replytocom=3",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/freelance-your-skills",
+      "target_url": "https://shatanjaysudha.com/freelance-your-skills?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/freelance-your-skills",
+      "target_url": "https://shatanjaysudha.com/freelance-your-skills?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-de-influence-social-media-trends",
+      "target_url": "https://shatanjaysudha.com/how-to-de-influence-social-media-trends?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-de-influence-social-media-trends",
+      "target_url": "https://shatanjaysudha.com/how-to-de-influence-social-media-trends?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-gen-z-might-never-own-anything-from-homes-to-cars",
+      "target_url": "https://shatanjaysudha.com/why-gen-z-might-never-own-anything-from-homes-to-cars?replytocom=2",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-gen-z-might-never-own-anything-from-homes-to-cars",
+      "target_url": "https://shatanjaysudha.com/why-gen-z-might-never-own-anything-from-homes-to-cars?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-gen-z-might-never-own-anything-from-homes-to-cars",
+      "target_url": "https://shatanjaysudha.com/why-gen-z-might-never-own-anything-from-homes-to-cars?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-money-from-youtube-without-going-viral",
+      "target_url": "https://shatanjaysudha.com/earn-money-from-youtube-without-going-viral?replytocom=6",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-money-from-youtube-without-going-viral",
+      "target_url": "https://shatanjaysudha.com/earn-money-from-youtube-without-going-viral?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-money-from-youtube-without-going-viral",
+      "target_url": "https://shatanjaysudha.com/earn-money-from-youtube-without-going-viral?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/abraham-diet-lose-belly-fat-hand-portions",
+      "target_url": "https://shatanjaysudha.com/abraham-diet-lose-belly-fat-hand-portions?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/abraham-diet-lose-belly-fat-hand-portions",
+      "target_url": "https://shatanjaysudha.com/abraham-diet-lose-belly-fat-hand-portions?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/first-million-lessons",
+      "target_url": "https://shatanjaysudha.com/first-million-lessons?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/first-million-lessons",
+      "target_url": "https://shatanjaysudha.com/first-million-lessons?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/edison-vs-tesla-the-current-wars",
+      "target_url": "https://shatanjaysudha.com/edison-vs-tesla-the-current-wars?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/edison-vs-tesla-the-current-wars",
+      "target_url": "https://shatanjaysudha.com/edison-vs-tesla-the-current-wars?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/design-merch-with-print-on-demand",
+      "target_url": "https://shatanjaysudha.com/design-merch-with-print-on-demand?replytocom=11",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/design-merch-with-print-on-demand",
+      "target_url": "https://shatanjaysudha.com/design-merch-with-print-on-demand?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/design-merch-with-print-on-demand",
+      "target_url": "https://shatanjaysudha.com/design-merch-with-print-on-demand?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/no-code-tools-2025",
+      "target_url": "https://shatanjaysudha.com/no-code-tools-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/no-code-tools-2025",
+      "target_url": "https://shatanjaysudha.com/no-code-tools-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/disappear-to-evolve",
+      "target_url": "https://shatanjaysudha.com/disappear-to-evolve?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/disappear-to-evolve",
+      "target_url": "https://shatanjaysudha.com/disappear-to-evolve?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/life-lessons-i-wish-id-learned-sooner",
+      "target_url": "https://shatanjaysudha.com/life-lessons-i-wish-id-learned-sooner?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/life-lessons-i-wish-id-learned-sooner",
+      "target_url": "https://shatanjaysudha.com/life-lessons-i-wish-id-learned-sooner?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/peace-in-choosing-not-converting",
+      "target_url": "https://shatanjaysudha.com/peace-in-choosing-not-converting?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/peace-in-choosing-not-converting",
+      "target_url": "https://shatanjaysudha.com/peace-in-choosing-not-converting?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/rewrite-your-identity-reclaim-your-life-hunter-mindset-manual",
+      "target_url": "https://shatanjaysudha.com/rewrite-your-identity-reclaim-your-life-hunter-mindset-manual?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/rewrite-your-identity-reclaim-your-life-hunter-mindset-manual",
+      "target_url": "https://shatanjaysudha.com/rewrite-your-identity-reclaim-your-life-hunter-mindset-manual?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/quiet-love-story-simi-himi",
+      "target_url": "https://shatanjaysudha.com/quiet-love-story-simi-himi?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/quiet-love-story-simi-himi",
+      "target_url": "https://shatanjaysudha.com/quiet-love-story-simi-himi?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/physiological-sigh-instant-calm",
+      "target_url": "https://shatanjaysudha.com/physiological-sigh-instant-calm?replytocom=13",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/physiological-sigh-instant-calm",
+      "target_url": "https://shatanjaysudha.com/physiological-sigh-instant-calm?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/physiological-sigh-instant-calm",
+      "target_url": "https://shatanjaysudha.com/physiological-sigh-instant-calm?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/raksha-bandhan-meaning-a-spiritual-shield-for-women-dharma-vedic-secrets-revealed",
+      "target_url": "https://shatanjaysudha.com/raksha-bandhan-meaning-a-spiritual-shield-for-women-dharma-vedic-secrets-revealed?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/raksha-bandhan-meaning-a-spiritual-shield-for-women-dharma-vedic-secrets-revealed",
+      "target_url": "https://shatanjaysudha.com/raksha-bandhan-meaning-a-spiritual-shield-for-women-dharma-vedic-secrets-revealed?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/fake-nice-meaning-strategy-or-self-sabotage",
+      "target_url": "https://shatanjaysudha.com/fake-nice-meaning-strategy-or-self-sabotage?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/fake-nice-meaning-strategy-or-self-sabotage",
+      "target_url": "https://shatanjaysudha.com/fake-nice-meaning-strategy-or-self-sabotage?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-not-to-lose-friends-over-politics",
+      "target_url": "https://shatanjaysudha.com/how-not-to-lose-friends-over-politics?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-not-to-lose-friends-over-politics",
+      "target_url": "https://shatanjaysudha.com/how-not-to-lose-friends-over-politics?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/growing-into-strength-impulse-intention",
+      "target_url": "https://shatanjaysudha.com/growing-into-strength-impulse-intention?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/growing-into-strength-impulse-intention",
+      "target_url": "https://shatanjaysudha.com/growing-into-strength-impulse-intention?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-make-money-as-a-student-2025",
+      "target_url": "https://shatanjaysudha.com/how-to-make-money-as-a-student-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-make-money-as-a-student-2025",
+      "target_url": "https://shatanjaysudha.com/how-to-make-money-as-a-student-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/beginner-ai-business-ideas-2025",
+      "target_url": "https://shatanjaysudha.com/beginner-ai-business-ideas-2025?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/beginner-ai-business-ideas-2025",
+      "target_url": "https://shatanjaysudha.com/beginner-ai-business-ideas-2025?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/nikola-tesla-vs-thomas-edison-war-of-currents",
+      "target_url": "https://shatanjaysudha.com/nikola-tesla-vs-thomas-edison-war-of-currents?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/nikola-tesla-vs-thomas-edison-war-of-currents",
+      "target_url": "https://shatanjaysudha.com/nikola-tesla-vs-thomas-edison-war-of-currents?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/automate-%E2%82%B9500-monthly-savings",
+      "target_url": "https://shatanjaysudha.com/automate-%e2%82%b9500-monthly-savings?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/automate-%E2%82%B9500-monthly-savings",
+      "target_url": "https://shatanjaysudha.com/automate-%e2%82%b9500-monthly-savings?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/50-30-20-budget-rule",
+      "target_url": "https://shatanjaysudha.com/50-30-20-budget-rule?replytocom=19",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/50-30-20-budget-rule",
+      "target_url": "https://shatanjaysudha.com/50-30-20-budget-rule?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/50-30-20-budget-rule",
+      "target_url": "https://shatanjaysudha.com/50-30-20-budget-rule?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/billionaire-mindsets-mental-models-wealth",
+      "target_url": "https://shatanjaysudha.com/billionaire-mindsets-mental-models-wealth?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/billionaire-mindsets-mental-models-wealth",
+      "target_url": "https://shatanjaysudha.com/billionaire-mindsets-mental-models-wealth?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-billionaires-think-about-money",
+      "target_url": "https://shatanjaysudha.com/how-billionaires-think-about-money?replytocom=21",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-billionaires-think-about-money",
+      "target_url": "https://shatanjaysudha.com/how-billionaires-think-about-money?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-billionaires-think-about-money",
+      "target_url": "https://shatanjaysudha.com/how-billionaires-think-about-money?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/habits-of-billionaires",
+      "target_url": "https://shatanjaysudha.com/habits-of-billionaires?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/habits-of-billionaires",
+      "target_url": "https://shatanjaysudha.com/habits-of-billionaires?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-make-money-legally-fast",
+      "target_url": "https://shatanjaysudha.com/how-to-make-money-legally-fast?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-to-make-money-legally-fast",
+      "target_url": "https://shatanjaysudha.com/how-to-make-money-legally-fast?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/july-4th-fashion-guide-simran-sudha",
+      "target_url": "https://shatanjaysudha.com/july-4th-fashion-guide-simran-sudha?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/july-4th-fashion-guide-simran-sudha",
+      "target_url": "https://shatanjaysudha.com/july-4th-fashion-guide-simran-sudha?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/brain-exercises-improve-memory-focus",
+      "target_url": "https://shatanjaysudha.com/brain-exercises-improve-memory-focus?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/brain-exercises-improve-memory-focus",
+      "target_url": "https://shatanjaysudha.com/brain-exercises-improve-memory-focus?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/civic-sense-in-india-reasons-solutions",
+      "target_url": "https://shatanjaysudha.com/civic-sense-in-india-reasons-solutions?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/civic-sense-in-india-reasons-solutions",
+      "target_url": "https://shatanjaysudha.com/civic-sense-in-india-reasons-solutions?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/microplastics-and-brain-health",
+      "target_url": "https://shatanjaysudha.com/microplastics-and-brain-health?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/microplastics-and-brain-health",
+      "target_url": "https://shatanjaysudha.com/microplastics-and-brain-health?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/toxic-masculinity-in-cinema",
+      "target_url": "https://shatanjaysudha.com/toxic-masculinity-in-cinema?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/toxic-masculinity-in-cinema",
+      "target_url": "https://shatanjaysudha.com/toxic-masculinity-in-cinema?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/3-day-life-reset",
+      "target_url": "https://shatanjaysudha.com/3-day-life-reset?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/3-day-life-reset",
+      "target_url": "https://shatanjaysudha.com/3-day-life-reset?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/7-science-backed-stress-management-techniques",
+      "target_url": "https://shatanjaysudha.com/7-science-backed-stress-management-techniques?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/7-science-backed-stress-management-techniques",
+      "target_url": "https://shatanjaysudha.com/7-science-backed-stress-management-techniques?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/elon-musk-screen-time-lessons",
+      "target_url": "https://shatanjaysudha.com/elon-musk-screen-time-lessons?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/elon-musk-screen-time-lessons",
+      "target_url": "https://shatanjaysudha.com/elon-musk-screen-time-lessons?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/manifest-%E2%82%B91-crore-daily-routine",
+      "target_url": "https://shatanjaysudha.com/manifest-%e2%82%b91-crore-daily-routine?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/manifest-%E2%82%B91-crore-daily-routine",
+      "target_url": "https://shatanjaysudha.com/manifest-%e2%82%b91-crore-daily-routine?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/rumi-inspired-poems",
+      "target_url": "https://shatanjaysudha.com/rumi-inspired-poems?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/rumi-inspired-poems",
+      "target_url": "https://shatanjaysudha.com/rumi-inspired-poems?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-from-photos-and-videos",
+      "target_url": "https://shatanjaysudha.com/earn-from-photos-and-videos?replytocom=9",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-from-photos-and-videos",
+      "target_url": "https://shatanjaysudha.com/earn-from-photos-and-videos?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-from-photos-and-videos",
+      "target_url": "https://shatanjaysudha.com/earn-from-photos-and-videos?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-big-questions-shaped-my-unplanned-journey",
+      "target_url": "https://shatanjaysudha.com/how-big-questions-shaped-my-unplanned-journey?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/how-big-questions-shaped-my-unplanned-journey",
+      "target_url": "https://shatanjaysudha.com/how-big-questions-shaped-my-unplanned-journey?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/what-makes-life-feel-full",
+      "target_url": "https://shatanjaysudha.com/what-makes-life-feel-full?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/what-makes-life-feel-full",
+      "target_url": "https://shatanjaysudha.com/what-makes-life-feel-full?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/dan-martell-productivity-tips-habits-system",
+      "target_url": "https://shatanjaysudha.com/dan-martell-productivity-tips-habits-system?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/dan-martell-productivity-tips-habits-system",
+      "target_url": "https://shatanjaysudha.com/dan-martell-productivity-tips-habits-system?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/face-value-digital-currency-2030",
+      "target_url": "https://shatanjaysudha.com/face-value-digital-currency-2030?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/face-value-digital-currency-2030",
+      "target_url": "https://shatanjaysudha.com/face-value-digital-currency-2030?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/science-strategies-combat-brain-aging",
+      "target_url": "https://shatanjaysudha.com/science-strategies-combat-brain-aging?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/science-strategies-combat-brain-aging",
+      "target_url": "https://shatanjaysudha.com/science-strategies-combat-brain-aging?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-youre-depressed",
+      "target_url": "https://shatanjaysudha.com/why-youre-depressed?replytocom=14",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-youre-depressed",
+      "target_url": "https://shatanjaysudha.com/why-youre-depressed?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/why-youre-depressed",
+      "target_url": "https://shatanjaysudha.com/why-youre-depressed?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-%E2%82%B98000-per-day-online",
+      "target_url": "https://shatanjaysudha.com/earn-%e2%82%b98000-per-day-online?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/earn-%E2%82%B98000-per-day-online",
+      "target_url": "https://shatanjaysudha.com/earn-%e2%82%b98000-per-day-online?share=x",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/gentle-habits-for-mental-health",
+      "target_url": "https://shatanjaysudha.com/gentle-habits-for-mental-health?share=facebook",
+      "reason": "target_not_crawled"
+    },
+    {
+      "source_url": "https://shatanjaysudha.com/gentle-habits-for-mental-health",
+      "target_url": "https://shatanjaysudha.com/gentle-habits-for-mental-health?share=x",
+      "reason": "target_not_crawled"
+    }
+  ],
+  "missing_alt_text": [],
+  "schema_discrepancies": [
+    {
+      "url": "https://shatanjaysudha.com/",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/12",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/2",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/3",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/10",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/11",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/4",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/5",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/8",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/9",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/6",
+      "issue": "missing_breadcrumb_schema"
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/7",
+      "issue": "missing_breadcrumb_schema"
+    }
+  ],
+  "content_depth_scores": [
+    {
+      "url": "https://shatanjaysudha.com/",
+      "word_count": 510,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/anti-indian-racism-abroad",
+      "word_count": 1418,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/build-10-lakh-portfolio-by-2025",
+      "word_count": 1377,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/carbon-offsets-and-credits-guide",
+      "word_count": 2930,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/debt-instruments-medium-term-wealth",
+      "word_count": 3461,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/earn-six-figures-in-2025-salary-growth-roadmap",
+      "word_count": 3207,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all",
+      "word_count": 544,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/goal-setting-and-motivation",
+      "word_count": 523,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/happiness-and-self-esteem",
+      "word_count": 526,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/iphone-17-pro-review",
+      "word_count": 2127,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/long-term-investing-in-equities-guide",
+      "word_count": 2644,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/mobile-phones",
+      "word_count": 194,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/nifty-50-index-funds-retirement-wealth-building",
+      "word_count": 3622,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/12",
+      "word_count": 246,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/2",
+      "word_count": 508,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/3",
+      "word_count": 506,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/real-estate-alternatives-for-young-earners-2025",
+      "word_count": 6030,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/short-term-money-mistakes",
+      "word_count": 1532,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/affiliate-marketing-guide",
+      "word_count": 316,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/agentic-ai-systems",
+      "word_count": 226,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/apple",
+      "word_count": 193,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/artificial-intelligence-trends",
+      "word_count": 536,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/best-books-to-read",
+      "word_count": 249,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/blogging-for-beginners",
+      "word_count": 322,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/brother-and-sister-bond",
+      "word_count": 254,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/build-better-habits",
+      "word_count": 319,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/celebration-ideas",
+      "word_count": 281,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/create-and-sell-ebooks",
+      "word_count": 283,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/create-digital-content",
+      "word_count": 289,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/digital-products-guide",
+      "word_count": 288,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/divine-energy",
+      "word_count": 273,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/entrepreneurship-journey",
+      "word_count": 248,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/faith-in-god",
+      "word_count": 278,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/freelance-work-guide",
+      "word_count": 350,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/gen-z-lifestyle",
+      "word_count": 258,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/grow-on-youtube",
+      "word_count": 259,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/growth-mindset-tips",
+      "word_count": 541,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/health-and-wellness-tips",
+      "word_count": 252,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/history",
+      "word_count": 199,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/how-to-earn-online",
+      "word_count": 531,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/it-tools-and-trends",
+      "word_count": 528,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/learn",
+      "word_count": 523,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/life",
+      "word_count": 372,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/love",
+      "word_count": 190,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/marriage-advice-and-tips",
+      "word_count": 218,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/personal-finance-tips",
+      "word_count": 530,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/personality-development-tips",
+      "word_count": 521,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/physiology",
+      "word_count": 194,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/print-on-demand-guide",
+      "word_count": 260,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/raksha-bandhan-celebration",
+      "word_count": 315,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/remakerai-tool-review",
+      "word_count": 229,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/self-improvement-tips",
+      "word_count": 543,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/smart-money-management",
+      "word_count": 224,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/social-media",
+      "word_count": 264,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/society",
+      "word_count": 282,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/spiritual",
+      "word_count": 278,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/start-print-on-demand-business",
+      "word_count": 262,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/step-by-step-guides",
+      "word_count": 532,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/stock-photography",
+      "word_count": 262,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/strength",
+      "word_count": 217,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/student",
+      "word_count": 252,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/technology",
+      "word_count": 261,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/virtual-assistant-jobs-online",
+      "word_count": 257,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/toxic-middle-class-parenting",
+      "word_count": 1236,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com",
+      "word_count": 497,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/automate-%e2%82%b9500-monthly-savings",
+      "word_count": 1328,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-to-invest-in-mutual-funds",
+      "word_count": 1139,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/emergency-fund-guide",
+      "word_count": 1146,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/ai-content-creation-tools-5x-speed",
+      "word_count": 2172,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/build-your-financial-fortress",
+      "word_count": 1383,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/career-path-transition-strategy",
+      "word_count": 1445,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/freedom-fuels-focus-science",
+      "word_count": 919,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/health-insurance-explained-simply",
+      "word_count": 1005,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/learn-coding-in-2025",
+      "word_count": 1905,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/non-linear-career-transition",
+      "word_count": 1334,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/p-e-ratio-stock-valuation-guide",
+      "word_count": 1073,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/product-management-guide",
+      "word_count": 2060,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/sales-leadership-management",
+      "word_count": 2404,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/term-life-insurance-raw-truths-battle-tested-protection-guide",
+      "word_count": 1058,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/the-habit-gap-daily-choice-success",
+      "word_count": 1791,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/the-math-doesnt-lie",
+      "word_count": 1848,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/12",
+      "word_count": 246,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/2",
+      "word_count": 551,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/3",
+      "word_count": 539,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/goal-setting-and-motivation/page/2",
+      "word_count": 511,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/goal-setting-and-motivation/page/3",
+      "word_count": 555,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/goal-setting-and-motivation/page/5",
+      "word_count": 328,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/cetaphil-gentle-skin-cleanser-review",
+      "word_count": 861,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/confidence-is-a-skill-learn-how-to-build-it",
+      "word_count": 1447,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/mental-health-and-well-being",
+      "word_count": 520,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/mindfulness-and-stress-management",
+      "word_count": 284,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/productivity-and-habit-building",
+      "word_count": 504,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-to-build-confidence-naturally",
+      "word_count": 1128,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/manifest-%e2%82%b91-crore-daily-routine",
+      "word_count": 1137,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/mobile-accessories-iphone-covers",
+      "word_count": 967,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/people-will-pay-to-learn-from-you",
+      "word_count": 833,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/shame-psychology-confidence",
+      "word_count": 972,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/teach-what-you-know-guide",
+      "word_count": 1266,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/mobile-phones",
+      "word_count": 194,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/self-discovery-and-purpose",
+      "word_count": 485,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/10",
+      "word_count": 485,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/11",
+      "word_count": 491,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/power-of-vocabulary",
+      "word_count": 1446,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/why-visuals-fail-in-comparison-to-real-content",
+      "word_count": 968,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/4",
+      "word_count": 550,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/exit-load-guide",
+      "word_count": 835,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/mutual-fund-expense-ratio",
+      "word_count": 1217,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/mutual-fund-nav-units-explained",
+      "word_count": 1358,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/5",
+      "word_count": 504,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/perfect-investment-blueprint",
+      "word_count": 1717,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/why-working-hard-beats-talent",
+      "word_count": 2712,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-to-earn-5000-a-month-selling-digital-products",
+      "word_count": 1285,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/make-money-online-2025",
+      "word_count": 1083,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/start-affiliate-marketing",
+      "word_count": 1297,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/agentic-ai-roadmap-2025",
+      "word_count": 836,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/ai-opportunities-india-2025",
+      "word_count": 1227,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/build-ai-agent-for-content-automation",
+      "word_count": 996,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/earn-%e2%82%b98000-per-day-online",
+      "word_count": 925,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/free-google-ai-tools-for-students",
+      "word_count": 1071,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/make-money-online-remakerai-2025",
+      "word_count": 903,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/replit-cloud-ide-collaborative-coding",
+      "word_count": 1135,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/artificial-intelligence-trends/page/2",
+      "word_count": 272,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/virtual-assistant-pay-well",
+      "word_count": 974,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/top-books-for-entrepreneurs-successful-startups",
+      "word_count": 2256,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/your-version-of-success",
+      "word_count": 807,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/start-a-blog-and-earn-15000-month",
+      "word_count": 968,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/start-a-blog-that-solves-problems",
+      "word_count": 1225,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/relationships-and-communication",
+      "word_count": 331,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/raksha-bandhan-2025-date-muhurat-rituals",
+      "word_count": 1046,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/raksha-bandhan-2025-messages",
+      "word_count": 995,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/build-the-system",
+      "word_count": 1060,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-to-quit-addiction-naturally",
+      "word_count": 736,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/micro-habits-for-building-wealth",
+      "word_count": 1588,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/small-habits-big-change",
+      "word_count": 1114,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/raksha-bandhan-gift-ideas-for-sister-2025",
+      "word_count": 1593,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/make-sell-digital-products",
+      "word_count": 835,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/divine-surrender-unshakeable-fortress-freedom",
+      "word_count": 1865,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/sant-tukaram-bhakti-teachings",
+      "word_count": 1354,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/silence-the-mind-divine-union",
+      "word_count": 1251,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/freelance-your-skills",
+      "word_count": 1051,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-to-de-influence-social-media-trends",
+      "word_count": 2297,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/why-gen-z-might-never-own-anything-from-homes-to-cars",
+      "word_count": 1915,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/earn-money-from-youtube-without-going-viral",
+      "word_count": 874,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/growth-mindset-tips/page/2",
+      "word_count": 533,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/growth-mindset-tips/page/3",
+      "word_count": 556,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/growth-mindset-tips/page/5",
+      "word_count": 495,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/abraham-diet-lose-belly-fat-hand-portions",
+      "word_count": 749,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/first-million-lessons",
+      "word_count": 914,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/edison-vs-tesla-the-current-wars",
+      "word_count": 1272,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/history",
+      "word_count": 199,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/history/history-of-science-technology",
+      "word_count": 203,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/design-merch-with-print-on-demand",
+      "word_count": 964,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/how-to-earn-online/page/2",
+      "word_count": 520,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/how-to-earn-online/page/3",
+      "word_count": 417,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/no-code-tools-2025",
+      "word_count": 889,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/it-tools-and-trends/page/2",
+      "word_count": 275,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/learn/page/2",
+      "word_count": 477,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/learn/page/3",
+      "word_count": 423,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/disappear-to-evolve",
+      "word_count": 1111,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/life-lessons-i-wish-id-learned-sooner",
+      "word_count": 1213,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/peace-in-choosing-not-converting",
+      "word_count": 13781,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/rewrite-your-identity-reclaim-your-life-hunter-mindset-manual",
+      "word_count": 1251,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/quiet-love-story-simi-himi",
+      "word_count": 1605,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/personal-finance-tips/page/2",
+      "word_count": 533,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/personal-finance-tips/page/3",
+      "word_count": 557,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/personal-finance-tips/page/4",
+      "word_count": 359,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/personality-development-tips/page/2",
+      "word_count": 551,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/personality-development-tips/page/3",
+      "word_count": 325,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/physiological-sigh-instant-calm",
+      "word_count": 1095,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/raksha-bandhan-meaning-a-spiritual-shield-for-women-dharma-vedic-secrets-revealed",
+      "word_count": 973,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/self-improvement-tips/page/2",
+      "word_count": 546,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/self-improvement-tips/page/3",
+      "word_count": 496,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/self-improvement-tips/page/4",
+      "word_count": 386,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/fake-nice-meaning-strategy-or-self-sabotage",
+      "word_count": 889,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-not-to-lose-friends-over-politics",
+      "word_count": 1411,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/step-by-step-guides/page/2",
+      "word_count": 531,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/step-by-step-guides/page/3",
+      "word_count": 535,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/step-by-step-guides/page/8",
+      "word_count": 296,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/growing-into-strength-impulse-intention",
+      "word_count": 1077,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-to-make-money-as-a-student-2025",
+      "word_count": 1337,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/beginner-ai-business-ideas-2025",
+      "word_count": 1473,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/nikola-tesla-vs-thomas-edison-war-of-currents",
+      "word_count": 1165,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/education-for-all",
+      "word_count": 232,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/struggles",
+      "word_count": 227,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/12",
+      "word_count": 233,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/2",
+      "word_count": 495,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/3",
+      "word_count": 493,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/automate-%E2%82%B9500-monthly-savings",
+      "word_count": 1328,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/50-30-20-budget-rule",
+      "word_count": 1016,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/billionaire-mindsets-mental-models-wealth",
+      "word_count": 1223,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-billionaires-think-about-money",
+      "word_count": 1818,
+      "depth_score": 5
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/10",
+      "word_count": 520,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/11",
+      "word_count": 518,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/4",
+      "word_count": 586,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/5",
+      "word_count": 534,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/habits-of-billionaires",
+      "word_count": 1043,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/goal-setting-and-motivation/page/4",
+      "word_count": 510,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-to-make-money-legally-fast",
+      "word_count": 1234,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/july-4th-fashion-guide-simran-sudha",
+      "word_count": 1048,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/beauty-tips-and-tricks",
+      "word_count": 222,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/cetaphil-skincare-review",
+      "word_count": 224,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/skin-care-tips",
+      "word_count": 221,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/brain-exercises-improve-memory-focus",
+      "word_count": 857,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/civic-sense-in-india-reasons-solutions",
+      "word_count": 1316,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/mental-health-and-well-being/page/2",
+      "word_count": 219,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/microplastics-and-brain-health",
+      "word_count": 1246,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/toxic-masculinity-in-cinema",
+      "word_count": 794,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/3-day-life-reset",
+      "word_count": 952,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/7-science-backed-stress-management-techniques",
+      "word_count": 1430,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/elon-musk-screen-time-lessons",
+      "word_count": 1263,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/productivity-and-habit-building/page/2",
+      "word_count": 333,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/manifest-%E2%82%B91-crore-daily-routine",
+      "word_count": 1137,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/rumi-inspired-poems",
+      "word_count": 1311,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/apple-product-reviews",
+      "word_count": 221,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/best-mobile-covers-amazon",
+      "word_count": 221,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/latest-iphone-reviews",
+      "word_count": 222,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/earn-from-photos-and-videos",
+      "word_count": 906,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/how-big-questions-shaped-my-unplanned-journey",
+      "word_count": 1206,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/self-discovery-and-purpose/page/2",
+      "word_count": 466,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/8",
+      "word_count": 499,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/9",
+      "word_count": 502,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/what-makes-life-feel-full",
+      "word_count": 1193,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/dan-martell-productivity-tips-habits-system",
+      "word_count": 1459,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/face-value-digital-currency-2030",
+      "word_count": 1512,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/6",
+      "word_count": 501,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/page/7",
+      "word_count": 511,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/science-strategies-combat-brain-aging",
+      "word_count": 952,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/why-youre-depressed",
+      "word_count": 1596,
+      "depth_score": 4
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/earn-money-selling-templates",
+      "word_count": 226,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/online-course-guide",
+      "word_count": 220,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/earn-%E2%82%B98000-per-day-online",
+      "word_count": 925,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/side-hustle-ideas",
+      "word_count": 232,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/gentle-habits-for-mental-health",
+      "word_count": 1020,
+      "depth_score": 3
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/make-money-with-coding",
+      "word_count": 220,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/time-management-tips",
+      "word_count": 223,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/understanding-emotions",
+      "word_count": 216,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/fear-of-missing-out",
+      "word_count": 224,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/influencer-marketing-tips",
+      "word_count": 222,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/how-to-start-a-vlog",
+      "word_count": 230,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/growth-mindset-tips/page/4",
+      "word_count": 507,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/healthy-diet-plans",
+      "word_count": 222,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/it-productivity-tools",
+      "word_count": 223,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/storytelling",
+      "word_count": 215,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/true-friendship-stories",
+      "word_count": 221,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/step-by-step-guides/page/4",
+      "word_count": 555,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/step-by-step-guides/page/5",
+      "word_count": 524,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/step-by-step-guides/page/6",
+      "word_count": 506,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/step-by-step-guides/page/7",
+      "word_count": 506,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/create-a-powerful-vision",
+      "word_count": 228,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/10",
+      "word_count": 472,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/11",
+      "word_count": 478,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/4",
+      "word_count": 537,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/5",
+      "word_count": 491,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/8",
+      "word_count": 528,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/9",
+      "word_count": 527,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/6",
+      "word_count": 534,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/explore-all/page/7",
+      "word_count": 538,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/4th-of-july-celebration",
+      "word_count": 224,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/american-culture-and-lifestyle",
+      "word_count": 228,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/stress-management",
+      "word_count": 196,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/heart-touching-shayari",
+      "word_count": 214,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/rumi-spiritual-poetry",
+      "word_count": 214,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/tag/productivity-hacks",
+      "word_count": 216,
+      "depth_score": 1
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/8",
+      "word_count": 486,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/9",
+      "word_count": 489,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/6",
+      "word_count": 488,
+      "depth_score": 2
+    },
+    {
+      "url": "https://shatanjaysudha.com/author/shatanjaysgmail-com/page/7",
+      "word_count": 498,
+      "depth_score": 2
+    }
+  ],
+  "duplicate_content_clusters": [
+    [
+      "https://shatanjaysudha.com/mobile-phones",
+      "https://shatanjaysudha.com/tag/mobile-phones"
+    ],
+    [
+      "https://shatanjaysudha.com/tag/history",
+      "https://shatanjaysudha.com/history"
+    ],
+    [
+      "https://shatanjaysudha.com/automate-%e2%82%b9500-monthly-savings",
+      "https://shatanjaysudha.com/automate-%E2%82%B9500-monthly-savings"
+    ],
+    [
+      "https://shatanjaysudha.com/manifest-%e2%82%b91-crore-daily-routine",
+      "https://shatanjaysudha.com/manifest-%E2%82%B91-crore-daily-routine"
+    ],
+    [
+      "https://shatanjaysudha.com/earn-%e2%82%b98000-per-day-online",
+      "https://shatanjaysudha.com/earn-%E2%82%B98000-per-day-online"
+    ]
+  ]
+}

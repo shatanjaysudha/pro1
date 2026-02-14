@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json.schemastore.org/design-tokens",
+  "version": "1.0.0",
+  "meta": {
+    "name": "shatanjaysudha-motion-system",
+    "updatedAt": "2026-02-14",
+    "notes": "Things-3-style spring system for web UI"
+  },
+  "motion": {
+    "spring": {
+      "stiffness": 170,
+      "damping": 22,
+      "mass": 1
+    },
+    "duration": {
+      "fast": "120ms",
+      "medium": "220ms",
+      "slow": "360ms"
+    },
+    "easing": {
+      "default": "cubic-bezier(.22,.85,.4,1)"
+    },
+    "stagger": {
+      "listRevealMs": 28,
+      "minMs": 20,
+      "maxMs": 40
+    },
+    "panel": {
+      "offsetPx": 28,
+      "opacityFrom": 0,
+      "opacityTo": 1
+    },
+    "categories": {
+      "enterExit": {
+        "duration": "medium",
+        "easing": "default",
+        "useSpring": true
+      },
+      "listReveal": {
+        "duration": "medium",
+        "staggerMs": 28,
+        "translateYFrom": 20,
+        "useSpring": true
+      },
+      "panelTransitions": {
+        "duration": "slow",
+        "translateXFrom": 28,
+        "useSpring": true
+      },
+      "hoverMicro": {
+        "duration": "fast",
+        "scaleUp": 1.03,
+        "liftPx": 2,
+        "useSpring": false
+      }
+    }
+  }
+}

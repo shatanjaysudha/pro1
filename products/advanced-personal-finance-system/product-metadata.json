@@ -1,0 +1,58 @@
+{
+  "title": "Advanced Personal Finance System",
+  "slug": "advanced-personal-finance-system",
+  "sku": "SS-FIN-001",
+  "price": {
+    "tier": "Mid",
+    "inr": 2999,
+    "usd_estimate": 36.13,
+    "currency_note": "Primary currency INR. USD estimate assumes 1 USD ≈ 83 INR."
+  },
+  "category": "Google Sheets",
+  "difficulty": "Advanced",
+  "setup_time": "35-50 min setup",
+  "tags": [
+    "Personal Finance",
+    "Google Sheets",
+    "Forecasting",
+    "Dashboard",
+    "Automation"
+  ],
+  "files": [
+    {
+      "name": "personal-finance-system-builder.gs",
+      "path": "deliverables/personal-finance-system-builder.gs",
+      "description": "Google Apps Script builder for full 10-sheet finance system"
+    },
+    {
+      "name": "FORMULAS.md",
+      "path": "deliverables/FORMULAS.md",
+      "description": "All major formulas used across KPI cards, summaries, and forecasts"
+    },
+    {
+      "name": "INSTRUCTIONS.md",
+      "path": "deliverables/INSTRUCTIONS.md",
+      "description": "Step-by-step user setup, yearly scaling, and interpretation guide"
+    },
+    {
+      "name": "QUALITY-CHECK.md",
+      "path": "deliverables/QUALITY-CHECK.md",
+      "description": "Stress-test plan and expected quality benchmarks"
+    },
+    {
+      "name": "implementation-checklist.md",
+      "path": "implementation-checklist.md",
+      "description": "Step-by-step deployment and QA checklist"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single user personal use with unlimited yearly updates.",
+    "commercial": "Internal commercial use allowed for one business entity. Resale is prohibited.",
+    "redistribution": "You may not redistribute, repackage, or resell this template or script."
+  },
+  "branding": {
+    "brand_name": "Shatanjay Sudha",
+    "theme": "Premium Finance Tracker",
+    "header_text": "Shatanjay Sudha — Personal Finance System"
+  }
+}

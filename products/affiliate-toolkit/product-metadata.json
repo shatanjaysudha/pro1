@@ -1,0 +1,61 @@
+{
+  "title": "Affiliate Toolkit",
+  "slug": "affiliate-toolkit",
+  "sku": "SS-022",
+  "price": {
+    "tier": "Mid",
+    "inr": 1999,
+    "usd_estimate": 24.08,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Growth",
+  "difficulty": "Intermediate",
+  "setup_time": "30 min setup",
+  "tags": [
+    "Affiliate",
+    "Templates",
+    "Landing Page",
+    "Partnerships",
+    "Growth"
+  ],
+  "keywords": [
+    "affiliate toolkit",
+    "partner landing page templates",
+    "affiliate promo assets"
+  ],
+  "files": [
+    {
+      "name": "affiliate-toolkit-affiliate-landing-template.md",
+      "path": "deliverables/affiliate-toolkit-affiliate-landing-template.md",
+      "secure_download": "/downloads/affiliate-toolkit/affiliate-toolkit-affiliate-landing-template.md?token={signed_token}"
+    },
+    {
+      "name": "affiliate-toolkit-implementation-guide.md",
+      "path": "deliverables/affiliate-toolkit-implementation-guide.md",
+      "secure_download": "/downloads/affiliate-toolkit/affiliate-toolkit-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "affiliate-toolkit-partner-stack.csv",
+      "path": "deliverables/affiliate-toolkit-partner-stack.csv",
+      "secure_download": "/downloads/affiliate-toolkit/affiliate-toolkit-partner-stack.csv?token={signed_token}"
+    },
+    {
+      "name": "affiliate-toolkit-quickstart-readme.txt",
+      "path": "deliverables/affiliate-toolkit-quickstart-readme.txt",
+      "secure_download": "/downloads/affiliate-toolkit/affiliate-toolkit-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

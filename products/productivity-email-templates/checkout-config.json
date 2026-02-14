@@ -1,0 +1,19 @@
+{
+  "provider": "gumroad",
+  "sku": "SS-009",
+  "product_slug": "productivity-email-templates",
+  "price_inr": 699,
+  "price_usd_estimate": 8.42,
+  "currency": "INR",
+  "delivery": {
+    "method": "secure_link_and_email_receipt",
+    "email_unlock_for_freebies": false,
+    "post_purchase_email": true
+  },
+  "upsell_rule": {
+    "trigger": "cart_item_count >= 2",
+    "offer": "Email Templates for Productivity (50) at 20% off",
+    "discount_percent": 20
+  },
+  "cta": "Buy now"
+}

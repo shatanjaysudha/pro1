@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Things 3 Master Setup",
+  "description": "Things 3 Master Setup for Things 3 users who want a durable weekly and project flow.. Includes practical files, setup guide, and conversion-ready workfl...",
+  "sku": "SS-006",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Things 3",
+  "keywords": [
+    "things 3 setup",
+    "things 3 workflow",
+    "task management system"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/things3-master-setup/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/things3-master-setup/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 1799,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/things3-master-setup/"
+  }
+}

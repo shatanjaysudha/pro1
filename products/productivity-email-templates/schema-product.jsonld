@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Email Templates for Productivity (50)",
+  "description": "Email Templates for Productivity (50) for Professionals who spend >2 hours per day in email.. Includes practical files, setup guide, and conversion-read...",
+  "sku": "SS-009",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Productivity",
+  "keywords": [
+    "productivity email templates",
+    "work email templates",
+    "professional email scripts"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/productivity-email-templates/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/productivity-email-templates/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 699,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/productivity-email-templates/"
+  }
+}

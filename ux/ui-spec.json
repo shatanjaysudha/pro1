@@ -1,0 +1,151 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-02-14",
+  "shortlisted_features": [
+    {
+      "id": "F01",
+      "name": "Intent Radar + Adaptive Surface",
+      "screens": [
+        "home.intent-radar",
+        "split.intent-radar",
+        "intent.controls-modal"
+      ],
+      "elements": {
+        "intent_chip": {
+          "desktop": { "height": 36, "min_width": 140 },
+          "mobile": { "height": 34, "min_width": 116 }
+        }
+      },
+      "animation": {
+        "reorder": { "duration_ms": 220, "stagger_ms": 30, "properties": ["transform", "opacity"] }
+      },
+      "a11y": {
+        "aria_live": "polite",
+        "keyboard_required": true,
+        "focus_stability_required": true
+      },
+      "errors": ["INTENT_SIGNAL_LOW", "INTENT_SERVICE_DOWN"]
+    },
+    {
+      "id": "F02",
+      "name": "Predictive Content Forecasting Panel",
+      "screens": [
+        "home.predictive-panel",
+        "split.predictive-next",
+        "predictive.feedback-sheet"
+      ],
+      "elements": {
+        "panel": {
+          "desktop": { "width": 320 },
+          "mobile": { "width": "100%" }
+        },
+        "card": {
+          "compact_height": 88,
+          "expanded_height": 112
+        }
+      },
+      "animation": {
+        "entry": { "duration_ms": 180, "type": "slide-up" },
+        "exit": { "duration_ms": 140, "type": "fade-down" }
+      },
+      "a11y": {
+        "semantic_list_required": true,
+        "dismiss_keyboard_accessible": true
+      },
+      "errors": ["RANKING_TIMEOUT", "NO_RECOMMENDATIONS"]
+    },
+    {
+      "id": "F04",
+      "name": "Friction Sentinel + Rescue UI",
+      "screens": [
+        "split.friction-alert",
+        "home.friction-nudge",
+        "rescue.action-modal"
+      ],
+      "elements": {
+        "nudge_toast": {
+          "desktop_max_width": 420,
+          "mobile_width": "calc(100vw - 24px)"
+        }
+      },
+      "animation": {
+        "pulse": { "cycles": 2, "duration_ms": 320 },
+        "fallback": "opacity-only"
+      },
+      "a11y": {
+        "role": "status",
+        "dismissible": true,
+        "prompt_frequency_cap_seconds": 90
+      },
+      "errors": ["FRICTION_FALSE_POSITIVE", "FRICTION_MODEL_ERROR"]
+    },
+    {
+      "id": "F05",
+      "name": "Adaptive Reading Mode",
+      "screens": [
+        "split.reading-mode-banner",
+        "split.reader-mode-controls",
+        "settings.reading-preferences"
+      ],
+      "elements": {
+        "mode_badge": { "height": 32 },
+        "reader_width": { "desktop_min": 640, "desktop_max": 860 }
+      },
+      "animation": {
+        "token_transition_ms": 200
+      },
+      "a11y": {
+        "user_zoom_respected": true,
+        "mode_lock_available": true,
+        "auto_mode_opt_out": true
+      },
+      "errors": ["MODE_CLASSIFIER_LOW_CONFIDENCE", "TOKEN_OVERRIDE_FAIL"]
+    },
+    {
+      "id": "F07",
+      "name": "Inline Prompt Suggestion Engine",
+      "screens": [
+        "article.inline-prompt-chip",
+        "article.prompt-tray",
+        "prompt.feedback-popover"
+      ],
+      "elements": {
+        "prompt_chip": { "height": 30 },
+        "prompt_tray": {
+          "desktop_width": 360,
+          "mobile_presentation": "bottom-sheet"
+        }
+      },
+      "animation": {
+        "chip_reveal_ms": 140,
+        "properties": ["opacity", "transform"]
+      },
+      "a11y": {
+        "live_region_for_copy_confirm": true,
+        "keyboard_navigation_required": true
+      },
+      "errors": ["PROMPT_SERVICE_DOWN", "PROMPT_EMPTY"]
+    }
+  ],
+  "tokens": {
+    "colors": {
+      "intent_learn": "#2D9CDB",
+      "intent_implement": "#27AE60",
+      "intent_buy": "#F2994A",
+      "surface_elevated_2": "#2B2D31"
+    },
+    "radius": {
+      "card_lg": 16
+    },
+    "motion": {
+      "enter_ms": 220,
+      "emphasis_ms": 320,
+      "easing": "cubic-bezier(.2,.9,.25,1)"
+    }
+  },
+  "global_accessibility": {
+    "contrast_standard": "WCAG 2.2 AA",
+    "mobile_min_touch_target": "44x44",
+    "reduced_motion_supported": true
+  }
+}

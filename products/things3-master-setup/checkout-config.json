@@ -1,0 +1,19 @@
+{
+  "provider": "gumroad",
+  "sku": "SS-006",
+  "product_slug": "things3-master-setup",
+  "price_inr": 1799,
+  "price_usd_estimate": 21.67,
+  "currency": "INR",
+  "delivery": {
+    "method": "secure_link_and_email_receipt",
+    "email_unlock_for_freebies": false,
+    "post_purchase_email": true
+  },
+  "upsell_rule": {
+    "trigger": "cart_item_count >= 2",
+    "offer": "Things 3 Master Setup at 20% off",
+    "discount_percent": 20
+  },
+  "cta": "Buy now"
+}

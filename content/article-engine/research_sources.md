@@ -1,0 +1,73 @@
+# Research Sources
+
+Last updated: 2026-02-14
+
+- Google Discover and your website: https://developers.google.com/search/docs/appearance/google-discover
+  - Type: official_guidance
+  - Signal used: Discover favors helpful content, strong non-clickbait titles, and large 1200px+ images.
+- Google Article structured data documentation: https://developers.google.com/search/docs/appearance/structured-data/article
+  - Type: official_guidance
+  - Signal used: Use rich article metadata including author, dates, and high-resolution images.
+- Google creating helpful, reliable, people-first content: https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+  - Type: official_guidance
+  - Signal used: Original, experience-backed, complete answers are preferred over search-first fluff.
+- Google robots meta tag max-image-preview documentation: https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag
+  - Type: official_guidance
+  - Signal used: Large image previews are available with max-image-preview:large.
+- Generate data with Gemini in Google Sheets: https://workspaceupdates.googleblog.com/2025/06/generate-data-with-gemini-in-google-sheets.html
+  - Type: product_update
+  - Signal used: AI function now supports in-cell generation, summarization, and categorization.
+- AI function in Sheets enhanced with Google Search results: https://workspaceupdates.googleblog.com/2025/10/enhanced-ai-function-sheets-google-search.html
+  - Type: product_update
+  - Signal used: Demand is rising for Sheets workflows that blend spreadsheet logic with live web context.
+- Gemini in Sheets can analyze data across multiple tables: https://workspaceupdates.googleblog.com/2025/10/gemini-in-google-sheets-analyze-data.html
+  - Type: product_update
+  - Signal used: Advanced, multi-table analysis is now a practical user need.
+- LinkedIn Work Change Report 2025: https://www.linkedin.com/blog/member/data/work-change-report-2025
+  - Type: labor_market_report
+  - Signal used: LinkedIn projects 70% of skills in most jobs will change by 2030.
+- LinkedIn 2026 Davos press release: https://news.linkedin.com/2026/2026-Davos-Press-Release
+  - Type: labor_market_report
+  - Signal used: AI literacy demand and job-hunting intensity are both increasing.
+- LinkedIn Skills on the Rise 2025: https://www.linkedin.com/business/talent/blog/learning-and-development/skills-on-the-rise
+  - Type: skills_report
+  - Signal used: AI literacy and process optimization are top rising skills.
+- Microsoft 2025 Work Trend Index: https://news.microsoft.com/source/emea/2025/04/2025-work-trend-index-swiss-organizations-lead-in-ai-adoption-52-automate-entire-business-processes-surpassing-global-and-european-averages/
+  - Type: workplace_report
+  - Signal used: Leaders are moving from AI experimentation to process-level automation.
+- Stack Overflow Developer Survey 2025 - AI: https://survey.stackoverflow.co/2025/ai
+  - Type: industry_survey
+  - Signal used: AI usage is broad, but trust and verification gaps remain.
+- Asana - work about work findings: https://asana.com/resources/pandemic-paradigm-shift
+  - Type: productivity_report
+  - Signal used: Knowledge workers still lose substantial time to coordination overhead.
+- Atlassian State of Teams 2025: https://www.atlassian.com/blog/state-of-teams-2025
+  - Type: productivity_report
+  - Signal used: Teams waste major time searching for information; system design topics are timely.
+- BLS fastest-growing occupations 2024-2034: https://www.bls.gov/emp/tables/fastest-growing-occupations.htm
+  - Type: labor_market_report
+  - Signal used: Data and security roles are among the fastest-growing occupations.
+- BLS 2026 projections overview: https://www.bls.gov/opub/mlr/2026/article/industry-and-occupational-employment-projections-overview.htm
+  - Type: labor_market_report
+  - Signal used: IT and cloud/AI infrastructure demand remains high.
+- Ahrefs top Google searches January 2026: https://ahrefs.com/blog/top-google-searches/
+  - Type: keyword_signal
+  - Signal used: ChatGPT and AI-adjacent search behavior remain extremely high.
+- Ahrefs AI Overview growth study: https://ahrefs.com/blog/ai-overview-growth/
+  - Type: seo_signal
+  - Signal used: AI Overviews expanded, requiring stronger differentiation and richer content design.
+- Jeff Su article structure sample: https://www.jeffsu.org/i-taught-6-642-googlers-this-productivity-system/
+  - Type: competitor_structure
+  - Signal used: BLUF + framework + resource CTA + practical system framing.
+- MakeUseOf productivity article structure sample: https://www.makeuseof.com/reasons-you-dont-need-productivity-apps/
+  - Type: competitor_structure
+  - Signal used: Strong list headline, numbered sections, short paragraphs, internal related links.
+- iPhoneLife how-to structure sample: https://www.iphonelife.com/content/cant-unsend-messages
+  - Type: competitor_structure
+  - Signal used: What to Know summary box, table of contents, troubleshooting flow, FAQ.
+- Medium AI workflow article structure sample: https://medium.com/codrift/the-ai-workflow-that-runs-my-entire-business-while-i-sleep-4529d192abaf
+  - Type: competitor_structure
+  - Signal used: Personal hook, story-first lead, numbered sections, lightweight read-time framing.
+- OpenAI new tools for building agents: https://openai.com/index/new-tools-for-building-agents/
+  - Type: product_update
+  - Signal used: Agentic workflows and tool-using AI systems are a sustained demand theme.

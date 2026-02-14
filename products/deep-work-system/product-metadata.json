@@ -1,0 +1,56 @@
+{
+  "title": "Deep Work System",
+  "slug": "deep-work-system",
+  "sku": "SS-002",
+  "price": {
+    "tier": "Mid",
+    "inr": 1499,
+    "usd_estimate": 18.06,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Productivity",
+  "difficulty": "Beginner",
+  "setup_time": "35 min setup",
+  "tags": [
+    "Deep Work",
+    "Focus",
+    "Planning",
+    "Routines",
+    "Execution"
+  ],
+  "keywords": [
+    "deep work template",
+    "focus system",
+    "30 day productivity plan"
+  ],
+  "files": [
+    {
+      "name": "deep-work-system-deep-work-plan.md",
+      "path": "deliverables/deep-work-system-deep-work-plan.md",
+      "secure_download": "/downloads/deep-work-system/deep-work-system-deep-work-plan.md?token={signed_token}"
+    },
+    {
+      "name": "deep-work-system-implementation-guide.md",
+      "path": "deliverables/deep-work-system-implementation-guide.md",
+      "secure_download": "/downloads/deep-work-system/deep-work-system-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "deep-work-system-quickstart-readme.txt",
+      "path": "deliverables/deep-work-system-quickstart-readme.txt",
+      "secure_download": "/downloads/deep-work-system/deep-work-system-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

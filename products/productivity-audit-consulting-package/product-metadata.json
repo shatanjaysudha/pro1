@@ -1,0 +1,61 @@
+{
+  "title": "Consulting Package: 3-Session Productivity Audit",
+  "slug": "productivity-audit-consulting-package",
+  "sku": "SS-021",
+  "price": {
+    "tier": "Premium",
+    "inr": 24999,
+    "usd_estimate": 301.19,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Consulting",
+  "difficulty": "Advanced",
+  "setup_time": "15 min setup",
+  "tags": [
+    "Consulting",
+    "Productivity",
+    "Audit",
+    "Systems",
+    "Execution"
+  ],
+  "keywords": [
+    "productivity consulting package",
+    "productivity audit service",
+    "systems consulting"
+  ],
+  "files": [
+    {
+      "name": "productivity-audit-consulting-package-engagement-plan.md",
+      "path": "deliverables/productivity-audit-consulting-package-engagement-plan.md",
+      "secure_download": "/downloads/productivity-audit-consulting-package/productivity-audit-consulting-package-engagement-plan.md?token={signed_token}"
+    },
+    {
+      "name": "productivity-audit-consulting-package-implementation-guide.md",
+      "path": "deliverables/productivity-audit-consulting-package-implementation-guide.md",
+      "secure_download": "/downloads/productivity-audit-consulting-package/productivity-audit-consulting-package-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "productivity-audit-consulting-package-intake-form.md",
+      "path": "deliverables/productivity-audit-consulting-package-intake-form.md",
+      "secure_download": "/downloads/productivity-audit-consulting-package/productivity-audit-consulting-package-intake-form.md?token={signed_token}"
+    },
+    {
+      "name": "productivity-audit-consulting-package-quickstart-readme.txt",
+      "path": "deliverables/productivity-audit-consulting-package-quickstart-readme.txt",
+      "secure_download": "/downloads/productivity-audit-consulting-package/productivity-audit-consulting-package-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "14-day implementation guarantee. If you complete the checklist and see no measurable improvement, request a full refund within 14 days.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

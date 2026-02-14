@@ -1,0 +1,34 @@
+{
+  "homepage": {
+    "anchors": [
+      "Featured Guides",
+      "Trending Articles",
+      "Power Prompts",
+      "Featured Categories",
+      "Go Deeper"
+    ],
+    "categories": [
+      { "label": "AI", "page": "ai" },
+      { "label": "Productivity", "page": "productivity" },
+      { "label": "Career", "page": "career" },
+      { "label": "Resources", "page": "resources-hub" }
+    ]
+  },
+  "resources_hub": {
+    "content_types": ["Guides", "Templates", "Tools", "Videos", "Case Studies"],
+    "filters": ["category", "tags", "query"],
+    "autocomplete": true
+  },
+  "intellectual_hub": {
+    "assistant": {
+      "enabled": true,
+      "starter_prompts": 4,
+      "recommendation_limit": 4
+    }
+  },
+  "search_system": {
+    "scopes": ["pages", "posts", "resources", "prompts", "tools", "hub"],
+    "shortcut": "Cmd/Ctrl + K",
+    "match_highlighting": true
+  }
+}

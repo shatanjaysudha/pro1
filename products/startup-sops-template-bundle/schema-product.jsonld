@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Startup SOPs Template Bundle",
+  "description": "Startup SOPs Template Bundle for Small teams standardizing operations and handoffs.. Includes practical files, setup guide, and conversion-ready workflo...",
+  "sku": "SS-016",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Systems",
+  "keywords": [
+    "startup sop templates",
+    "operations templates",
+    "notion sop bundle"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/startup-sops-template-bundle/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/startup-sops-template-bundle/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 2999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/startup-sops-template-bundle/"
+  }
+}

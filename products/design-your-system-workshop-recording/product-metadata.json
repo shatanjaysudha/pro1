@@ -1,0 +1,66 @@
+{
+  "title": "Workshop Recording: Design Your System",
+  "slug": "design-your-system-workshop-recording",
+  "sku": "SS-018",
+  "price": {
+    "tier": "Premium",
+    "inr": 5499,
+    "usd_estimate": 66.25,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Workshop",
+  "difficulty": "Intermediate",
+  "setup_time": "120 min setup",
+  "tags": [
+    "Workshop",
+    "Systems",
+    "Productivity",
+    "Execution",
+    "Training"
+  ],
+  "keywords": [
+    "productivity workshop recording",
+    "design your system workshop",
+    "execution systems training"
+  ],
+  "files": [
+    {
+      "name": "design-your-system-workshop-recording-implementation-guide.md",
+      "path": "deliverables/design-your-system-workshop-recording-implementation-guide.md",
+      "secure_download": "/downloads/design-your-system-workshop-recording/design-your-system-workshop-recording-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "design-your-system-workshop-recording-quickstart-readme.txt",
+      "path": "deliverables/design-your-system-workshop-recording-quickstart-readme.txt",
+      "secure_download": "/downloads/design-your-system-workshop-recording/design-your-system-workshop-recording-quickstart-readme.txt?token={signed_token}"
+    },
+    {
+      "name": "design-your-system-workshop-recording-sample-lesson.md",
+      "path": "deliverables/design-your-system-workshop-recording-sample-lesson.md",
+      "secure_download": "/downloads/design-your-system-workshop-recording/design-your-system-workshop-recording-sample-lesson.md?token={signed_token}"
+    },
+    {
+      "name": "design-your-system-workshop-recording-workbook.md",
+      "path": "deliverables/design-your-system-workshop-recording-workbook.md",
+      "secure_download": "/downloads/design-your-system-workshop-recording/design-your-system-workshop-recording-workbook.md?token={signed_token}"
+    },
+    {
+      "name": "design-your-system-workshop-recording-workshop-outline.md",
+      "path": "deliverables/design-your-system-workshop-recording-workshop-outline.md",
+      "secure_download": "/downloads/design-your-system-workshop-recording/design-your-system-workshop-recording-workshop-outline.md?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "14-day implementation guarantee. If you complete the checklist and see no measurable improvement, request a full refund within 14 days.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

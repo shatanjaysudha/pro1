@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "dashboard_name": "Futuristic UX Rollout",
+  "updated_at": "2026-02-14",
+  "sections": [
+    {
+      "id": "adoption",
+      "title": "Feature Adoption",
+      "widgets": [
+        { "type": "timeseries", "metric": "intent_inferred_sessions" },
+        { "type": "timeseries", "metric": "predictive_panel_exposed_sessions" },
+        { "type": "timeseries", "metric": "prompt_suggestion_exposed_sessions" }
+      ]
+    },
+    {
+      "id": "performance",
+      "title": "Business Performance",
+      "widgets": [
+        { "type": "funnel", "metric": "save_to_download_conversion_rate" },
+        { "type": "timeseries", "metric": "deep_read_completion_rate" },
+        { "type": "timeseries", "metric": "weekly_returning_reader_rate" }
+      ]
+    },
+    {
+      "id": "quality",
+      "title": "Quality Guardrails",
+      "widgets": [
+        { "type": "timeseries", "metric": "api_error_rate" },
+        { "type": "timeseries", "metric": "p95_interaction_latency_ms" },
+        { "type": "timeseries", "metric": "critical_accessibility_defects" }
+      ]
+    }
+  ],
+  "filters": ["date_range", "device", "source", "intent", "feature_id"],
+  "refresh_interval_seconds": 60
+}

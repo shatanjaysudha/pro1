@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Advanced Personal Finance System",
+  "description": "Premium Google Sheets finance template with KPI dashboard, category tracking, cash flow projections, and net worth forecasting.",
+  "sku": "SS-FIN-001",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Finance Template",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": "2999",
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/advanced-personal-finance-system/"
+  }
+}

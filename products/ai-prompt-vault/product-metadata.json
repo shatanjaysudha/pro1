@@ -1,0 +1,56 @@
+{
+  "title": "AI Prompt Vault (200 Prompts)",
+  "slug": "ai-prompt-vault",
+  "sku": "SS-004",
+  "price": {
+    "tier": "Mid",
+    "inr": 1999,
+    "usd_estimate": 24.08,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "AI",
+  "difficulty": "Beginner",
+  "setup_time": "15 min setup",
+  "tags": [
+    "AI",
+    "Prompt Engineering",
+    "Writing",
+    "Research",
+    "Strategy"
+  ],
+  "keywords": [
+    "ai prompt vault",
+    "prompt engineering templates",
+    "chatgpt prompts for work"
+  ],
+  "files": [
+    {
+      "name": "ai-prompt-vault-implementation-guide.md",
+      "path": "deliverables/ai-prompt-vault-implementation-guide.md",
+      "secure_download": "/downloads/ai-prompt-vault/ai-prompt-vault-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "ai-prompt-vault-prompt-pack.md",
+      "path": "deliverables/ai-prompt-vault-prompt-pack.md",
+      "secure_download": "/downloads/ai-prompt-vault/ai-prompt-vault-prompt-pack.md?token={signed_token}"
+    },
+    {
+      "name": "ai-prompt-vault-quickstart-readme.txt",
+      "path": "deliverables/ai-prompt-vault-quickstart-readme.txt",
+      "secure_download": "/downloads/ai-prompt-vault/ai-prompt-vault-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

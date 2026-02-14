@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Productivity OS — Notion System",
+  "description": "Productivity OS — Notion System for Students, managers, and founders building long-term execution systems.. Includes practical files, setup guide, and c...",
+  "sku": "SS-001",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Systems",
+  "keywords": [
+    "notion productivity system",
+    "weekly review template",
+    "productivity operating system"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/productivity-os/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/productivity-os/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 12999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/productivity-os/"
+  }
+}

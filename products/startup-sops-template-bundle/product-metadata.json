@@ -1,0 +1,56 @@
+{
+  "title": "Startup SOPs Template Bundle",
+  "slug": "startup-sops-template-bundle",
+  "sku": "SS-016",
+  "price": {
+    "tier": "Mid",
+    "inr": 2999,
+    "usd_estimate": 36.13,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Systems",
+  "difficulty": "Intermediate",
+  "setup_time": "60 min setup",
+  "tags": [
+    "SOP",
+    "Operations",
+    "Startup",
+    "Notion",
+    "Systems"
+  ],
+  "keywords": [
+    "startup sop templates",
+    "operations templates",
+    "notion sop bundle"
+  ],
+  "files": [
+    {
+      "name": "startup-sops-template-bundle-implementation-guide.md",
+      "path": "deliverables/startup-sops-template-bundle-implementation-guide.md",
+      "secure_download": "/downloads/startup-sops-template-bundle/startup-sops-template-bundle-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "startup-sops-template-bundle-quickstart-readme.txt",
+      "path": "deliverables/startup-sops-template-bundle-quickstart-readme.txt",
+      "secure_download": "/downloads/startup-sops-template-bundle/startup-sops-template-bundle-quickstart-readme.txt?token={signed_token}"
+    },
+    {
+      "name": "startup-sops-template-bundle-sop-library.md",
+      "path": "deliverables/startup-sops-template-bundle-sop-library.md",
+      "secure_download": "/downloads/startup-sops-template-bundle/startup-sops-template-bundle-sop-library.md?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

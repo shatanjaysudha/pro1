@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Consulting Package: 3-Session Productivity Audit",
+  "description": "Consulting Package: 3-Session Productivity Audit for Founders and teams needing direct implementation support.. Includes practical files, setup guide, a...",
+  "sku": "SS-021",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Consulting",
+  "keywords": [
+    "productivity consulting package",
+    "productivity audit service",
+    "systems consulting"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/productivity-audit-consulting-package/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/productivity-audit-consulting-package/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 24999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/productivity-audit-consulting-package/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Things 3 Master Setup",
+  "slug": "things3-master-setup",
+  "sku": "SS-006",
+  "price": {
+    "tier": "Mid",
+    "inr": 1799,
+    "usd_estimate": 21.67,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Things 3",
+  "difficulty": "Intermediate",
+  "setup_time": "30 min setup",
+  "tags": [
+    "Things 3",
+    "Task Management",
+    "Productivity",
+    "Weekly Review",
+    "Deep Work"
+  ],
+  "keywords": [
+    "things 3 setup",
+    "things 3 workflow",
+    "task management system"
+  ],
+  "files": [
+    {
+      "name": "things3-master-setup-implementation-guide.md",
+      "path": "deliverables/things3-master-setup-implementation-guide.md",
+      "secure_download": "/downloads/things3-master-setup/things3-master-setup-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "things3-master-setup-quickstart-readme.txt",
+      "path": "deliverables/things3-master-setup-quickstart-readme.txt",
+      "secure_download": "/downloads/things3-master-setup/things3-master-setup-quickstart-readme.txt?token={signed_token}"
+    },
+    {
+      "name": "things3-master-setup-things3-projects.csv",
+      "path": "deliverables/things3-master-setup-things3-projects.csv",
+      "secure_download": "/downloads/things3-master-setup/things3-master-setup-things3-projects.csv?token={signed_token}"
+    },
+    {
+      "name": "things3-master-setup-walkthrough.md",
+      "path": "deliverables/things3-master-setup-walkthrough.md",
+      "secure_download": "/downloads/things3-master-setup/things3-master-setup-walkthrough.md?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

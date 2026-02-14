@@ -1,0 +1,21 @@
+{
+  "home": {
+    "title": "Shatanjay Sudha",
+    "description": "Discover practical systems, AI workflows, and productivity templates to execute better each week.",
+    "canonical": "https://shatanjaysudha.com/"
+  },
+  "resources_hub": {
+    "title": "Resources | Shatanjay Sudha",
+    "description": "Curated guides, templates, tools, downloads, videos, and learning paths for high-performance professionals.",
+    "canonical": "https://shatanjaysudha.com/#page=resources-hub"
+  },
+  "article_default": {
+    "title_template": "{article_title} | Shatanjay Sudha",
+    "description_source": "post.excerpt OR seo.metaDescription",
+    "canonical_template": "https://shatanjaysudha.com/#page={source_page}&post={post_id}"
+  },
+  "open_graph": {
+    "og:type": "website",
+    "og:image_default": "https://shatanjaysudha.com/assets/hero/hero-1200.jpg"
+  }
+}

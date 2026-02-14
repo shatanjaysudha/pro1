@@ -1,0 +1,61 @@
+{
+  "title": "Career Leverage Playbook",
+  "slug": "career-leverage-playbook",
+  "sku": "SS-012",
+  "price": {
+    "tier": "Mid",
+    "inr": 1499,
+    "usd_estimate": 18.06,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Career",
+  "difficulty": "Beginner",
+  "setup_time": "40 min setup",
+  "tags": [
+    "Career",
+    "Leverage",
+    "Positioning",
+    "Strategy",
+    "Execution"
+  ],
+  "keywords": [
+    "career leverage playbook",
+    "career strategy workbook",
+    "professional growth system"
+  ],
+  "files": [
+    {
+      "name": "career-leverage-playbook-checklist.md",
+      "path": "deliverables/career-leverage-playbook-checklist.md",
+      "secure_download": "/downloads/career-leverage-playbook/career-leverage-playbook-checklist.md?token={signed_token}"
+    },
+    {
+      "name": "career-leverage-playbook-ebook.md",
+      "path": "deliverables/career-leverage-playbook-ebook.md",
+      "secure_download": "/downloads/career-leverage-playbook/career-leverage-playbook-ebook.md?token={signed_token}"
+    },
+    {
+      "name": "career-leverage-playbook-implementation-guide.md",
+      "path": "deliverables/career-leverage-playbook-implementation-guide.md",
+      "secure_download": "/downloads/career-leverage-playbook/career-leverage-playbook-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "career-leverage-playbook-quickstart-readme.txt",
+      "path": "deliverables/career-leverage-playbook-quickstart-readme.txt",
+      "secure_download": "/downloads/career-leverage-playbook/career-leverage-playbook-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

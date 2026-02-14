@@ -1,0 +1,61 @@
+{
+  "title": "Tally QuickStart Pack",
+  "slug": "tally-quickstart-pack",
+  "sku": "SS-007",
+  "price": {
+    "tier": "Mid",
+    "inr": 2999,
+    "usd_estimate": 36.13,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Tally",
+  "difficulty": "Intermediate",
+  "setup_time": "75 min setup",
+  "tags": [
+    "Tally",
+    "Accounting",
+    "Finance Ops",
+    "Systems",
+    "Automation"
+  ],
+  "keywords": [
+    "tally setup guide",
+    "tally quickstart",
+    "small business accounting systems"
+  ],
+  "files": [
+    {
+      "name": "tally-quickstart-pack-automation-starter.md",
+      "path": "deliverables/tally-quickstart-pack-automation-starter.md",
+      "secure_download": "/downloads/tally-quickstart-pack/tally-quickstart-pack-automation-starter.md?token={signed_token}"
+    },
+    {
+      "name": "tally-quickstart-pack-chart-of-accounts.csv",
+      "path": "deliverables/tally-quickstart-pack-chart-of-accounts.csv",
+      "secure_download": "/downloads/tally-quickstart-pack/tally-quickstart-pack-chart-of-accounts.csv?token={signed_token}"
+    },
+    {
+      "name": "tally-quickstart-pack-implementation-guide.md",
+      "path": "deliverables/tally-quickstart-pack-implementation-guide.md",
+      "secure_download": "/downloads/tally-quickstart-pack/tally-quickstart-pack-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "tally-quickstart-pack-quickstart-readme.txt",
+      "path": "deliverables/tally-quickstart-pack-quickstart-readme.txt",
+      "secure_download": "/downloads/tally-quickstart-pack/tally-quickstart-pack-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "7-day no-friction refund policy for first-time buyers who have completed setup and still find it unsuitable.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

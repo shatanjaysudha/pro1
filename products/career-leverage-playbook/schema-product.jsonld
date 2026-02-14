@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Career Leverage Playbook",
+  "description": "Career Leverage Playbook for Professionals building strategic positioning over 3-10 years.. Includes practical files, setup guide, and conversion-ready...",
+  "sku": "SS-012",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Career",
+  "keywords": [
+    "career leverage playbook",
+    "career strategy workbook",
+    "professional growth system"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/career-leverage-playbook/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/career-leverage-playbook/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 1499,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/career-leverage-playbook/"
+  }
+}

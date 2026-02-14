@@ -1,0 +1,61 @@
+{
+  "title": "Everything Bundle",
+  "slug": "everything-bundle",
+  "sku": "SS-025",
+  "price": {
+    "tier": "Premium",
+    "inr": 14999,
+    "usd_estimate": 180.71,
+    "currency_note": "Primary currency INR. USD shown as approximation at 1 USD ≈ 83 INR."
+  },
+  "category": "Bundle",
+  "difficulty": "Intermediate",
+  "setup_time": "45 min setup",
+  "tags": [
+    "Bundle",
+    "Productivity",
+    "AI",
+    "Templates",
+    "Systems"
+  ],
+  "keywords": [
+    "productivity bundle",
+    "ai and productivity templates",
+    "everything bundle"
+  ],
+  "files": [
+    {
+      "name": "everything-bundle-bundle-map.md",
+      "path": "deliverables/everything-bundle-bundle-map.md",
+      "secure_download": "/downloads/everything-bundle/everything-bundle-bundle-map.md?token={signed_token}"
+    },
+    {
+      "name": "everything-bundle-implementation-guide.md",
+      "path": "deliverables/everything-bundle-implementation-guide.md",
+      "secure_download": "/downloads/everything-bundle/everything-bundle-implementation-guide.md?token={signed_token}"
+    },
+    {
+      "name": "everything-bundle-onboarding-checklist.md",
+      "path": "deliverables/everything-bundle-onboarding-checklist.md",
+      "secure_download": "/downloads/everything-bundle/everything-bundle-onboarding-checklist.md?token={signed_token}"
+    },
+    {
+      "name": "everything-bundle-quickstart-readme.txt",
+      "path": "deliverables/everything-bundle-quickstart-readme.txt",
+      "secure_download": "/downloads/everything-bundle/everything-bundle-quickstart-readme.txt?token={signed_token}"
+    }
+  ],
+  "license_terms": {
+    "personal": "Single-user, personal use. You may customize for your own work.",
+    "commercial": "Commercial use inside your own company allowed. Resale, redistribution, or white-labeling is prohibited.",
+    "team": "Team seats required for 2+ users. Contact for enterprise licensing."
+  },
+  "refund_policy": "14-day implementation guarantee. If you complete the checklist and see no measurable improvement, request a full refund within 14 days.",
+  "delivery": "Instant secure link + emailed receipt",
+  "video_preview": "preview-images/preview-loop.gif",
+  "thumbnails": [
+    "preview-images/hero-1200x675.png",
+    "preview-images/thumbnail-800x800.png",
+    "preview-images/screenshot-1200x1200.png"
+  ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Shatanjay Sudha — Productivity Essays</title>
+    <link>https://shatanjaysudha.com/#page=productivity</link>
+    <description>Productivity systems and execution essays.</description>
+    <item>
+      <title>The Weekly Review That Actually Sticks</title>
+      <link>https://shatanjaysudha.com/#page=productivity&amp;post=pr-weekly-review</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>pr-weekly-review</guid>
+      <description>A fixed review cadence that survives busy schedules.</description>
+    </item>
+  </channel>
+</rss>

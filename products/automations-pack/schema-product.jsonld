@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Automations Pack (Zapier/Make/Apps Script)",
+  "description": "Automations Pack (Zapier/Make/Apps Script) for Teams needing low-code automations for recurring workflows.. Includes practical files, setup guide, and c...",
+  "sku": "SS-011",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Automation",
+  "keywords": [
+    "automation templates",
+    "zapier make workflows",
+    "google apps script productivity"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/automations-pack/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/automations-pack/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 2999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/automations-pack/"
+  }
+}

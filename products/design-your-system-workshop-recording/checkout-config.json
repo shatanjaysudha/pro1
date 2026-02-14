@@ -1,0 +1,19 @@
+{
+  "provider": "gumroad",
+  "sku": "SS-018",
+  "product_slug": "design-your-system-workshop-recording",
+  "price_inr": 5499,
+  "price_usd_estimate": 66.25,
+  "currency": "INR",
+  "delivery": {
+    "method": "secure_link_and_email_receipt",
+    "email_unlock_for_freebies": false,
+    "post_purchase_email": true
+  },
+  "upsell_rule": {
+    "trigger": "cart_item_count >= 2",
+    "offer": "Prompt Engineering Mini Course at 20% off",
+    "discount_percent": 20
+  },
+  "cta": "Buy now"
+}

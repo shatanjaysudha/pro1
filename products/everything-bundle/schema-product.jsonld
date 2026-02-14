@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Everything Bundle",
+  "description": "Everything Bundle for Buyers who want the full stack at the best blended price.. Includes practical files, setup guide, and conversion-ready workflows f...",
+  "sku": "SS-025",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Bundle",
+  "keywords": [
+    "productivity bundle",
+    "ai and productivity templates",
+    "everything bundle"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/everything-bundle/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/everything-bundle/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 14999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/everything-bundle/"
+  }
+}

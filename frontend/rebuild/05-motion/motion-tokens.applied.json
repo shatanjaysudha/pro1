@@ -1,0 +1,25 @@
+{
+  "spring": {
+    "stiffness": 170,
+    "damping": 22,
+    "mass": 1
+  },
+  "duration": {
+    "fast_ms": 120,
+    "medium_ms": 220,
+    "slow_ms": 360,
+    "stagger_ms": 28
+  },
+  "easing": {
+    "default": "cubic-bezier(.22,.85,.4,1)",
+    "emphasized": "cubic-bezier(.2,.9,.3,1)"
+  },
+  "applied_to": [
+    "hero-media-hover",
+    "home-card-hover",
+    "content-map-related-cards",
+    "sidebar-active-nav-pulse",
+    "reading-progress-state",
+    "hub-ai-recommendation-cards"
+  ]
+}

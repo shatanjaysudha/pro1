@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Shatanjay Sudha</title>
+    <link>https://shatanjaysudha.com/</link>
+    <description>Systems, AI, productivity, and career architecture essays.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Google Sheets: The Formula Fix That Updates Itself</title>
+      <link>https://shatanjaysudha.com/#page=newsletter&amp;post=nl-sheet-fix</link>
+      <guid>https://shatanjaysudha.com/#page=newsletter&amp;post=nl-sheet-fix</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+      <description>A systems-first approach to resilient spreadsheet logic.</description>
+    </item>
+  </channel>
+</rss>

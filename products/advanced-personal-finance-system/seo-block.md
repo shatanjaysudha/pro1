@@ -1,0 +1,6 @@
+- Meta Title: Advanced Personal Finance System Template (Google Sheets)
+- Meta Description: Premium Google Sheets personal finance system with dashboards, forecasting, category tracking, and multi-year automation.
+- Slug: advanced-personal-finance-system
+- Primary Keywords: google sheets personal finance template, advanced budget dashboard, net worth tracker template
+- Secondary Keywords: automated cash flow tracker, savings goal spreadsheet, finance forecast sheet
+- Canonical: https://shatanjaysudha.com/products/advanced-personal-finance-system/

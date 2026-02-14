@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Keep migration/export artifacts out of index if mirrored under root
+Disallow: /site_migration_export/
+
+Sitemap: https://shatanjaysudha.com/sitemap.xml

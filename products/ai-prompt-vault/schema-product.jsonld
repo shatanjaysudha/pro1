@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "AI Prompt Vault (200 Prompts)",
+  "description": "AI Prompt Vault (200 Prompts) for Professionals using AI weekly but needing higher-quality outputs.. Includes practical files, setup guide, and conversi...",
+  "sku": "SS-004",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "AI",
+  "keywords": [
+    "ai prompt vault",
+    "prompt engineering templates",
+    "chatgpt prompts for work"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/ai-prompt-vault/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/ai-prompt-vault/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 1999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/ai-prompt-vault/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Affiliate Toolkit",
+  "description": "Affiliate Toolkit for Partners and creators distributing your systems and offers.. Includes practical files, setup guide, and conversion-ready workflows...",
+  "sku": "SS-022",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shatanjay Sudha"
+  },
+  "category": "Growth",
+  "keywords": [
+    "affiliate toolkit",
+    "partner landing page templates",
+    "affiliate promo assets"
+  ],
+  "image": [
+    "https://shatanjaysudha.com/products/affiliate-toolkit/preview-images/hero-1200x675.png",
+    "https://shatanjaysudha.com/products/affiliate-toolkit/preview-images/thumbnail-800x800.png"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "INR",
+    "price": 1999,
+    "availability": "https://schema.org/InStock",
+    "url": "https://shatanjaysudha.com/products/affiliate-toolkit/"
+  }
+}
