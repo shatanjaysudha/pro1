@@ -1,0 +1,835 @@
+{
+  "taxonomy_version": "2.0",
+  "last_updated": "2025-01-20",
+  "primary_categories": [
+    {
+      "id": "ai-automation",
+      "name": "AI & Automation",
+      "slug": "ai-automation",
+      "description": "Artificial intelligence tools, automation workflows, and no-code platforms for productivity and business.",
+      "seo_keywords": ["AI tools", "automation", "no-code", "workflow automation", "AI agents"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "AI Agent Development",
+          "slug": "ai-agent-development",
+          "description": "Building and deploying autonomous AI agents for task automation and business processes.",
+          "scope": "Covers AI agent architecture, prompt engineering for agents, autonomous workflows. Excludes general AI chatbots without agentic capabilities.",
+          "examples": [
+            "How to Build Your First AI Agent in 2025",
+            "5 AI Agent Frameworks That Actually Work",
+            "From Chatbot to Agent: The Complete Migration Guide"
+          ]
+        },
+        {
+          "name": "No-Code Automation",
+          "slug": "no-code-automation",
+          "description": "Workflow automation using visual builders and no-code platforms without programming.",
+          "scope": "Covers Make.com, Zapier, n8n, and similar platforms. Excludes coding-based automation solutions.",
+          "examples": [
+            "Automate Your Content Pipeline with Make.com",
+            "No-Code Workflows That Save 10 Hours Weekly",
+            "Visual Automation for Non-Technical Teams"
+          ]
+        },
+        {
+          "name": "AI Content Tools",
+          "slug": "ai-content-tools",
+          "description": "AI-powered platforms for content creation, editing, and optimization.",
+          "scope": "Covers writing assistants, image generators, video tools. Excludes general marketing strategy without AI component.",
+          "examples": [
+            "Perplexity AI vs ChatGPT: Research Workflow Comparison",
+            "Gemini AI for Long-Form Content Creation",
+            "AI Tools That Replace Your Content Team"
+          ]
+        },
+        {
+          "name": "AI Business Strategy",
+          "slug": "ai-business-strategy",
+          "description": "Strategic implementation of AI for business growth and competitive advantage.",
+          "scope": "Covers AI opportunity identification, ROI calculation, implementation roadmaps. Excludes technical AI development tutorials.",
+          "examples": [
+            "AI Business Ideas with Highest ROI in 2025",
+            "How to Identify AI Opportunities in Your Industry",
+            "Agentic AI Roadmap for Small Businesses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "money-investing",
+      "name": "Money & Investing",
+      "slug": "money-investing",
+      "description": "Comprehensive financial guidance from budgeting basics to advanced wealth building strategies.",
+      "seo_keywords": ["personal finance", "investing", "wealth building", "financial independence", "money management"],
+      "subcategories": [
+        {
+          "id": "personal-finance",
+          "name": "Personal Finance",
+          "slug": "personal-finance"
+        },
+        {
+          "id": "wealth-building",
+          "name": "Wealth Building",
+          "slug": "wealth-building"
+        },
+        {
+          "id": "investing",
+          "name": "Investing",
+          "slug": "investing"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Budgeting Systems",
+          "slug": "budgeting-systems",
+          "description": "Frameworks and methods for managing income, expenses, and savings allocation.",
+          "scope": "Covers 50/30/20 rule, zero-based budgeting, envelope systems. Excludes investment allocation strategies.",
+          "examples": [
+            "50/30/20 Rule: A Complete Implementation Guide",
+            "Automate Your Budget: Systems That Work While You Sleep",
+            "Budgeting for Irregular Income: Freelancer's Guide"
+          ],
+          "subcategory": "personal-finance"
+        },
+        {
+          "name": "Emergency Fund Strategy",
+          "slug": "emergency-fund-strategy",
+          "description": "Building and maintaining financial safety nets for unexpected expenses and income loss.",
+          "scope": "Covers fund size calculation, storage options, accessibility balance. Excludes general savings or investment strategies.",
+          "examples": [
+            "How Much Emergency Fund Do You Really Need",
+            "Where to Park Your Emergency Cash in 2025",
+            "Emergency Fund vs Opportunity Fund: The Right Balance"
+          ],
+          "subcategory": "personal-finance"
+        },
+        {
+          "name": "Insurance & Protection",
+          "slug": "insurance-protection",
+          "description": "Risk management through term life, health, and disability insurance.",
+          "scope": "Covers policy selection, coverage calculation, claim processes. Excludes investment-linked insurance products.",
+          "examples": [
+            "Term Life Insurance: How to Calculate Your Coverage",
+            "Health Insurance Explained: HMO vs PPO vs EPO",
+            "Insurance Checklist for Young Professionals"
+          ],
+          "subcategory": "personal-finance"
+        },
+        {
+          "name": "Millionaire Mindset",
+          "slug": "millionaire-mindset",
+          "description": "Psychological frameworks and habits of self-made wealthy individuals.",
+          "scope": "Covers wealth psychology, billionaire routines, financial decision-making patterns. Excludes get-rich-quick schemes.",
+          "examples": [
+            "How Billionaires Think About Money Differently",
+            "The Daily Routines of Self-Made Millionaires",
+            "First Million Lessons: What Changes After Wealth"
+          ],
+          "subcategory": "wealth-building"
+        },
+        {
+          "name": "Passive Income Systems",
+          "slug": "passive-income-systems",
+          "description": "Building automated revenue streams that generate cash flow with minimal ongoing effort.",
+          "scope": "Covers dividend investing, rental income, digital product royalties. Excludes active side hustles requiring continuous work.",
+          "examples": [
+            "Build a ₹10 Lakh Portfolio by 2025: The System",
+            "Passive Income Streams That Actually Work in India",
+            "From Active Income to Passive: The 5-Year Transition"
+          ],
+          "subcategory": "wealth-building"
+        },
+        {
+          "name": "Index Fund Investing",
+          "slug": "index-fund-investing",
+          "description": "Low-cost, diversified investment strategies using index funds and ETFs.",
+          "scope": "Covers Nifty 50, Sensex, expense ratio analysis, SIP strategies. Excludes individual stock picking or active trading.",
+          "examples": [
+            "Nifty 50 Index Funds: Complete Comparison Guide",
+            "SIP Plans That Build Wealth Automatically",
+            "Understanding Mutual Fund Expense Ratios"
+          ],
+          "subcategory": "investing"
+        },
+        {
+          "name": "Valuation Metrics",
+          "slug": "valuation-metrics",
+          "description": "Fundamental analysis tools for assessing investment quality and price fairness.",
+          "scope": "Covers P/E ratio, NAV analysis, exit loads, basic financial ratios. Excludes technical analysis or complex derivatives.",
+          "examples": [
+            "P/E Ratio Explained: When to Buy and Sell",
+            "Mutual Fund NAV: What It Actually Means",
+            "Exit Loads: How to Avoid Unnecessary Fees"
+          ],
+          "subcategory": "investing"
+        }
+      ]
+    },
+    {
+      "id": "career-skills",
+      "name": "Career & Skills",
+      "slug": "career-skills",
+      "description": "Professional development, skill acquisition, and career navigation strategies for the modern economy.",
+      "seo_keywords": ["career development", "professional skills", "job search", "skill building", "career transition"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "Career Transition",
+          "slug": "career-transition",
+          "description": "Strategic approaches to changing industries, roles, or career paths successfully.",
+          "scope": "Covers non-linear career moves, skill transfer, transition planning. Excludes general job search within same field.",
+          "examples": [
+            "How to Pivot Careers Without Starting Over",
+            "Non-Linear Career Paths That Pay More",
+            "From Corporate to Creator: A Transition Framework"
+          ]
+        },
+        {
+          "name": "Future-Proof Skills",
+          "slug": "future-proof-skills",
+          "description": "Identifying and developing capabilities that remain valuable amid technological disruption.",
+          "scope": "Covers AI-era skills, automation-resistant capabilities, emerging job markets. Excludes basic soft skills without future focus.",
+          "examples": [
+            "Skills That Matter in the AI Era",
+            "Future Jobs in India: 2025-2030 Outlook",
+            "How to Succeed When AI Changes Everything"
+          ]
+        },
+        {
+          "name": "Product Management",
+          "slug": "product-management",
+          "description": "Building and managing digital products from conception to market success.",
+          "scope": "Covers product strategy, roadmapping, user research, PM career paths. Excludes general project management.",
+          "examples": [
+            "Product Management Career Roadmap 2025",
+            "From Idea to Launch: Product Manager's Playbook",
+            "Skills That Separate Good PMs from Great Ones"
+          ]
+        },
+        {
+          "name": "Confidence Building",
+          "slug": "confidence-building",
+          "description": "Developing authentic self-assurance through skill mastery and psychological practices.",
+          "scope": "Covers confidence as learnable skill, imposter syndrome management, social confidence. Excludes generic motivational content.",
+          "examples": [
+            "Confidence Is a Skill: Here's How to Build It",
+            "How to Build Confidence Naturally Without Faking",
+            "From Self-Doubt to Self-Assurance: A Systematic Approach"
+          ]
+        },
+        {
+          "name": "Sales & Leadership",
+          "slug": "sales-leadership",
+          "description": "Developing commercial and team leadership capabilities for career advancement.",
+          "scope": "Covers sales skills, team management, leadership frameworks. Excludes general communication skills.",
+          "examples": [
+            "Sales Leadership Skills for Non-Sales Professionals",
+            "How to Lead Without Authority",
+            "From Individual Contributor to Team Leader"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "productivity-systems",
+      "name": "Productivity & Systems",
+      "slug": "productivity-systems",
+      "description": "Execution frameworks, habit systems, and time management for consistent high performance.",
+      "seo_keywords": ["productivity", "time management", "habits", "systems", "deep work"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "Habit Architecture",
+          "slug": "habit-architecture",
+          "description": "Designing and maintaining behavioral systems that drive long-term results.",
+          "scope": "Covers habit stacking, environment design, behavioral triggers. Excludes general motivation or willpower advice.",
+          "examples": [
+            "The Habit Gap: Why Small Changes Create Big Results",
+            "Micro Habits for Massive Transformation",
+            "Environment Design for Automatic Good Habits"
+          ]
+        },
+        {
+          "name": "Deep Work Systems",
+          "slug": "deep-work-systems",
+          "description": "Frameworks for sustained focus and high-quality output in distraction-filled environments.",
+          "scope": "Covers focus techniques, attention management, work session design. Excludes general time management or scheduling.",
+          "examples": [
+            "Build the System: Deep Work for Knowledge Workers",
+            "3-Day Life Reset: Reclaiming Your Attention",
+            "Motivation vs System: Why Systems Win"
+          ]
+        },
+        {
+          "name": "Stress & Recovery",
+          "slug": "stress-recovery",
+          "description": "Managing cognitive load and designing recovery practices for sustainable performance.",
+          "scope": "Covers stress management techniques, physiological recovery, burnout prevention. Excludes general wellness or fitness.",
+          "examples": [
+            "Stress Management Techniques That Actually Work",
+            "The Physiological Sigh: Instant Calm Technique",
+            "Recovery Protocols for High Performers"
+          ]
+        },
+        {
+          "name": "Time Management",
+          "slug": "time-management",
+          "description": "Systems and techniques for effective allocation and protection of time.",
+          "scope": "Covers time blocking, calendar management, priority frameworks. Excludes general productivity or habit advice.",
+          "examples": [
+            "Time Blocking for Deep Work",
+            "The Math Doesn't Lie: Time Audit Framework",
+            "Protecting Your Calendar: Boundary Setting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "digital-business",
+      "name": "Digital Business",
+      "slug": "digital-business",
+      "description": "Building and scaling online income streams, digital products, and creator economy businesses.",
+      "seo_keywords": ["online business", "digital products", "creator economy", "passive income", "content monetization"],
+      "subcategories": [
+        {
+          "id": "online-income",
+          "name": "Online Income",
+          "slug": "online-income"
+        },
+        {
+          "id": "digital-products",
+          "name": "Digital Products",
+          "slug": "digital-products"
+        },
+        {
+          "id": "content-strategy",
+          "name": "Content Strategy",
+          "slug": "content-strategy"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Freelance Business",
+          "slug": "freelance-business",
+          "description": "Building service-based income through remote work and specialized skills.",
+          "scope": "Covers VA work, freelance platforms, client acquisition, rate setting. Excludes product-based businesses.",
+          "examples": [
+            "How Much Do VAs Make: Rate Guide 2025",
+            "Freelance Your Skills: From Employee to Independent",
+            "Virtual Assistant Business: Complete Startup Guide"
+          ],
+          "subcategory": "online-income"
+        },
+        {
+          "name": "Content Monetization",
+          "slug": "content-monetization",
+          "description": "Turning content creation into sustainable revenue through multiple income streams.",
+          "scope": "Covers blogging, YouTube, affiliate marketing, sponsorships. Excludes general content creation without monetization focus.",
+          "examples": [
+            "Start a Blog That Solves Problems and Earns $15K/Month",
+            "Earn from YouTube Without Going Viral",
+            "Affiliate Marketing for Beginners: The Honest Guide"
+          ],
+          "subcategory": "online-income"
+        },
+        {
+          "name": "Digital Product Creation",
+          "slug": "digital-product-creation",
+          "description": "Designing, building, and selling downloadable products and templates.",
+          "scope": "Covers ebooks, templates, printables, courses. Excludes physical products or software development.",
+          "examples": [
+            "How to Earn $5K/Month Selling Digital Products",
+            "Make & Sell Digital Products: Complete System",
+            "From Idea to First Sale: Digital Product Launch"
+          ],
+          "subcategory": "digital-products"
+        },
+        {
+          "name": "Print-on-Demand",
+          "slug": "print-on-demand",
+          "description": "Selling custom merchandise without inventory through POD platforms.",
+          "scope": "Covers design creation, platform selection, store optimization. Excludes general ecommerce or dropshipping.",
+          "examples": [
+            "Design Merch with Print-on-Demand: Beginner's Guide",
+            "Print-on-Demand Passive Income: Realistic Expectations",
+            "Sell Custom T-Shirts Online: Platform Comparison"
+          ],
+          "subcategory": "digital-products"
+        },
+        {
+          "name": "Content Strategy",
+          "slug": "content-strategy",
+          "description": "Planning and executing content that builds audience and drives business results.",
+          "scope": "Covers editorial planning, content pillars, platform selection. Excludes general writing or creative advice.",
+          "examples": [
+            "Content Strategy for Solo Creators",
+            "AI Content Creation Tools: Strategic Integration",
+            "De-Influencing: The Anti-Strategy That Works"
+          ],
+          "subcategory": "content-strategy"
+        },
+        {
+          "name": "Platform Growth",
+          "slug": "platform-growth",
+          "description": "Building audience and engagement on specific content platforms.",
+          "scope": "Covers LinkedIn, Instagram, YouTube, newsletter growth. Excludes general content creation advice.",
+          "examples": [
+            "LinkedIn Growth Strategy for Professionals",
+            "Instagram Script Generator: Content at Scale",
+            "YouTube Without Going Viral: Sustainable Growth"
+          ],
+          "subcategory": "content-strategy"
+        }
+      ]
+    },
+    {
+      "id": "mindset-psychology",
+      "name": "Mindset & Psychology",
+      "slug": "mindset-psychology",
+      "description": "Mental models, cognitive growth, and psychological frameworks for personal development.",
+      "seo_keywords": ["mindset", "personal growth", "mental models", "psychology", "self improvement"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "Mental Models",
+          "slug": "mental-models",
+          "description": "Cognitive frameworks for better decision-making and problem-solving.",
+          "scope": "Covers antifragility, asymmetric risk, second-order thinking. Excludes general productivity tips.",
+          "examples": [
+            "Antifragility: Growing Stronger From Chaos",
+            "Asymmetric Risk-Reward: The Smart Bet Framework",
+            "Next-Order Thinking: Seeing What Others Miss"
+          ]
+        },
+        {
+          "name": "Identity Transformation",
+          "slug": "identity-transformation",
+          "description": "Fundamental shifts in self-concept and personal narrative.",
+          "scope": "Covers identity change, self-concept, personal reinvention. Excludes surface-level habit changes.",
+          "examples": [
+            "Rewrite Your Identity: The Deep Change Process",
+            "Disappear to Evolve: The Isolation Strategy",
+            "Knowing Who You Are: Beyond Labels"
+          ]
+        },
+        {
+          "name": "Emotional Intelligence",
+          "slug": "emotional-intelligence",
+          "description": "Understanding and managing emotions for better relationships and decisions.",
+          "scope": "Covers FOMO management, impulse control, emotional regulation. Excludes general mental health advice.",
+          "examples": [
+            "How to Shift From Impulse to Intention",
+            "FOMO Solutions for the Information Age",
+            "Emotional Growth: Beyond Cognitive Development"
+          ]
+        },
+        {
+          "name": "Cognitive Biases",
+          "slug": "cognitive-biases",
+          "description": "Recognizing and mitigating systematic errors in thinking and decision-making.",
+          "scope": "Covers common biases, de-biasing techniques, rational thinking. Excludes general critical thinking without bias focus.",
+          "examples": [
+            "Cognitive Biases That Cost You Money",
+            "How to Think Clearly When Everyone Else Is Biased",
+            "Mental Shortcuts: When They Help and Hurt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health-wellness",
+      "name": "Health & Wellness",
+      "slug": "health-wellness",
+      "description": "Evidence-based approaches to physical health, mental wellbeing, and cognitive optimization.",
+      "seo_keywords": ["health", "wellness", "mental health", "nutrition", "brain health"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "Cognitive Health",
+          "slug": "cognitive-health",
+          "description": "Maintaining and improving brain function through lifestyle and targeted practices.",
+          "scope": "Covers neuroplasticity, BDNF, memory improvement, brain exercises. Excludes general productivity or learning advice.",
+          "examples": [
+            "Neuroplasticity: Rewiring Your Brain at Any Age",
+            "Science-Backed Strategies to Combat Brain Aging",
+            "How to Build Vocabulary: Cognitive Benefits"
+          ]
+        },
+        {
+          "name": "Metabolic Health",
+          "slug": "metabolic-health",
+          "description": "Nutrition and lifestyle factors affecting energy, weight, and long-term health.",
+          "scope": "Covers portion control, visceral fat, metabolic markers. Excludes extreme diets or fitness programs.",
+          "examples": [
+            "The Abraham Diet: Metabolic Health Framework",
+            "Visceral Fat Reduction: Science-Based Approach",
+            "Microplastics and Brain Health: Hidden Threats"
+          ]
+        },
+        {
+          "name": "Behavioral Health",
+          "slug": "behavioral-health",
+          "description": "Overcoming harmful patterns and building supportive habits for mental wellbeing.",
+          "scope": "Covers addiction recovery, impulse control, gentle mental health habits. Excludes clinical mental health treatment.",
+          "examples": [
+            "How to Quit Addiction Naturally: The System",
+            "Gentle Habits for Mental Health",
+            "Mindful Spending: The Psychology of Purchase Decisions"
+          ]
+        },
+        {
+          "name": "Sleep Optimization",
+          "slug": "sleep-optimization",
+          "description": "Improving sleep quality and duration for better cognitive and physical performance.",
+          "scope": "Covers sleep hygiene, circadian rhythms, sleep environment. Excludes general wellness or energy advice.",
+          "examples": [
+            "Sleep Optimization for High Performers",
+            "The Science of Deep Sleep and Recovery",
+            "Fixing Your Sleep Schedule: A Systematic Approach"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spiritual-devotional",
+      "name": "Spiritual & Devotional",
+      "slug": "spiritual-devotional",
+      "description": "Spiritual practices, manifestation techniques, and devotional traditions for inner growth.",
+      "seo_keywords": ["spirituality", "manifestation", "devotion", "meditation", "bhakti"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "Bhakti Practice",
+          "slug": "bhakti-practice",
+          "description": "Devotional traditions and surrender-based spiritual approaches.",
+          "scope": "Covers Naam Japa, Sant Tukaram teachings, divine surrender. Excludes general meditation or mindfulness.",
+          "examples": [
+            "Bhakti Yoga: The Path of Devotional Surrender",
+            "Sant Tukaram Bhakti Teachings for Modern Life",
+            "Hari Sharanam: The Practice of Divine Refuge"
+          ]
+        },
+        {
+          "name": "Manifestation Science",
+          "slug": "manifestation-science",
+          "description": "Systematic approaches to intention-setting and reality creation.",
+          "scope": "Covers quantum manifestation, subconscious programming, daily rituals. Excludes wishful thinking without action.",
+          "examples": [
+            "Daily Manifestation Routine: The Complete Protocol",
+            "Quantum Manifestation: Bridging Science and Spirit",
+            "Manifest ₹1 Crore: The Systematic Approach"
+          ]
+        },
+        {
+          "name": "Spiritual Liberation",
+          "slug": "spiritual-liberation",
+          "description": "Paths to inner freedom, peace, and transcendence of limiting patterns.",
+          "scope": "Covers silence practices, unshakeable inner fortress, spiritual protection. Excludes religious doctrine or dogma.",
+          "examples": [
+            "Silence the Mind: Techniques for Mental Stillness",
+            "Building Your Unshakeable Inner Fortress",
+            "Divine Grace: Recognizing Spiritual Support"
+          ]
+        },
+        {
+          "name": "Energy & Frequency",
+          "slug": "energy-frequency",
+          "description": "Understanding and working with subtle energy for spiritual and practical benefits.",
+          "scope": "Covers energy practices, frequency work, vibrational healing. Excludes physical exercise or nutrition.",
+          "examples": [
+            "Energy Frequency: The Science and Practice",
+            "Subconscious Programming Through Frequency",
+            "Vedic Abundance Ritual: Energy Alignment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "culture-society",
+      "name": "Culture & Society",
+      "slug": "culture-society",
+      "description": "Cultural commentary, social analysis, traditions, and contemporary lifestyle perspectives.",
+      "seo_keywords": ["culture", "society", "social issues", "traditions", "lifestyle"],
+      "subcategories": [
+        {
+          "id": "social-commentary",
+          "name": "Social Commentary",
+          "slug": "social-commentary"
+        },
+        {
+          "id": "traditions",
+          "name": "Traditions",
+          "slug": "traditions"
+        },
+        {
+          "id": "lifestyle",
+          "name": "Lifestyle",
+          "slug": "lifestyle"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Civic & Social Health",
+          "slug": "civic-social-health",
+          "description": "Analysis of community behavior, social cohesion, and collective wellbeing.",
+          "scope": "Covers civic sense, social trends, generational shifts. Excludes political partisanship or policy debates.",
+          "examples": [
+            "Civic Sense Is Fading in India: What We Can Do",
+            "Why Gen Z Might Never Own Anything",
+            "How Not to Lose Friends Over Politics"
+          ],
+          "subcategory": "social-commentary"
+        },
+        {
+          "name": "Cultural Traditions",
+          "slug": "cultural-traditions",
+          "description": "Exploration and preservation of meaningful cultural and religious practices.",
+          "scope": "Covers festival significance, ritual meaning, traditional wisdom. Excludes superficial commercialization of culture.",
+          "examples": [
+            "Raksha Bandhan: Rituals and Modern Significance",
+            "Bhadra Kaal Timing 2025: Astronomical Basis",
+            "Gift Ideas That Honor Tradition"
+          ],
+          "subcategory": "traditions"
+        },
+        {
+          "name": "Modern Lifestyle",
+          "slug": "modern-lifestyle",
+          "description": "Contemporary living patterns, consumer choices, and quality of life considerations.",
+          "scope": "Covers product reviews, fashion choices, lifestyle optimization. Excludes health advice or financial decisions.",
+          "examples": [
+            "iPhone 17 Pro: Features That Actually Matter",
+            "Patriotic Fashion 2025: Beyond the Cliché",
+            "Cetaphil Gentle Skin Cleanser: Honest Review"
+          ],
+          "subcategory": "lifestyle"
+        },
+        {
+          "name": "Generational Analysis",
+          "slug": "generational-analysis",
+          "description": "Understanding and navigating differences between age cohorts in society.",
+          "scope": "Covers Gen Z, Millennial, Boomer trends, intergenerational dynamics. Excludes general social commentary.",
+          "examples": [
+            "Why Gen Z Might Never Own Anything",
+            "Bridging the Generational Divide at Work",
+            "What Each Generation Gets Wrong About Money"
+          ],
+          "subcategory": "social-commentary"
+        }
+      ]
+    },
+    {
+      "id": "knowledge-learning",
+      "name": "Knowledge & Learning",
+      "slug": "knowledge-learning",
+      "description": "Continuous education, historical insights, and scientific literacy for curious minds.",
+      "seo_keywords": ["learning", "education", "history", "science", "knowledge"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "Historical Narratives",
+          "slug": "historical-narratives",
+          "description": "Compelling stories from history that illuminate present-day challenges.",
+          "scope": "Covers inventor biographies, historical conflicts, scientific rivalries. Excludes dry textbook history.",
+          "examples": [
+            "Edison vs Tesla: The War of the Currents",
+            "Nikola Tesla's Forgotten Inventions",
+            "Lessons from the 1925 Law of Success"
+          ]
+        },
+        {
+          "name": "Learning Science",
+          "slug": "learning-science",
+          "description": "Evidence-based approaches to acquiring and retaining knowledge effectively.",
+          "scope": "Covers cognitive science of learning, skill acquisition, teaching methods. Excludes generic study tips.",
+          "examples": [
+            "How Language Shapes Thought and Learning",
+            "People Will Pay to Learn From You: Teaching Framework",
+            "Books for Entrepreneurs: Curated Learning Path"
+          ]
+        },
+        {
+          "name": "Scientific Literacy",
+          "slug": "scientific-literacy",
+          "description": "Understanding scientific method, research quality, and evidence evaluation.",
+          "scope": "Covers research interpretation, peer review, scientific consensus. Excludes specific domain science.",
+          "examples": [
+            "How to Read Scientific Studies Like a Researcher",
+            "Correlation vs Causation: A Practical Guide",
+            "Spotting Bad Science in Health Claims"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "creative-expression",
+      "name": "Creative Expression",
+      "slug": "creative-expression",
+      "description": "Poetry, literature, and philosophical explorations of meaning and human experience.",
+      "seo_keywords": ["poetry", "literature", "creative writing", "meaning", "philosophy"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "Spiritual Poetry",
+          "slug": "spiritual-poetry",
+          "description": "Poetic explorations of divine love, mystical experience, and transcendent themes.",
+          "scope": "Covers Rumi-inspired work, Sufi poetry, mystical verse. Excludes secular love poetry without spiritual dimension.",
+          "examples": [
+            "Rumi Inspired Poems: The Beloved Within",
+            "Sufi Poetry: The Path of the Heart",
+            "Mystical Poems: Glimpses of the Infinite"
+          ]
+        },
+        {
+          "name": "Contemplative Writing",
+          "slug": "contemplative-writing",
+          "description": "Reflective prose exploring life's deeper questions and personal meaning.",
+          "scope": "Covers philosophical essays, meaning-making, quiet love stories. Excludes self-help or instructional content.",
+          "examples": [
+            "Figuring Out What Living Really Means",
+            "Growing Through the Mess: A Contemplation",
+            "What Brings Meaning to Life: A Personal Exploration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tools-reviews",
+      "name": "Tools & Reviews",
+      "slug": "tools-reviews",
+      "description": "In-depth reviews, comparisons, and buying guides for productivity and tech tools.",
+      "seo_keywords": ["tool reviews", "product comparisons", "buying guides", "software reviews", "tech recommendations"],
+      "subcategories": [],
+      "tags": [
+        {
+          "name": "Productivity Tool Reviews",
+          "slug": "productivity-tool-reviews",
+          "description": "Detailed analysis and recommendations for productivity software and hardware.",
+          "scope": "Covers Notion, Obsidian, Things 3, Tally, and similar tools. Excludes general productivity advice without tool focus.",
+          "examples": [
+            "Things 3 Master Setup: Complete Review",
+            "Notion vs Obsidian: Which Knowledge System Wins",
+            "Best Productivity Apps for 2025: Tested and Ranked"
+          ]
+        },
+        {
+          "name": "Tech Hardware Reviews",
+          "slug": "tech-hardware-reviews",
+          "description": "Evaluations of devices, gadgets, and hardware for work and lifestyle.",
+          "scope": "Covers laptops, phones, accessories, workspace gear. Excludes software-only reviews.",
+          "examples": [
+            "iPhone 17 Pro: Features That Actually Matter for Work",
+            "Best Laptops for Content Creators 2025",
+            "Workspace Gear That Boosts Productivity"
+          ]
+        },
+        {
+          "name": "Software Comparisons",
+          "slug": "software-comparisons",
+          "description": "Head-to-head analysis of competing software solutions for specific use cases.",
+          "scope": "Covers feature comparison, pricing analysis, use case recommendations. Excludes single-tool reviews.",
+          "examples": [
+            "Make.com vs Zapier: Automation Platform Showdown",
+            "Replit vs GitHub Codespaces: Cloud IDE Comparison",
+            "Best AI Writing Tools Compared: 2025 Edition"
+          ]
+        },
+        {
+          "name": "Buying Guides",
+          "slug": "buying-guides",
+          "description": "Decision frameworks and recommendations for purchasing tools and services.",
+          "scope": "Covers selection criteria, budget considerations, feature prioritization. Excludes single-product reviews.",
+          "examples": [
+            "How to Choose Your First AI Tool",
+            "Budget vs Premium: When to Pay More",
+            "Tool Stack Planning for Solo Creators"
+          ]
+        }
+      ]
+    }
+  ],
+  "url_structure": {
+    "category_pattern": "/category/{primary-slug}",
+    "subcategory_pattern": "/category/{primary-slug}/{subcategory-slug}",
+    "tag_pattern": "/tag/{tag-slug}",
+    "examples": [
+      "/category/ai-automation",
+      "/category/money-investing/wealth-building",
+      "/tag/passive-income-systems"
+    ]
+  },
+  "navigation_groups": [
+    {
+      "name": "Growth & Wealth",
+      "categories": ["money-investing", "career-skills", "digital-business"]
+    },
+    {
+      "name": "Performance & Mind",
+      "categories": ["productivity-systems", "mindset-psychology", "health-wellness"]
+    },
+    {
+      "name": "Tech & Tools",
+      "categories": ["ai-automation", "tools-reviews"]
+    },
+    {
+      "name": "Culture & Expression",
+      "categories": ["culture-society", "creative-expression", "spiritual-devotional", "knowledge-learning"]
+    }
+  ],
+  "internal_linking_rules": [
+    {
+      "source": "money-investing",
+      "targets": ["digital-business", "career-skills"],
+      "context": "Monetization strategies and income growth"
+    },
+    {
+      "source": "productivity-systems",
+      "targets": ["career-skills", "mindset-psychology"],
+      "context": "Work performance and mental frameworks"
+    },
+    {
+      "source": "ai-automation",
+      "targets": ["digital-business", "career-skills", "tools-reviews"],
+      "context": "AI-powered business tools and future skills"
+    },
+    {
+      "source": "mindset-psychology",
+      "targets": ["health-wellness", "spiritual-devotional"],
+      "context": "Mental health and inner growth"
+    },
+    {
+      "source": "creative-expression",
+      "targets": ["spiritual-devotional", "knowledge-learning"],
+      "context": "Philosophical and spiritual themes"
+    },
+    {
+      "source": "tools-reviews",
+      "targets": ["ai-automation", "productivity-systems", "digital-business"],
+      "context": "Tool recommendations for productivity and business"
+    }
+  ],
+  "migration_mapping": {
+    "AI & Technology": "ai-automation",
+    "Technology & Tools": "ai-automation",
+    "Tech Leaders": "ai-automation",
+    "Personal Finance": "money-investing/personal-finance",
+    "Wealth Building": "money-investing/wealth-building",
+    "Investing Basics": "money-investing/investing",
+    "Career & Skills": "career-skills",
+    "Productivity & Habits": "productivity-systems",
+    "Online Income": "digital-business/online-income",
+    "Digital Products": "digital-business/digital-products",
+    "Content Creation": "digital-business/content-strategy",
+    "Mindset & Growth": "mindset-psychology",
+    "Spiritual & Devotional": "spiritual-devotional",
+    "Health & Wellness": "health-wellness",
+    "Social Issues": "culture-society/social-commentary",
+    "Raksha Bandhan": "culture-society/traditions",
+    "Fashion & Lifestyle": "culture-society/lifestyle",
+    "Education": "knowledge-learning",
+    "History & Science": "knowledge-learning",
+    "Poetry & Literature": "creative-expression",
+    "Lifestyle & Meaning": "creative-expression"
+  }
+}
